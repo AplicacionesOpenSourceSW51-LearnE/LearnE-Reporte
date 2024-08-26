@@ -129,6 +129,7 @@ Profesor: Mori Paiva, Hugo Allan
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
 |Orrego Noriega, Jorge David | u201921734 |Ingenieria de software |C++, Python, SQL y Java|
+|Guía Carrasco, Pedro Andre | u202212010 |Ingeniería de Software |Java, Python, SQL y HTML|
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
