@@ -203,6 +203,96 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 ### 2.3.1. User Personas. <a name ="2.3.1.">
 
 ### 2.3.2. User Task Matrix. <a name ="2.3.2.">
+En esta sección, se presenta el User Task Matrix, que agrupa las principales tareas que los User Personas realizan para cumplir sus objetivos. Los segmentos considerados para este análisis son "Rafael Rojas," un estudiante autodidacta que busca complementar su formación académica con tutorí­as en lí­nea, y "Marcos Rivera," un profesor que utiliza plataformas digitales para impartir clases y gestionar sus materiales educativos. Las siguientes tareas identificadas reflejan las actividades esenciales que estos usuarios realizan independientemente de la existencia de nuestra aplicación web.
+<br>
+
+<table border="1" style="text-align: center;">  
+  <tr>
+    <th style="text-align: center;">Tarea/Persona</th>
+    <th colspan="2" style="text-align: center;">Rafael Rojas</th>
+    <th colspan="2" style="text-align: center;">Marcos Rivera</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Buscar cursos online</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Buscar materiales online</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Agendar tutorí­as</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar en tutorí­as</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Usar plataformas en lí­nea para las tutorí­as</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Diseñar evaluaciones en línea</td>
+    <td>Baja</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Resolver exámenes en lí­nea</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicarse con estudiantes o profesores</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Subir y gestionar materiales educativos a internet</td>
+    <td>Media</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Buscar herramientas tecnológicas en internet para realizar tareas</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+<br>
+En el análisis del User Task Matrix, se observan varias tareas clave que son importantes para cada segmento objetivo. Ambos usuarios consideran la búsqueda de materiales online como una tarea de alta frecuencia e importancia, lo que indica que acceder a recursos es esencial para ellos. Además, la participación en tutorí­as es crucial para ambos, aunque el estudiante participa con menos frecuencia en comparación con el profesor y el uso de plataformas en lí­nea para tutorí­as también es vital para ambos, aunque la frecuencia varí­a. Asimismo, la búsqueda de herramientas tecnológicas es una tarea común de alta importancia para ambos. Existen diferencias significativas en tareas especí­ficas. Por ejemplo, el profesor se involucra más en el diseño de evaluaciones en lí­nea y en la subida y gestión de materiales educativos, mientras que el estudiante le asigna menos frecuencia e importancia a estas actividades. Este análisis destaca tanto las necesidades comunes como las especí­ficas de cada usuario, lo cual es crucial para diseñar un sitio web que aborde efectivamente sus requerimientos.
 
 ### 2.3.3. User Journey Mapping. <a name ="2.3.3.">
 
