@@ -183,6 +183,17 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 
 # Capítulo II: Requirements Elicitation & Analysis <a name ="cap2">
 ## 2.1. Competidores. <a name ="2.1.">
+Khan Academy: 
+Es una organización sin fines de lucro dedicada a proporcionar recursos educativos gratuitos en una amplia variedad de materias, como matemáticas, ciencias, economía y más. Su plataforma ofrece videos educativos, ejercicios interactivos y una interfaz fácil de usar que permite a los estudiantes aprender a su propio ritmo. El acceso es completamente gratuito, gracias al financiamiento que recibe a través de donaciones de particulares, fundaciones y empresas. Su contenido está disponible para cualquier persona con conexión a internet y está dirigido a estudiantes de todas las edades, desde nivel primario hasta universitario.
+
+	
+Platzi:
+Es una plataforma de aprendizaje en línea que se enfoca en desarrollar habilidades tecnológicas, corporativas y creativas. Ofrece una amplia variedad de cursos en áreas como idiomas, programación, marketing, diseño y negocios, todos impartidos por expertos en sus respectivas industrias. Los cursos están diseñados para ser prácticos y directamente aplicables en el entorno profesional. La plataforma ofrece opciones de suscripción mensual o anual, y mantiene una comunidad activa a través de eventos, foros y otras actividades. Está dirigida a estudiantes, profesionales, emprendedores y cualquier persona interesada en aprender de manera autodidacta..
+	
+Udemy:	
+Es una plataforma global de aprendizaje en línea que ofrece cursos en una amplia variedad de temas, que van desde tecnología y negocios hasta desarrollo personal y arte. Los cursos son creados por instructores independientes, lo que da lugar a una gran diversidad en la calidad y el enfoque de los contenidos, con una valiosa influencia de las opiniones de los estudiantes. Los cursos se pueden adquirir de forma individual, aunque también existe un modelo de suscripción pensado para empresas. Está dirigida a cualquier persona que busque adquirir conocimientos específicos o habilidades prácticas en un corto período de tiempo.
+
+
 
 ### 2.1.1. Análisis competitivo. <a name ="2.1.1.">
 
