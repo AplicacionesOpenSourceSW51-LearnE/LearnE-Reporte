@@ -319,6 +319,18 @@ En esta sección, se presenta el User Task Matrix, que agrupa las principales ta
 En el análisis del User Task Matrix, se observan varias tareas clave que son importantes para cada segmento objetivo. Ambos usuarios consideran la búsqueda de materiales online como una tarea de alta frecuencia e importancia, lo que indica que acceder a recursos es esencial para ellos. Además, la participación en tutorí­as es crucial para ambos, aunque el estudiante participa con menos frecuencia en comparación con el profesor y el uso de plataformas en lí­nea para tutorí­as también es vital para ambos, aunque la frecuencia varí­a. Asimismo, la búsqueda de herramientas tecnológicas es una tarea común de alta importancia para ambos. Existen diferencias significativas en tareas especí­ficas. Por ejemplo, el profesor se involucra más en el diseño de evaluaciones en lí­nea y en la subida y gestión de materiales educativos, mientras que el estudiante le asigna menos frecuencia e importancia a estas actividades. Este análisis destaca tanto las necesidades comunes como las especí­ficas de cada usuario, lo cual es crucial para diseñar un sitio web que aborde efectivamente sus requerimientos.
 
 ### 2.3.3. User Journey Mapping. <a name ="2.3.3.">
+En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta. En estos mapas se identifican las etapas, interacciones y puntos de contacto que atraviesan para cumplir sus objetivos educativos. Por un lado, se presenta el recorrido completo que sigue el estudiante, Rafael Rojas, al buscar un curso en una plataforma en lí­nea. Por otro lado, se detalla el recorrido del profesor, Marcos Rivera, al buscar plataformas en línea para publicar un curso y ofrecer tutorí­as.<br>
+
+<ul>
+   <li>
+      <p>Profesor</p>
+      <img src="assets/customer-journey-map-teacher.png" alt="Teacher's customer journey map" title="Teacher's customer journey map">
+   </li>
+   <li>
+      <p>Estudiante</p>
+      <img src="assets/customer-journey-map-student.png" alt="Student's customer journey map" title="Student's customer journey map">
+   </li>
+</ul>
 
 
 ### 2.3.4. Empathy Mapping. <a name ="2.3.4.">
