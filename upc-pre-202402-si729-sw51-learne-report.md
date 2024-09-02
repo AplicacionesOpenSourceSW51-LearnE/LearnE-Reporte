@@ -375,7 +375,28 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 ## 4.1. Style Guidelines. <a name ="4.1.">
 ### 4.1.1. General Style Guidelines. <a name ="4.1.1.">
 
+#### Color Palette
+
+Se eligió una paleta de colores con tonalidades que van desde el púrpura hasta el rosado con el objetivo de transmitir seguridad y confianza en el usuario. Además, 
+
+<img src="assets/ColorPalette.png" alt="Color Palette" title="Color Palette" style="width:40%;">
+
+#### Tipografía 
+
+La tipografía implementada será Bahnschrift dado que es claramente legible en cualquier tamaño de texto, sea un título o parte del cuerpo de un párrafo. Además, sus caracteres curvilíneos reflejan la calma y poca rigidez de nuestro producto. 
+
+Para textos largos se hace uso de Bahnschrift light y para subtítulos Bahnschrift Condensed se consideran las demás variables de Bahnschrift. 
+
+<img src="assets/Tipografia.png" alt="Tipografia" title="Tipografia" style="width:40%;">
+
+#### Branding 
+
+Nuestro logotipo fue hecho con los colores presentados en la paleta de colores, haciendo el uso de morado como el color principal. El sombrero de graduación o también conocido como un birrete expresa la realización que el alumno pueda sentir a la hora de completar satisfactoriamente un curso, además de señalar que nuestra aplicación va dirigida al rubro de aprendizaje. 
+
+<img src="assets/Logo.jpeg" alt="Logo LearnE" title="Logo LearnE" style="width:40%;">
+
 ### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
+
 
 
 ## 4.2. Information Architecture. <a name ="4.2.">
