@@ -11,8 +11,8 @@ Profesor: Mori Paiva, Hugo Allan
 
 ### Integrantes:
 
+- Huanaco Huayta, Elizabeth Lucero - u20211g522
 - Orrego Noriega, Jorge David - u201921734
-
 
 
 # Registro de Versiones del Informe
@@ -32,8 +32,8 @@ Profesor: Mori Paiva, Hugo Allan
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Jorge Orrego: <br> TB1: <br>  |  TB1: <br><br>  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Jorge Orrego: <br> TB1: <br>  | TB1: <br><br>  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br>  |  TB1: <br><br>  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br>  | TB1: <br><br>  |
 
 # Contenido
 
@@ -128,7 +128,8 @@ Profesor: Mori Paiva, Hugo Allan
 
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-| Orrego Noriega, Jorge David | u201921734 | Ingenieria de software |C++, Python, SQL y Java|
+| Orrego Noriega, Jorge David | u201921734 | Ingeniería de software |C++, Python, SQL y Java|
+| Huanaco Huayta, Elizabeth Lucero | u20211g522 | Ingeniería de software |C++, SQL, HTML5, CSS3|
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
