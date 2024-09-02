@@ -423,6 +423,21 @@ Nuestro logotipo fue hecho con los colores presentados en la paleta de colores, 
 
 ## 4.2. Information Architecture. <a name ="4.2.">
 ### 4.2.1. Organization Systems. <a name ="4.2.1.">
+En esta sección el equipo explica en qué grupos de información aplicará cuáles 
+sistemas de organización.
+
+1. Categorización Temática 
+   - Organizar los contenidos de cada curso como matemáticas, fisica, lenguaje, programación, etc.
+2. Niveles de Dificultad
+   - Clasificar los contenidos en diferentes niveles de dificultad, desde principiante hasta senior.
+3. Perfiles de Usuario
+   - Permitir a los usuarios crear perfiles personalizados con información sobre su nivel de habilidad y preferencias de aprendizaje.
+4. Seguimiento del Progreso
+   - Registrar el progreso individual de los usuarios, incluyendo lecciones completadas y ejercicios resueltos.
+5. Sistema de Personalización (Premium)
+   - Ofrecer opciones de personalización para suscriptores, permitiéndoles adaptar la experiencia de aprendizaje a sus preferencias.
+6. Logros
+   - Implementar un sistema de logros para motivar a los usuarios a seguir aprendiendo y alcanzar hitos.
 
 ### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
