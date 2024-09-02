@@ -123,6 +123,12 @@ Profesor: Mori Paiva, Hugo Allan
 ## 1.1. Startup Profile <a name ="1.1.">
 
 ### 1.1.1. Descripción de la Startup <a name ="1.1.1.">
+Cuenta con la capacidad de enseñar las materias académicas de forma lúdica, autodidacta y divertida, haciendo uso de herramientas gráficas con el fin de fomentar la creatividad e ingenio de los clientes para comprender el uso de las materias de aprendizaje a futuro académico o laboral. 
+
+Entre las materias principales se encuentra el uso de las matemáticas, estadística, física, biología, lenguaje, entre otros. Así mismo, el usuario podrá visualizar el temario de los cursos que guste llevar. Además, se incorporarán exámenes semanales para tener en cuenta el rendimiento del usuario en el curso.
+
+Será una aplicación con dos planes de suscripción, el primero es de ámbito freemium, esto quiere decir que solo contará con las funciones básicas y podrá llevar un límite de materias. No obstante, habrá un plan mensual que permitirá al usuario tener gran cantidad de herramientas y cursos asignados.
+
 
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 
@@ -130,6 +136,9 @@ Profesor: Mori Paiva, Hugo Allan
 |-|-|-|-| 
 | Orrego Noriega, Jorge David | u201921734 | Ingeniería de software |C++, Python, SQL y Java|
 | Huanaco Huayta, Elizabeth Lucero | u20211g522 | Ingeniería de software |C++, SQL, HTML5, CSS3|
+|Guía Carrasco, Pedro Andre| u202212010 | Ingeniería de software | Java, Python, SQL y HTML|
+
+
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
@@ -156,6 +165,9 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 
 ### 1.2.2 Lean UX Process. <a name ="1.2.2.">
 #### 1.2.2.1. Lean UX Problem Statements. <a name ="1.2.2.1.">
+Hemos podido observar que existe gente con el deseo de seguir aprendiendo tanto en lo académico como en lo laboral. Sin embargo, muchos se enfrentan a la falta de una metodología de enseñanza adecuada o eficaz que facilite la comprensión profunda de las materias. Los métodos tradicionales de enseñanza a menudo no se adaptan a las necesidades individuales de los estudiantes, lo que resulta en frustración, pérdida de interés y una comprensión superficial de los temas. Además, la falta de acceso a recursos de aprendizaje personalizados limita el crecimiento personal y profesional, afectando negativamente las oportunidades en el mercado laboral.
+Como consecuencia, no podrían comprender temas posteriores porque no tuvieron bases sólidas de aprendizaje en aquellos cursos académicos. Frente a esta problemática, planteamos la siguiente pregunta:
+¿Cómo podríamos promover el aprendizaje de aquellos cursos académicos en las personas autodidactas y didácticas?
 
 #### 1.2.2.2. Lean UX Assumptions. <a name ="1.2.2.2.">
 
@@ -176,12 +188,22 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 |Un supuesto que en caso se pruebe que sea falso pueda causar que el proyecto falle sería la demanda por los servicios ofrecidos en nuestra plataforma. | |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.4.">
+- Creemos que al ofrecer una plataforma de aprendizaje autodidacta y lúdica con herramientas gráficas y tutorías personalizadas, mejoramos la comprensión y retención de conceptos académicos en nuestros usuarios. 
+Sabremos que esta hipótesis es cierta si vemos un aumento en la tasa de finalización de cursos y un feedback positivo en la satisfacción de los usuarios respecto a la claridad y profundidad de los contenidos.
 
+- Creemos que un modelo de suscripción freemium que ofrezca acceso limitado pero efectivo a recursos educativos incentivará a los usuarios a optar por la suscripción mensual para obtener acceso completo a las herramientas y cursos. 
+Sabremos que esta hipótesis es cierta si observamos una tasa de conversión significativa de usuarios del plan freemium al plan mensual, motivados por la necesidad de más recursos para su aprendizaje.
 #### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
 
 ## 1.3. Segmentos objetivo. <a name ="1.3.">
-
-
+| Conceptos | Segmento Objetivo 1 | Segmento Objetivo 2|
+| ---------- | ---------- | ---------- |
+| Variables | Personas a partir de 10 a 25 años que estén dispuestos a mejorar su conocimiento en las materias académicas que requieren tanto en la escuela como en la universidad. | Tutores que cuentan con buen registro de enseñanza hacía jóvenes y adultos. |
+| Geográfica | Perú | Perú |
+| Demográfica | Entre 10 a 25 años de genero masculino o femenino. | De 30 a más con experiencia profesional de genero masculino o femenino. |
+| Psicológica | Están motivados por mejorar su rendimiento académico, curiosos, con mentalidad de crecimiento, y abiertos a nuevas formas de aprendizaje. | Están preocupados por la gran responsabilidad de guiar y educar a sus alumnos, reflexionando sobre cómo mejorar su enseñanza y hacer el contenido accesible para todos. |
+| Funcion de comportamientos | Actitudes: Positivos hacia el aprendizaje digital, buscan soluciones innovadoras para mejorar su comprensión en diferentes materias. Conocimientos: Familiarizados con el uso de dispositivos tecnológicos, pero pueden tener diferentes niveles de conocimientos previos en materias académicas. | Actitudes: Compromiso con el aprendizaje, demostrando paciencia, empatía, y una disposición a guiar y motivar. Conocimientos: Utiliza sus conocimientos no solo para transmitir información, sino también para diseñar experiencias de aprendizaje significativas.|
+||
 # Capítulo II: Requirements Elicitation & Analysis <a name ="cap2">
 ## 2.1. Competidores. <a name ="2.1.">
 Khan Academy: 
