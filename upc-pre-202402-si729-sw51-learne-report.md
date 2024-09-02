@@ -212,7 +212,19 @@ Es una plataforma global de aprendizaje en línea que ofrece cursos en una ampli
 
 ## 2.3. Needfinding. <a name ="2.3.">
 ### 2.3.1. User Personas. <a name ="2.3.1.">
-En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
+En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.<br>
+
+<ul>
+   <li>
+      <p>Profesor</p>
+      <img src="assets/user-person-teacher.png" alt="Teacher's user person" title="Teacher's user person">
+   </li>
+   <li>
+      <p>Estudiante</p>
+      <img src="assets/user-person-student.png" alt="Student's user person" title="Student's user person">
+   </li>
+</ul>
+
 
 ### 2.3.2. User Task Matrix. <a name ="2.3.2.">
 En esta sección, se presenta el User Task Matrix, que agrupa las principales tareas que los User Personas realizan para cumplir sus objetivos. Los segmentos considerados para este análisis son "Rafael Rojas," un estudiante autodidacta que busca complementar su formación académica con tutorí­as en lí­nea, y "Marcos Rivera," un profesor que utiliza plataformas digitales para impartir clases y gestionar sus materiales educativos. Las siguientes tareas identificadas reflejan las actividades esenciales que estos usuarios realizan independientemente de la existencia de nuestra aplicación web.
