@@ -473,9 +473,10 @@ sistemas de organización.
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 
 ### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
+<img src="assets/SystemContext.png" alt="Diagrama de Contexto" title="SystemContext" style="width:100%;">
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
-
+<img src="assets/Container.png" alt="Diagrama de Contenedores" title="Container" style="width:190%">
 
 ### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 
