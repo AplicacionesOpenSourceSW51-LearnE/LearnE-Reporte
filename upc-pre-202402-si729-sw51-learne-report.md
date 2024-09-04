@@ -1,18 +1,53 @@
-# Universidad Peruana de Ciencias Aplicadas
+<p align="center" id="caratula">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>SI729 Aplicaciones Open Source | SECCIÓN SW51</strong><br>
+    <strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
+    <br>INFORME DE TRABAJO FINAL
+</p>
+<p align="center">
+    <strong>Startup: LearnE</strong><br>
+    <strong>Producto: LearnE</strong>
+</p>
 
-# INGENIERÍA DE SOFTWARE
+<div>
+    <h3 align="center">Integrantes:</h3>
+</div>
 
-## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW51 | 2024-2
+<div align="center">
+     <table>
+        <tr>
+            <th style="text-align:center;">Integrante</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Orrego Noriega, Jorge David</td>
+            <td>u201921734</td>
+        </tr>
+        <tr>
+            <td>Huanaco Huayta, Elizabeth Lucero </td>
+            <td>u20211g522</td>
+        </tr>
+        <tr>
+            <td>Guía Carrasco, Pedro Andre </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>nombre</td>
+            <td>codigo</td>
+        </tr>
+        <tr>
+            <td>nombre</td>
+            <td>codigo</td>
+        </tr>
+    </table>
+</div>
 
-Profesor: Mori Paiva, Hugo Allan
+<p align="center">
+    <strong>Setiembre 2024</strong>
+</p>
 
-# Informe TF
-**Startup:** LearnE
-
-### Integrantes:
-
-- Huanaco Huayta, Elizabeth Lucero - u20211g522
-- Orrego Noriega, Jorge David - u201921734
 
 
 # Registro de Versiones del Informe
@@ -132,11 +167,117 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
 
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-| 
-| Orrego Noriega, Jorge David | u201921734 | Ingeniería de software |C++, Python, SQL y Java|
-| Huanaco Huayta, Elizabeth Lucero | u20211g522 | Ingeniería de software |C++, SQL, HTML5, CSS3|
-|Guía Carrasco, Pedro Andre| u202212010 | Ingeniería de software | Java, Python, SQL y HTML|
+<table align="center" border="1" width="70%" style="text-align:center; border-collapse: collapse;">
+  <!-- Huanaco Huayta, Elizabeth Lucero -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Elizabeth Lucero Huanaco Huayta
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+         Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!-- Pedro Andre Guía Carrasco -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/>
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Pedro Andre Guía Carrasco
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!--  -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Colocar nombre
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+  </tr>
+  <!--  -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+      Colocar nombre
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!-- Jorge David Orrego Noriega -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="assets/JorgeOrrego.png" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+      Jorge David Orrego Noriega
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Estudio actualmente la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la cual me encuentro estudiando esta carrera es porque siempre he tenido un interés particular por la tecnología, con un mayor énfasis en el software.
+    </td>
+  </tr>
+</table>
 
 
 
@@ -365,8 +506,9 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 ## 2.4. Ubiquitous Language. <a name ="2.4.">
 
-
-
+1. **Cursos virtuales:** Son cursos de diferentes materias que se brindan en plataformas de aprendizaje virtual. Cuentan con material como videos, documentos de teoría y/o exámenes periódicos.  
+2. **Tutores:** Son profesores que ejercen la labor de orientar al estudiante en una sesión corta y previamente agendada en un tema en específico. 
+3. **Alumnos:** Son estudiantes que desean inscribirse en un curso de cualquier plataforma de aprendizaje. Para ello, tendrán que crearse una cuenta en la plataforma. 
 
 # Capítulo III: Requirements Specification <a name ="cap3">
 ## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
@@ -454,8 +596,19 @@ sistemas de organización.
 ## 4.3. Landing Page UI Design. <a name ="4.3.">
 ### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
 
+<img src="assets/LandingPageWF1.png" alt="Landing Page WF1" title="Landing Page WF1">
+
+<img src="assets/LandingPageWF2.png" alt="Landing Page WF2" title="Landing Page WF2">
+
 
 ### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
+
+<img src="assets/LandingPageMK1.png" alt="Landing Page MK1" title="Landing Page MK1">
+
+<img src="assets/LandingPageMK2.png" alt="Landing Page MK2" title="Landing Page MK2">
+
+
+**Enlace para ver el Figma:** https://www.figma.com/design/hnp3YEhTSCtPJYefiEQyfm/LearnE-Landing-Page?node-id=0-1&t=F1hZNoovfjKbmniN-1 
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
@@ -501,7 +654,30 @@ sistemas de organización.
 
 ### 5.1.1. Software Development Environment Configuration. <a name ="5.1.1.">
 
+### Requirements Management
+   1. UXPressia: Es una herramienta de diseño utilizada principalmente para crear user personas, empathy mappings, impact maps, etc. Con esta hemos desarrollado la mayoría de gráficos vistos en los capítulos II y III. Enlace de referencia: <https://uxpressia.com/>
+   2. Vertabelo: Plataforma especializada en crear diseños para bases de datos de manera colaborativa. En esta hemos creado nuestro diseño de la base de datos de LearnE. Enlace de referencia <https://vertabelo.com/>
+   3. Figma: Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow Diagrams. Enlace de referencia: <https://www.figma.com/>
+### Software Development
+   1. JetBrains WebStorm: Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de ejecutar nuestra aplicación web (frontend) que nos permita ver los cambios al programa en tiempo real cuando se edita el código. Enlace de referencia https://www.jetbrains.com/es-es/webstorm/
+   2. IntelliJ IDEA Ultimate: Entorno de desarrollo de software especializado en el desarrollo de aplicaciones con el lenguaje de programación Java. Lo vamos a utilizar a la hora de desarrollar el backend con OpenJDK. Enlace de referencia: https://www.jetbrains.com/es-es/idea/ 
+   3. HTML5: Es un lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. En este caso vamos a utilizar su última versión en la creación tanto de la landing page como del frontend en complemento con otras herramientas. Enlace de referencia: https://www.w3schools.com/html/
+   4. CSS: Cascading Style Sheets o CSS es lenguaje de diseño gráfico nos permite complementar a HTML5 para aplicar estilos con más precisión y control. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/CSS
+   5. JavaScript: Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la landing page. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+   6. TypeScript: Lenguaje de programación derivado de JavaScript, con la diferencia que este es fuertemente tipado. Enlace de referencia: https://www.typescriptlang.org/ 
+   7. Java: Lenguaje de programación oriendado a objetos que utilizaremos en el desarrollo del backend 
+   8. OpenJDK: Kit de desarrollo de Java de código abierto que utilizaremos en el desarrollo del backend. Enlace de referencia: https://openjdk.org/ 
+   9. MySQL: Motor de base de datos que utilizaremos en el desarrollo de nuestro backend. Se eligió por ser más simple de administrar que otros motores de bases de datos. Enlace de referencia: https://www.mysql.com/ 
+    
+### Software Deployment
+   1. GitHub Pages: Servicio de hosting para páginas web de GitHub que nos permite desplegar de una manera más sencilla, ya que solo tenemos que subir el proyecto a un repositorio sin mucha configuración por nuestra parte para que funcione. Se utilizará para desplegar la landing page. Enlace de referencia: https://pages.github.com/ 
+   2. Google Firebase: Servicio de hosting de Google para páginas web que nos permiten desplegar aplicaciones web más complejas. Requiere de una configuración previa por el desarrollador en su proyecto para desplegarlo. Se utilizará para desplegar el frontend de nuestra aplicación web. Enlace de referencia: https://firebase.google.com 
+   3. Microsoft Azure: Plataforma de computación en la nube que nos permite desplegar una gran variedad de aplicaciones. En este caso la utilizaremos para desplegar tanto nuestra base de datos MySQL como nuestro backend. Enlace de referencia: https://azure.microsoft.com/es-es/
 
+### Software Documentation and Project Management
+   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Ruta de referencia: https://git-scm.com/
+   2. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Ruta de referencia https://github.com/
+   
 
 ### 5.1.2. Source Code Management. <a name ="5.1.2.">
 
