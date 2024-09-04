@@ -632,7 +632,23 @@ sistemas de organización.
 <img src="assets/Container.png" alt="Diagrama de Contenedores" title="Container" style="width:190%">
 
 ### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
+- Log/Register
+<img src="assets/Component Log_Register.png" alt="Loggin and Register" title="Component_1" style="heigth:150%">
 
+- Library
+<img src="assets/Component Library.png" alt="Library" title="Component_2" style="heigth:150%">
+
+- Search
+<img src="assets/Component Search.png" alt="Search" title="Component_3" style="heigth:150%">
+
+- Courses
+<img src="assets/Component Courses.png" alt="Courses" title="Component_4" style="heigth:150%">
+
+- Suscription
+<img src="assets/Component Suscription.png" alt="Suscription" title="Component_5" style="heigth:150%">
+
+- Note book
+<img src="assets/Component Note book.png" alt="Note book" title="Component_6" style="heigth:150%">
 
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 
