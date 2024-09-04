@@ -34,8 +34,8 @@
             <td></td>
         </tr>
         <tr>
-            <td>nombre</td>
-            <td>codigo</td>
+            <td>Huapaya Cuevas, Anthony Martin</td>
+            <td>u202220235</td>
         </tr>
         <tr>
             <td>nombre</td>
@@ -212,14 +212,14 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
       Colocar descripción
     </td>
   </tr>
-  <!--  -->
+  <!-- Anthony Martin Huapaya Cuevas -->
   <tr align="center">
     <td rowspan="3" width="30%">
       <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
-         Colocar nombre
+         Anthony Martin Huapaya Cuevas
     </td>
   </tr>
   <tr>
@@ -231,7 +231,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <tr>
     <td align="left" style="padding: 10px;">
       <b>Acerca de:</b><br>
-      Colocar descripción
+      Estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la que escogí estudiar esa carrera es por el enfoque de la tecnología, la cual decidí enfocarme en el apartado de la programación del software.
   </tr>
   <!--  -->
   <tr align="center">
@@ -335,6 +335,76 @@ Sabremos que esta hipótesis es cierta si vemos un aumento en la tasa de finaliz
 - Creemos que un modelo de suscripción freemium que ofrezca acceso limitado pero efectivo a recursos educativos incentivará a los usuarios a optar por la suscripción mensual para obtener acceso completo a las herramientas y cursos. 
 Sabremos que esta hipótesis es cierta si observamos una tasa de conversión significativa de usuarios del plan freemium al plan mensual, motivados por la necesidad de más recursos para su aprendizaje.
 #### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
+<table border="1" style="text-align: left;">  
+  <tr>
+    <th style="text-align: center;">Business Problem</th>
+    <th style="text-align: center;">Solution Ideas</th>
+    <th style="text-align: center;">Business Outcomes</th>
+  </tr>
+  <tr>
+    <td>
+        <ul>
+            <li>Personas que quieren continuar aprendiendo, pero se enfrentan a la falta de metodologías eficaces.</li>
+            <li>La falta de adaptabilidad con respecto a las metodologías tradicionales.</li>
+        </ul>
+    </td>
+    <td rowspan="2">
+        <ul>
+            <li>Se visualiza el aumento en la tasa de finalización de cursos y un feedback positivo en la satisfacción de los usuarios respecto a la claridad y profundidad de los contenidos.</li>
+            <li>Al ver una tasa de conversión significativa de usuarios del plan freemium al plan mensual, motivados por la necesidad de más recursos para su aprendizaje.</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Aumento de aprobación en los estudios con respecto a cada curso.</li>
+            <li>Aumento de suscripciones mensuales más que el uso de cuentas freemium.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Users</th>
+    <th style="text-align: center;">User Benefits</th>
+  </tr>
+  <tr>
+    <td>
+        <ul>
+            <li>Profesores</li>
+            <li>Alumnos</li>
+        </ul>
+    </td>
+    <th style="text-align: center;">What’s the most important thing we need to learn first?</th>
+    <td>
+        <ul>
+            <li>En los alumnos se ve una mejora en sus rendimientos académicos.</li>
+            <li>Los profesores tienen comodidad al momento de explayarse en la clase.</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Hypotheses</th>
+    <td rowspan="2">
+        <ul>
+            <li>Entender los problemas que sufren los estudiantes al momento de aprender las tutorías en línea.</li>
+            <li>Comprender el funcionamiento de los sistemas de subscripciones con respecto al tema de aprendizaje.</li>
+        </ul>
+    </td>
+    <th style="text-align: center;">What’s the least amount of work we need to do learn the next most important thing?</th>
+  </tr>
+  <tr>
+    <td>
+        <ul>
+            <li>Creemos que una plataforma de aprendizaje autodidacta y lúdica con herramientas gráficas y tutorías personalizadas mejorará la comprensión y retención de conceptos académicos en nuestros usuarios.</li>
+            <li>Creemos que un modelo de suscripción freemium limitado pero efectivo con respectos a los recursos educativos incentivará la suscripción mensual para obtener acceso completo a las herramientas y cursos.</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Entrevistar a los alumnos y profesores con respecto en como usan las plataformas en línea con respecto al tema de aprendizaje.</li>
+            <li>Constantes feedback con respecto a los alumnos que se muestran interesados en usar la plataforma y como poder mejorarla.</li>
+        </ul>
+    </td>
+  </tr>
+</table>
 
 ## 1.3. Segmentos objetivo. <a name ="1.3.">
 | Conceptos | Segmento Objetivo 1 | Segmento Objetivo 2|
@@ -498,11 +568,32 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 
 ### 2.3.4. Empathy Mapping. <a name ="2.3.4.">
+Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Marcos Rivera", quien es el profesor que enseña de manera virtual en plataformas como Zoom o Meet. El segundo es "Rafael Rojas", quien es un estudiante que tiene ganas de aprender más, a parte del insituto que estudia.<br>
+
+<ul>
+  <li>
+    <p>Profesor</p>
+    <img src="assets/Marcos Rivera Emphaty Map.png" alt="Teacher's Empathy Map">
+  </li>
+  <li>
+    <p>Estudiante</p>
+    <img src="assets/Rafael Rojas Emphaty Map.png" alt="Student's Empathy Map">
+  </li>
+</ul>
 
 ### 2.3.5. As-is Scenario Mapping. <a name ="2.3.5.">
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso lo que son las clases en línea, presentando para nuestro proyecto el problema al momento de las clases virtuales, tomando el punto de vista del estudiante y el profesor como ejes principales para explicar el problema.<br>
 
-
-
+<ul>
+  <li>
+    <p>Profesor</p>
+    <img src="assets/As-Is Profesor.jpg" alt="Teacher's As-Is Scenario">
+  </li>
+  <li>
+    <p>Estudiante</p>
+    <img src="assets/As-Is Estudiante.jpg" alt="Student's As-Is Scenario">
+  </li>
+</ul>
 
 ## 2.4. Ubiquitous Language. <a name ="2.4.">
 
@@ -512,9 +603,18 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 # Capítulo III: Requirements Specification <a name ="cap3">
 ## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
+Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el posible escenario sobre el problema después de que le demos una solución, en este caso usaremos las clases en línea, presentando cómo nuestro proyecto ayuda a solucionar el problema de las clases virtuales, tomando el punto de vista del estudiante y el profesor como ejes principales para explicarlo.<br>
 
-
-
+<ul>
+  <li>
+    <p>Profesor</p>
+    <img src="assets/To-Be Profesor.jpg" alt="Teacher's As-Is Scenario">
+  </li>
+  <li>
+    <p>Estudiante</p>
+    <img src="assets/To-Be Estudiante.jpg" alt="Student's As-Is Scenario">
+  </li>
+</ul>
 
 ## 3.2. User Stories. <a name ="3.2.">
 
@@ -527,7 +627,9 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 | HU05 | Ver descripción de la plataforma en la landing page | Como visitante de la landing page quiero visualizar un breve y llamativo resumen del funcionamiento de la plataforma para así tener una mejor idea de los beneficios que me pueda brindar. | **Escenario 1:** El visitante logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, cuando este lea la descripción de la aplicación y de los servicios que se ofrecen, entonces el visitante tendrá una idea clara de cómo la aplicación le puede beneficiar personalmente. <br> <br> **Escenario 2:** El visitante no logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, cuando esté lea la descripción de la aplicación y de los servicios que se ofrecen, y no entienda con exactitud el propósito y los beneficios de la aplicación, entonces el visitante no se verá interesado en la aplicación.|         |
 
 ## 3.3. Impact Mapping. <a name ="3.3.">
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.<br>
 
+<img src="assets/Impact map OS.png" alt="Impact Mapping">
 
 ## 3.4. Product Backlog. <a name ="3.4.">
 
