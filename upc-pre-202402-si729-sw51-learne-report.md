@@ -454,8 +454,19 @@ sistemas de organización.
 ## 4.3. Landing Page UI Design. <a name ="4.3.">
 ### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
 
+<img src="assets/LandingPageWF1.png" alt="Landing Page WF1" title="Landing Page WF1">
+
+<img src="assets/LandingPageWF2.png" alt="Landing Page WF2" title="Landing Page WF2">
+
 
 ### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
+
+<img src="assets/LandingPageMK1.png" alt="Landing Page MK1" title="Landing Page MK1">
+
+<img src="assets/LandingPageMK2.png" alt="Landing Page MK2" title="Landing Page MK2">
+
+
+**Enlace para ver el Figma:** https://www.figma.com/design/hnp3YEhTSCtPJYefiEQyfm/LearnE-Landing-Page?node-id=0-1&t=F1hZNoovfjKbmniN-1 
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
