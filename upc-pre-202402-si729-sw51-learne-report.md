@@ -1,18 +1,53 @@
-# Universidad Peruana de Ciencias Aplicadas
+<p align="center" id="caratula">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>SI729 Aplicaciones Open Source | SECCIÓN SW51</strong><br>
+    <strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
+    <br>INFORME DE TRABAJO FINAL
+</p>
+<p align="center">
+    <strong>Startup: LearnE</strong><br>
+    <strong>Producto: LearnE</strong>
+</p>
 
-# INGENIERÍA DE SOFTWARE
+<div>
+    <h3 align="center">Integrantes:</h3>
+</div>
 
-## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW51 | 2024-2
+<div align="center">
+     <table>
+        <tr>
+            <th style="text-align:center;">Integrante</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Orrego Noriega, Jorge David</td>
+            <td>u201921734</td>
+        </tr>
+        <tr>
+            <td>Huanaco Huayta, Elizabeth Lucero </td>
+            <td>u20211g522</td>
+        </tr>
+        <tr>
+            <td>Guía Carrasco, Pedro Andre </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>nombre</td>
+            <td>codigo</td>
+        </tr>
+        <tr>
+            <td>nombre</td>
+            <td>codigo</td>
+        </tr>
+    </table>
+</div>
 
-Profesor: Mori Paiva, Hugo Allan
+<p align="center">
+    <strong>Setiembre 2024</strong>
+</p>
 
-# Informe TF
-**Startup:** LearnE
-
-### Integrantes:
-
-- Huanaco Huayta, Elizabeth Lucero - u20211g522
-- Orrego Noriega, Jorge David - u201921734
 
 
 # Registro de Versiones del Informe
@@ -132,11 +167,117 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
 
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-| 
-| Orrego Noriega, Jorge David | u201921734 | Ingeniería de software |C++, Python, SQL y Java|
-| Huanaco Huayta, Elizabeth Lucero | u20211g522 | Ingeniería de software |C++, SQL, HTML5, CSS3|
-|Guía Carrasco, Pedro Andre| u202212010 | Ingeniería de software | Java, Python, SQL y HTML|
+<table align="center" border="1" width="70%" style="text-align:center; border-collapse: collapse;">
+  <!-- Huanaco Huayta, Elizabeth Lucero -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Elizabeth Lucero Huanaco Huayta
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+         Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!-- Pedro Andre Guía Carrasco -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/>
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Pedro Andre Guía Carrasco
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!--  -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Colocar nombre
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+  </tr>
+  <!--  -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+      Colocar nombre
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
+  <!-- Jorge David Orrego Noriega -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="assets/JorgeOrrego.png" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+      Jorge David Orrego Noriega
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Estudio actualmente la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la cual me encuentro estudiando esta carrera es porque siempre he tenido un interés particular por la tecnología, con un mayor énfasis en el software.
+    </td>
+  </tr>
+</table>
 
 
 
@@ -365,8 +506,9 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 ## 2.4. Ubiquitous Language. <a name ="2.4.">
 
-
-
+1. **Cursos virtuales:** Son cursos de diferentes materias que se brindan en plataformas de aprendizaje virtual. Cuentan con material como videos, documentos de teoría y/o exámenes periódicos.  
+2. **Tutores:** Son profesores que ejercen la labor de orientar al estudiante en una sesión corta y previamente agendada en un tema en específico. 
+3. **Alumnos:** Son estudiantes que desean inscribirse en un curso de cualquier plataforma de aprendizaje. Para ello, tendrán que crearse una cuenta en la plataforma. 
 
 # Capítulo III: Requirements Specification <a name ="cap3">
 ## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
