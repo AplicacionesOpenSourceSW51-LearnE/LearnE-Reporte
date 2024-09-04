@@ -233,14 +233,14 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
       <b>Acerca de:</b><br>
       Colocar descripción
   </tr>
-  <!--  -->
+  <!-- Pedro Guia -->
   <tr align="center">
     <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+      <img src="assets/perfil.png" alt="perfilPG" style="margin-bottom: 5px;" width="200"/> 
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
-      Colocar nombre
+      Pedro Andre Guia Carrasco
     </td>
   </tr>
   <tr>
@@ -252,7 +252,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <tr>
     <td align="left" style="padding: 10px;">
       <b>Acerca de:</b><br>
-      Colocar descripción
+      Estudio en la Universidad Peruana de Ciencias Aplicadas la carrera de Ingenieria de Software, voy por mi 6° ciclo academico y la razón por la que escogi esta carrera es por el futuro innovador que brindara a la sociedad.
     </td>
   </tr>
   <!-- Jorge David Orrego Noriega -->
