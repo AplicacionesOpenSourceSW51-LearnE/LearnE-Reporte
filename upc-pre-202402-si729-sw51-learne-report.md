@@ -675,8 +675,8 @@ sistemas de organización.
    3. Microsoft Azure: Plataforma de computación en la nube que nos permite desplegar una gran variedad de aplicaciones. En este caso la utilizaremos para desplegar tanto nuestra base de datos MySQL como nuestro backend. Enlace de referencia: https://azure.microsoft.com/es-es/
 
 ### Software Documentation and Project Management
-   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Ruta de referencia: https://git-scm.com/
-   2. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Ruta de referencia https://github.com/
+   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Enlace de referencia: https://git-scm.com/
+   2. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Enlace de referencia https://github.com/
    
 
 ### 5.1.2. Source Code Management. <a name ="5.1.2.">
