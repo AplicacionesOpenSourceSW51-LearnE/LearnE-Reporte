@@ -54,6 +54,11 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 17/08/2024 | Grupo LearnE | Se crea el documento y plantilla de trabajo |
+| 1.0 | 22/08/2024 | Grupo LearnE | Se crea la organización y repositorio en GitHub. |
+| 2.0 | 25/08/2024 | Grupo LearnE |Desarrollo del Capitulo I: Introducción|
+| 3.0 | 27/08/2024 | Grupo LearnE |Desarrollo del Capitulo II: Requeriments Elicitation & Analysis|
+| 4.0 | 29/09/2024 | Grupo LearnE |Desarrollo del Capitulo III: Requirements Specification|
+| 5.0 | 31/09/2024 | Grupo LearnE |Desarrollo del Capitulo IV: Product Design|
 
 
 # Project Report Collaboration Insights
