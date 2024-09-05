@@ -72,8 +72,8 @@
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br>  <br><br> Pedro Guia: <br> TB1: <br> La descripción de la Startup nos dejo en claro al momento de identificar la misión y vision que nos proponemos a cumplir durante el proyecto. Las reuniones realizadas fueron parte de este logro.|  TB1: <br><br> | 
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br>  <br><br> Pedro Guia: <br> TB1: <br> La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.| TB1: <br><br>  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br><br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas. <br><br> |  TB1: <br><br>  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web.<br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br><br> Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br><br>  | TB1: <br><br>  |
 
 # Contenido
 
@@ -195,32 +195,10 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
       Colocar descripción
     </td>
   </tr>
-  <!--  -->
-  <tr align="center">
-    <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/>
-    </td>
-    <td align="left" style="padding: 10px;">
-      <b>Nombre y Apellido:</b><br>
-         Colocar Nombre
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 10px;">
-      <b>Carrera:</b><br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 10px;">
-      <b>Acerca de:</b><br>
-      Colocar descripción
-    </td>
-  </tr>
   <!-- Anthony Martin Huapaya Cuevas -->
   <tr align="center">
     <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+      <img src="assets/AnthonyHuapaya.jpg" alt="" style="margin-bottom: 5px;" width="200"/> 
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
@@ -648,7 +626,7 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 
 #### Color Palette
 
-Se eligió una paleta de colores con tonalidades que van desde el púrpura hasta el rosado con el objetivo de transmitir seguridad y confianza en el usuario. Además, 
+Se eligió una paleta de colores con tonalidades que van desde el púrpura hasta el rosado con el objetivo de transmitir seguridad y confianza en el usuario.
 
 <img src="assets/ColorPalette.png" alt="Color Palette" title="Color Palette" style="width:40%;">
 
@@ -668,7 +646,17 @@ Nuestro logotipo fue hecho con los colores presentados en la paleta de colores, 
 
 ### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
 
+**Elementos visuales (Imágenes y videos):**
 
+Se van a incluir imágenes y videos con objetivos distintos. Las imágenes pueden variar desde íconos en un menú de opciones hasta la foto de perfil de un usuario. Los videos se van a implementar como una parte del contenido didáctico de la plataforma. 
+
+**Botones:**
+
+Como parte de la interacción del usuario con nuestro sitio web, es necesario implementar botones para confirmar o realizar una acción. Su diseño va a seguir lo impuesto en el apartado de General Style Guidelines, y se tendrán que distinguir fácilmente de otros apartados gráficos en las páginas web de la aplicación. Se van a poder encontrar en toda la implementación de la aplicación web, ya sea al final de un formulario o dentro de un menú de opciones. 
+
+**Formularios:**
+
+También se utilizarán formularios en páginas dedicadas al inicio de sesión, registro de usuario, cambio de datos en el perfil de un usuario, etc. Estos se van a implementar de acuerdo al tipo de usuario que se ha identificado, que en nuestro caso sería un alumno que desee llevar un curso virtual y un tutor o profesor que desee complementar los cursos del alumno. 
 
 ## 4.2. Information Architecture. <a name ="4.2.">
 ### 4.2.1. Organization Systems. <a name ="4.2.1.">
@@ -690,15 +678,44 @@ sistemas de organización.
 
 ### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
+Como parte del diseño de la aplicación, se utilizarán etiquetas en la parte superior de la página web para indicar cuál es el contenido que está viendo. Además, se podrá interactuar con ellas para acceder a las demás secciones y funcionalidades de la aplicación. 
+
+**Etiquetas antes de iniciar sesión:** Inicio, Conoce Más, Acerca de Nosotros, Regístrate, Log In, Suscríbete. 
+
+**Etiquetas después de iniciar sesión:** Mis cursos, Actividades, Historial de Cursos, Calendario, Planes, Mis notas, Perfil, Cerrar Sesión.
+
 
 ### 4.2.3. SEO Tags and Meta Tags <a name ="4.2.3.">
+
+**Meta & SEO (Search Engine Optimization) Tags:** 
+
+Los SEO (Search Engine Optimization) y Meta tags son datos que sirven para identificar nuestro sitio web, los cuales solo son leídos por los navegadores web o los rastreadores web. Además, ayudan a que nuestro sitio pueda ser visualizado en buscadores web como Google o Bing. 
+
+**Título:**  ```<title> LearnE, aprender con estilo </title>```
+
+**Codificación:** ```<meta charset=”utf-8”>```
+
+**Descripción:** ```<meta name=”descripcion” content=”LearnE es una plataforma web que te brindará acceso a cursos de distintos temas con amplia información ¡Inscríbete Ahora!” />```
+
+**Meta Robots Tag:** ```<meta name= “robots” content=“index,follow”>```
+
+**Meta Keywords Tag:** ```<meta name="keywords" content="learning, online classes, online courses, self learning” />```
+
+**Meta Author Tag:** 
+* ```<meta name= “autor” content=“LearnE”>```
+* ```<meta name="copyright" content="Copyright LearnE Group" />```
 
 
 ### 4.2.4. Searching Systems. <a name ="4.2.4.">
 
+Los usuarios podrán buscar el tipo de contenido que deseen por medio de un menú que se presentará en la página principal del sitio luego de haber iniciado sesión. En este se podrán ver los cursos inscritos, las actividades, el historial de cursos, el calendario, los planes de suscripción, las notas alcanzadas en los cursos, el perfil del estudiante y la opción de cerrar sesión. También se incluirá una barra de búsqueda en la parte superior de la pantalla para facilitar la búsqueda de información o secciones de la aplicación.
+
 
 ### 4.2.5. Navigation Systems. <a name ="4.2.5.">
 
+El sistema de navegación de nuestro sitio web consta de menús de navegación superior e inferior dentro de la landing page, en los cuales podrás elegir las opciones de inicio de sesión, registrarse, leer sobre el equipo de desarrollo y las suscripciones disponibles. También se podrá desplazar verticalmente por las páginas del sitio para mostrar más información. 
+
+Luego de haber iniciado sesión, el usuario accederá a un menú de carácter jerárquico en el cual se mostrarán las opciones principales de la aplicación al lado izquierdo de la pantalla (mis cursos, actividades, historial de cursos, calendario, planes, mis notas, perfil). Cada una de estas opciones te llevará a su respectiva página, de la cual podrás regresar al menú anterior seleccionando una opción de regresar a la siguiente página. Cada menú del sitio cuenta con botones que pueden ser distinguidos con facilidad de otros objetos en la interfaz, lo cual ayudará de una manera significativa con la navegación. 
 
 ## 4.3. Landing Page UI Design. <a name ="4.3.">
 ### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
@@ -778,28 +795,28 @@ sistemas de organización.
 ### 5.1.1. Software Development Environment Configuration. <a name ="5.1.1.">
 
 ### Requirements Management
-   1. UXPressia: Es una herramienta de diseño utilizada principalmente para crear user personas, empathy mappings, impact maps, etc. Con esta hemos desarrollado la mayoría de gráficos vistos en los capítulos II y III. Enlace de referencia: <https://uxpressia.com/>
-   2. Vertabelo: Plataforma especializada en crear diseños para bases de datos de manera colaborativa. En esta hemos creado nuestro diseño de la base de datos de LearnE. Enlace de referencia <https://vertabelo.com/>
-   3. Figma: Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow Diagrams. Enlace de referencia: <https://www.figma.com/>
+   1. **UXPressia:** Es una herramienta de diseño utilizada principalmente para crear user personas, empathy mappings, impact maps, etc. Con esta hemos desarrollado la mayoría de gráficos vistos en los capítulos II y III. Enlace de referencia: <https://uxpressia.com/>
+   2. **Vertabelo:** Plataforma especializada en crear diseños para bases de datos de manera colaborativa. En esta hemos creado nuestro diseño de la base de datos de LearnE. Enlace de referencia <https://vertabelo.com/>
+   3. **Figma:** Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow Diagrams. Enlace de referencia: <https://www.figma.com/>
 ### Software Development
-   1. JetBrains WebStorm: Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de ejecutar nuestra aplicación web (frontend) que nos permita ver los cambios al programa en tiempo real cuando se edita el código. Enlace de referencia https://www.jetbrains.com/es-es/webstorm/
-   2. IntelliJ IDEA Ultimate: Entorno de desarrollo de software especializado en el desarrollo de aplicaciones con el lenguaje de programación Java. Lo vamos a utilizar a la hora de desarrollar el backend con OpenJDK. Enlace de referencia: https://www.jetbrains.com/es-es/idea/ 
-   3. HTML5: Es un lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. En este caso vamos a utilizar su última versión en la creación tanto de la landing page como del frontend en complemento con otras herramientas. Enlace de referencia: https://www.w3schools.com/html/
-   4. CSS: Cascading Style Sheets o CSS es lenguaje de diseño gráfico nos permite complementar a HTML5 para aplicar estilos con más precisión y control. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/CSS
-   5. JavaScript: Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la landing page. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
-   6. TypeScript: Lenguaje de programación derivado de JavaScript, con la diferencia que este es fuertemente tipado. Enlace de referencia: https://www.typescriptlang.org/ 
-   7. Java: Lenguaje de programación oriendado a objetos que utilizaremos en el desarrollo del backend 
-   8. OpenJDK: Kit de desarrollo de Java de código abierto que utilizaremos en el desarrollo del backend. Enlace de referencia: https://openjdk.org/ 
-   9. MySQL: Motor de base de datos que utilizaremos en el desarrollo de nuestro backend. Se eligió por ser más simple de administrar que otros motores de bases de datos. Enlace de referencia: https://www.mysql.com/ 
+   1. **JetBrains WebStorm:** Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de ejecutar nuestra aplicación web (frontend) que nos permita ver los cambios al programa en tiempo real cuando se edita el código. Enlace de referencia https://www.jetbrains.com/es-es/webstorm/
+   2. **IntelliJ IDEA Ultimate:** Entorno de desarrollo de software especializado en el desarrollo de aplicaciones con el lenguaje de programación Java. Lo vamos a utilizar a la hora de desarrollar el backend con OpenJDK. Enlace de referencia: https://www.jetbrains.com/es-es/idea/ 
+   3. **HTML5:** Es un lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. En este caso vamos a utilizar su última versión en la creación tanto de la landing page como del frontend en complemento con otras herramientas. Enlace de referencia: https://www.w3schools.com/html/
+   4. **CSS:** Cascading Style Sheets o CSS es lenguaje de diseño gráfico nos permite complementar a HTML5 para aplicar estilos con más precisión y control. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/CSS
+   5. **JavaScript:** Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la landing page. Enlace de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+   6. **TypeScript:** Lenguaje de programación derivado de JavaScript, con la diferencia que este es fuertemente tipado. Enlace de referencia: https://www.typescriptlang.org/ 
+   7. **Java:** Lenguaje de programación oriendado a objetos que utilizaremos en el desarrollo del backend 
+   8. **OpenJDK:** Kit de desarrollo de Java de código abierto que utilizaremos en el desarrollo del backend. Enlace de referencia: https://openjdk.org/ 
+   9. **MySQL:** Motor de base de datos que utilizaremos en el desarrollo de nuestro backend. Se eligió por ser más simple de administrar que otros motores de bases de datos. Enlace de referencia: https://www.mysql.com/ 
     
 ### Software Deployment
-   1. GitHub Pages: Servicio de hosting para páginas web de GitHub que nos permite desplegar de una manera más sencilla, ya que solo tenemos que subir el proyecto a un repositorio sin mucha configuración por nuestra parte para que funcione. Se utilizará para desplegar la landing page. Enlace de referencia: https://pages.github.com/ 
-   2. Google Firebase: Servicio de hosting de Google para páginas web que nos permiten desplegar aplicaciones web más complejas. Requiere de una configuración previa por el desarrollador en su proyecto para desplegarlo. Se utilizará para desplegar el frontend de nuestra aplicación web. Enlace de referencia: https://firebase.google.com 
-   3. Microsoft Azure: Plataforma de computación en la nube que nos permite desplegar una gran variedad de aplicaciones. En este caso la utilizaremos para desplegar tanto nuestra base de datos MySQL como nuestro backend. Enlace de referencia: https://azure.microsoft.com/es-es/
+   1. **GitHub Pages:** Servicio de hosting para páginas web de GitHub que nos permite desplegar de una manera más sencilla, ya que solo tenemos que subir el proyecto a un repositorio sin mucha configuración por nuestra parte para que funcione. Se utilizará para desplegar la landing page. Enlace de referencia: https://pages.github.com/ 
+   2. **Google Firebase:** Servicio de hosting de Google para páginas web que nos permiten desplegar aplicaciones web más complejas. Requiere de una configuración previa por el desarrollador en su proyecto para desplegarlo. Se utilizará para desplegar el frontend de nuestra aplicación web. Enlace de referencia: https://firebase.google.com 
+   3. **Microsoft Azure:** Plataforma de computación en la nube que nos permite desplegar una gran variedad de aplicaciones. En este caso la utilizaremos para desplegar tanto nuestra base de datos MySQL como nuestro backend. Enlace de referencia: https://azure.microsoft.com/es-es/
 
 ### Software Documentation and Project Management
-   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Enlace de referencia: https://git-scm.com/
-   2. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Enlace de referencia https://github.com/
+   1. **Git:** Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Enlace de referencia: https://git-scm.com/
+   2. **Github:** Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Enlace de referencia https://github.com/
    
 
 ### 5.1.2. Source Code Management. <a name ="5.1.2.">
