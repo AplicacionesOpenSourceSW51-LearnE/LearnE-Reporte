@@ -72,8 +72,8 @@
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas. En síntesis, gracias a los puntos de vistas de usuarios que consumen este tipo de productos en general podemos mejorar este sistema de manera que nos pueda ayudar a completar las actividades propuestas de manera eficiente. <br><br> |  TB1: <br><br>  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web. <br> Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br><br>  | TB1: <br><br>  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> Pedro Guia <br> TB1: <br>La descripción de la Startup nos dejo en claro al momento de identificar la misión y vision que nos proponemos a cumplir durante el proyecto. Las reuniones realizadas fueron parte de este logro.<br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas. <br><br> |  TB1: <br><br>  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web.<br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br><br>  | TB1: <br><br>  |
 
 # Contenido
 
@@ -195,28 +195,6 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
       Colocar descripción
     </td>
   </tr>
-  <!-- Pedro Andre Guía Carrasco -->
-  <tr align="center">
-    <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/>
-    </td>
-    <td align="left" style="padding: 10px;">
-      <b>Nombre y Apellido:</b><br>
-         Pedro Andre Guía Carrasco
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 10px;">
-      <b>Carrera:</b><br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 10px;">
-      <b>Acerca de:</b><br>
-      Colocar descripción
-    </td>
-  </tr>
   <!-- Anthony Martin Huapaya Cuevas -->
   <tr align="center">
     <td rowspan="3" width="30%">
@@ -238,7 +216,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
       <b>Acerca de:</b><br>
       Estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la que escogí estudiar esa carrera es por el enfoque de la tecnología, la cual decidí enfocarme en el apartado de la programación del software.
   </tr>
-  <!-- Pedro Guia -->
+  <!-- Pedro Andre Guía Carrasco -->
   <tr align="center">
     <td rowspan="3" width="30%">
       <img src="assets/perfil.png" alt="perfilPG" style="margin-bottom: 5px;" width="200"/> 
