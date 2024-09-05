@@ -173,6 +173,28 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 
 <table align="center" border="1" width="70%" style="text-align:center; border-collapse: collapse;">
+  <!-- Belahonia Miranda, Fabrisio Andre -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+         Fabrisio Andre Belahonia Miranda
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+         Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Colocar descripción
+    </td>
+  </tr>
   <!-- Huanaco Huayta, Elizabeth Lucero -->
   <tr align="center">
     <td rowspan="3" width="30%">
