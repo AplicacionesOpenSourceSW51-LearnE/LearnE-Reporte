@@ -311,8 +311,8 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 
 ### 1.2.2 Lean UX Process. <a name ="1.2.2.">
 #### 1.2.2.1. Lean UX Problem Statements. <a name ="1.2.2.1.">
-Hemos podido observar que existe gente con el deseo de seguir aprendiendo tanto en lo académico como en lo laboral. Sin embargo, muchos se enfrentan a la falta de una metodología de enseñanza adecuada o eficaz que facilite la comprensión profunda de las materias. Los métodos tradicionales de enseñanza a menudo no se adaptan a las necesidades individuales de los estudiantes, lo que resulta en frustración, pérdida de interés y una comprensión superficial de los temas. Además, la falta de acceso a recursos de aprendizaje personalizados limita el crecimiento personal y profesional, afectando negativamente las oportunidades en el mercado laboral.
-Como consecuencia, no podrían comprender temas posteriores porque no tuvieron bases sólidas de aprendizaje en aquellos cursos académicos. Frente a esta problemática, planteamos la siguiente pregunta:
+Hemos podido observar que existe gente con el deseo de seguir aprendiendo tanto en lo académico como en lo laboral. Sin embargo, muchos se enfrentan a la falta de una metodología de enseñanza adecuada o eficaz que facilite la comprensión profunda de las materias. Los métodos tradicionales de enseñanza a menudo no se adaptan a las necesidades individuales de los estudiantes, lo que resulta en frustración, pérdida de interés y una comprensión superficial de los temas. Además, la falta de acceso a recursos de aprendizaje personalizados limita el crecimiento personal y profesional, afectando negativamente las oportunidades en el mercado laboral.<br>
+Como consecuencia, no podrían comprender temas posteriores porque no tuvieron bases sólidas de aprendizaje en aquellos cursos académicos. Frente a esta problemática, planteamos la siguiente pregunta: <br><br>
 ¿Cómo podríamos promover el aprendizaje de aquellos cursos académicos en las personas autodidactas y didácticas?
 
 #### 1.2.2.2. Lean UX Assumptions. <a name ="1.2.2.2.">
@@ -414,11 +414,11 @@ Sabremos que esta hipótesis es cierta si observamos una tasa de conversión sig
 ## 1.3. Segmentos objetivo. <a name ="1.3.">
 | Conceptos | Segmento Objetivo 1 | Segmento Objetivo 2|
 | ---------- | ---------- | ---------- |
-| Variables | Personas a partir de 10 a 25 años que estén dispuestos a mejorar su conocimiento en las materias académicas que requieren tanto en la escuela como en la universidad. | Tutores que cuentan con buen registro de enseñanza hacía jóvenes y adultos. |
+| Variables | Personas a partir de 10 a 25 años que estén dispuestos a mejorar su conocimiento en las materias académicas que requieren tanto en la escuela como en la universidad. | Personas que cuentan con buen registro de enseñanza hacía jóvenes y adultos. |
 | Geográfica | Perú | Perú |
 | Demográfica | Entre 10 a 25 años de genero masculino o femenino. | De 30 a más con experiencia profesional de genero masculino o femenino. |
 | Psicológica | Están motivados por mejorar su rendimiento académico, curiosos, con mentalidad de crecimiento, y abiertos a nuevas formas de aprendizaje. | Están preocupados por la gran responsabilidad de guiar y educar a sus alumnos, reflexionando sobre cómo mejorar su enseñanza y hacer el contenido accesible para todos. |
-| Funcion de comportamientos | Actitudes: Positivos hacia el aprendizaje digital, buscan soluciones innovadoras para mejorar su comprensión en diferentes materias. Conocimientos: Familiarizados con el uso de dispositivos tecnológicos, pero pueden tener diferentes niveles de conocimientos previos en materias académicas. | Actitudes: Compromiso con el aprendizaje, demostrando paciencia, empatía, y una disposición a guiar y motivar. Conocimientos: Utiliza sus conocimientos no solo para transmitir información, sino también para diseñar experiencias de aprendizaje significativas.|
+| Funcion de comportamientos | Actitudes: Positivos hacia el aprendizaje digital, buscan soluciones innovadoras para mejorar su comprensión en diferentes materias.<br><br> Conocimientos: Familiarizados con el uso de dispositivos tecnológicos, pero pueden tener diferentes niveles de conocimientos previos en materias académicas. | Actitudes: Compromiso con el aprendizaje, demostrando paciencia, empatía, y una disposición a guiar y motivar. <br><br>Conocimientos: Utiliza sus conocimientos no solo para transmitir información, sino también para diseñar experiencias de aprendizaje significativas.|
 ||
 # Capítulo II: Requirements Elicitation & Analysis <a name ="cap2">
 ## 2.1. Competidores. <a name ="2.1.">
@@ -445,6 +445,77 @@ Es una plataforma global de aprendizaje en línea que ofrece cursos en una ampli
 
 ## 2.2. Entrevistas. <a name ="2.2.">
 ### 2.2.1. Diseño de entrevistas. <a name ="2.2.1.">
+*Preguntas para profesores*
+- ¿Cuánto tiempo llevas enseñando y en qué materias te especializas?
+- ¿Tienes experiencia enseñando de manera online? Si es así, ¿qué plataformas has utilizado?
+- ¿Cuáles crees que son los mayores beneficios y desafíos de enseñar en línea?
+- ¿Qué opinas de la enseñanza autodidacta
+- ¿Crees que los estudiantes aprenden mejor con este enfoque?
+- ¿Qué herramientas gráficas o tecnológicas utilizas actualmente para enseñar?
+- ¿Cómo te gustaría que una plataforma educativa apoyara el desarrollo de la creatividad e ingenio de tus estudiantes?
+- ¿Qué tipo de exámenes o evaluaciones consideras más eficaces para medir el progreso de los estudiantes?
+- ¿Qué tan importante es para ti poder personalizar el contenido o el ritmo de aprendizaje de tus alumnos?
+- Si pudieras diseñar la plataforma educativa perfecta, ¿qué características o herramientas incluirías?
+- ¿Has ofrecido tutorías a tus estudiantes antes? ¿Cómo manejas las tutorías en un entorno en línea?<br><br>
+*Informacion Complementaria*
+- ¿Cuál es tu género?
+- ¿Cuál es tu edad?
+- ¿En qué distrito resides actualmente?
+- ¿Cuál es tu estado civil?
+- ¿Cómo describirías tu familia (tamaño, composición, etc.)?
+- ¿Cuál es tu ocupación actual?
+- ¿Cómo describirías tu personalidad en términos generales?
+- ¿Qué habilidades consideras que son tus fortalezas principales?
+- ¿Qué marcas o influencias consideras importantes en tu vida profesional o personal?
+- ¿Qué dispositivos tecnológicos prefieres usar para tu trabajo o estudios?
+- ¿Qué canales digitales utilizas con mayor frecuencia para interactuar profesionalmente?
+- ¿Cuáles son tus principales objetivos profesionales y personales?
+- ¿Qué frustraciones encuentras en tu práctica educativa o en tu trabajo actual?
+<br><br>
+*Preguntas para alumnos*
+- ¿Qué materias estás estudiando actualmente y cuáles son tus favoritas?
+- ¿Has tomado cursos en línea antes? ¿Qué plataformas has usado?
+- ¿Qué te gusta más de aprender en línea?
+- ¿Qué opinas del aprendizaje autodidacta? ¿Te sientes cómodo estudiando a tu propio ritmo?
+- ¿Qué tipo de herramientas gráficas o interactivas prefieres usar cuando estudias?
+- ¿Cómo crees que una plataforma podría ayudarte a ser más creativo o ingenioso en tus estudios?
+- ¿Cómo prefieres ser evaluado en los cursos en línea? ¿Te gustan los exámenes semanales?
+- ¿Qué tipo de feedback te ayuda más a mejorar tu aprendizaje?
+- Si pudieras diseñar la plataforma de aprendizaje perfecta, ¿qué incluirías?
+- ¿Has tomado tutorías individuales o en grupo con profesores? ¿Cómo ha sido tu experiencia?
+- ¿Cómo te gustaría que se gestionaran las tutorías en línea? (Por ejemplo, la facilidad para agendar, tipos de tutorías disponibles, etc.)
+<br><br>*Informacion Complementaria*
+- ¿Cuál es tu género?
+- ¿Cuál es tu edad?
+- ¿En qué distrito resides actualmente?
+- ¿Cuál es tu estado civil?
+- ¿Cómo describirías tu familia (tamaño, composición, etc.)?
+- ¿Cuál es tu ocupación actual?
+- ¿Cómo describirías tu personalidad en términos generales?
+- ¿Qué habilidades consideras que son tus fortalezas principales?
+- ¿Qué marcas o influencias consideras importantes en tu vida estudiantil?
+- ¿Qué dispositivos tecnológicos prefieres usar para tus estudios?
+- ¿Qué canales digitales utilizas con mayor frecuencia para interactuar profesionalmente
+- ¿Cuáles son tus principales objetivos personales?
+- ¿Qué frustraciones encuentras en tu práctica educativa?
+
+### 2.2.2. Registro de Entrevistas. <a name ="2.2.2.">
+| Alumno |    |
+| ------ | -- |
+| Entrevista 1 |
+| Datos Personales del entrevistado | URL del video en Youtube |
+|Nombre Completo <br> Priscila Jurado <br> Sexo: Femenimo <br> Edad: 35 <br> Distrito de residencia: Villa Maria del Triunfo | Enlace <br> https://www.youtube.com/watch?v=9c6UjDopz_8<br>Duracion de la entrevista: 6:44 |
+| Screenshot del cuadro de video:<br> | Resumen de la entrevista
+<img src="assets/entrevista1.png"> | Priscila Jurado, estudiante de educación, usa Zoom y Google Meet para cursos en línea, valorando las clases grabadas y herramientas digitales. Prefiere el aprendizaje autodidacta y herramientas como mapas mentales. Sugiere plataformas más dinámicas y aprecia tutorías personalizadas y bien programadas.
+<br><br>
+
+| Alumno |    |
+| ------ | -- |
+| Enrevista 2 |
+| Datos Personales del entrevistado | URL del video en Youtube |
+| Nombre Completo <br> Esteban Salinas <br> Sexo: Masculino <br> Edad: 18 <br> Distrito de residencia: Villa El Salvador | Enlace <br>https://www.youtube.com/watch?v=6Fe_vMqhr6c<br>Duracion de la entrevista: 9:04 |
+| Screenshot del cuadro de video:<br> | Resumen de la entrevista |
+<img src="assets/entrevista2.png"> | El estudiante de Comunicación Audiovisual prefiere el aprendizaje presencial, aunque valora la flexibilidad de los cursos en línea. Usa herramientas como mapas mentales y aplicaciones para tomar notas. Recomienda una plataforma de aprendizaje que ofrezca múltiples métodos y desafíos adaptativos.
 
 
 ### 2.2.3. Análisis de entrevistas. <a name ="2.2.3.">
