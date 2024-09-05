@@ -786,7 +786,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 ## 4.8. Database Design. <a name ="4.8.">
 
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
-
+<img src="assets/database model E-R.png" alt="DataBase" title="Data Base Learn.E" style="heigth:180%">
 
 # Capítulo V: Product Implementation, Validation & Deployment <a name ="cap5">
 
