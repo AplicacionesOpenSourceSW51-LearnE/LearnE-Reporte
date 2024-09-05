@@ -31,7 +31,7 @@
         </tr>
         <tr>
             <td>Guía Carrasco, Pedro Andre </td>
-            <td></td>
+            <td>U202212010</td>
         </tr>
         <tr>
             <td>Huapaya Cuevas, Anthony Martin</td>
