@@ -989,8 +989,342 @@ Añadir pago por tarjeta: Plan Premium<br><br>
 <img src="assets/Diagrama de clases_LearnE.png" alt="Class Diagram" title="Diagrama de Clases">
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
+**Usuario**: Clase padre que contiene la información general de los dos tipos de usuarios.
+| **Atributo**   | **Tipo**      | **Descripción**                          |
+|-----------------|---------------|------------------------------------------|
+| `nombre`            | string           | Nombre del usuario          |
+| `apellido`     | string        | Apellido del usuario               |
+| `correo` | string        | Correo del usuario         |
+| `contrasenia` | string        | Contraseña del usuario         |
+| `listaActividades`   | ListaActividades   | Actividades que el usuario crea en el to-do list      |
+| `calendario`        | Calendario        | Calendario del usuario  |
+
+| **Función**                                      | **Tipo**                     | **Descripción**                                         |
+|--------------------------------------------------|------------------------------|---------------------------------------------------------|
+| `+ Usuario()`                                    | Constructor                  | Constructor de la clase Usuario                         |
+| `+ getContrasenia()`                             | string                       | Obtener la contraseña                                   |
+| `+ setContrasenia(_contrasenia: string)`         | void                         | Asignar la contraseña                                   |
+| `+ getNombre()`                                  | string                       | Obtener el nombre del usuario                           |
+| `+ setNombre(_nombre: string)`                   | void                         | Asignar el nombre del usuario                           |
+| `+ getApellido()`                                | string                       | Obtener el apellido del usuario                         |
+| `+ setApellido(_apellido: string)`               | void                         | Asignar el apellido del usuario                         |
+| `+ getCorreo()`                                  | string                       | Obtener el correo electrónico                           |
+| `+ setCorreo(_correo: string)`                   | void                         | Asignar el correo electrónico                           |
+| `+ agregarEvento(_evento: Evento*)`              | void                         | Agregar un evento al calendario                         |
+| `+ eliminarEvento(_indice: int)`                 | void                         | Eliminar un evento del calendario                       |
+| `+ actualizarEventoNombre(_indice: int, _nombre: string)` | void                 | Actualizar el nombre de un evento                       |
+| `+ actualizarEventoFecha(_indice: int, _fecha: string)`  | void                      | Actualizar la fecha de un evento                        |
+| `+ actualizarEventoHora(_indice: int, _hora: string)`    | void                      | Actualizar la hora de un evento                         |
+| `+ getEvento(_indice: int)`                             | Evento*              | Obtener un evento por su índice                         |
+| `+ crearListaActividades(_listaActividades: ListaActividades*)` | void           | Crear una lista de actividades                          |
+| `+ getListaActividades()`                              | ListaActividades*     | Obtener la lista de actividades                         |
 
 
+**Profesor**: Clase hijo que contiene la información personal del profesor.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- listaCursos`           | CrearCurso*          | Lista de cursos creados por el profesor    |
+| `- tutoriasDisponibles`   | vector<Tutoria*>     | Tutorías disponibles que el profesor ofrece|
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Profesor()`                                   | Constructor          | Constructor de la clase Profesor              |
+| `+ getListaCursos()`                             | CrearCurso*          | Obtener la lista de cursos del profesor       |
+| `+ recibirAlumnosInscritos()`                    | int                  | Recibir la cantidad de alumnos inscritos      |
+| `+ recibirCantidadEstudiantesPorCurso()`         | int                  | Obtener la cantidad de estudiantes por curso  |
+| `+ recibirCursosMenosPopulares()`                | Curso*               | Recibir los cursos menos populares            |
+| `+ recibirAlumnosNotasBajas()`                   | int                  | Recibir la cantidad de alumnos con notas bajas|
+| `+ setTutoriasDisponibles(_tutoria: Tutoria*)`   | void                 | Asignar las tutorías disponibles              |
+| `+ getTutoriasDisponibles()`                     | vector<Tutoria*>     | Obtener las tutorías disponibles              |
+
+**Estudiante**: Clase hijo que contiene la información personal del estudiante.
+| **Variable**               | **Tipo**                  | **Descripción**                                   |
+|----------------------------|---------------------------|---------------------------------------------------|
+| `- tipoPlan`                | bool                      | Tipo de plan del estudiante                       |
+| `- cursosActuales`          | CursosActuales*           | Cursos actuales del estudiante                    |
+| `- historialCursos`         | vector<CursoInscrito*>     | Historial de cursos completados por el estudiante |
+| `- tutoriasReservadas`      | vector<Tutoria*>          | Tutorías reservadas por el estudiante             |
+
+| **Función**                                      | **Tipo**                     | **Descripción**                                         |
+|--------------------------------------------------|------------------------------|---------------------------------------------------------|
+| `+ Estudiante(_tipoPlan: bool)`                  | Constructor                  | Constructor de la clase Estudiante                      |
+| `+ getHistorialCursos()`                         | vector<CursoInscrito*>        | Obtener el historial de cursos del estudiante            |
+| `+ getCursosActuales()`                          | CursosActuales*              | Obtener los cursos actuales                             |
+| `+ agregarCursoHistorial(_curso: CursoInscrito*)`| void                         | Agregar un curso al historial                           |
+| `+ eliminarCursoActual(_indice: int)`            | void                         | Eliminar un curso actual del estudiante                 |
+| `+ setTutoriasReservadas(_tutoria: Tutoria*)`    | void                         | Asignar tutorías reservadas                             |
+| `+ getTutoriasReservadas()`                      | vector<Tutoria*>             | Obtener la lista de tutorías reservadas                 |
+
+**Plan**: Clase que contiene la información sobre cada plan que se ofrece en la aplicación web.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- nombre`               | string               | Nombre del plan                            |
+| `- tipo`                 | bool                 | Tipo de plan                               |
+| `- beneficios`           | vector<string>       | Lista de beneficios del plan               |
+| `- precio`               | double               | Precio del plan                            |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Plan(_nombre:string, _tipo:bool, _beneficios:vector<string>, _precio:double)` | Constructor          | Constructor de la clase Plan                  |
+| `+ getNombre()`                                  | string               | Obtener el nombre del plan                    |
+| `+ getPrecio()`                                  | double               | Obtener el precio del plan                    |
+| `+ getBeneficios()`                              | vector<string>       | Obtener los beneficios del plan               |
+| `+ getTipo()`                                    | bool                 | Obtener el tipo de plan                       |
+
+**Curso**: Clase que contiene la información sobre cada curso creado en la aplicación web.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- nombre`               | string               | Nombre del curso                           |
+| `- tipoPlan`             | bool                 | Tipo de plan asociado al curso             |
+| `- unidades`             | vector<Unidad*>      | Unidades del curso                         |
+| `- examenes`             | vector<Examen*>      | Exámenes del curso                         |
+| `- certificado`          | Certificado*         | Certificado del curso                      |
+| `- sinopsis`             | string               | Sinopsis o descripción breve del curso     |
+| `- conocimientosPrevios` | vector<string>       | Conocimientos previos necesarios para el curso |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Curso()`                                      | Constructor          | Constructor de la clase Curso                 |
+| `+ setNombre(_nombre:string)`                    | void                 | Asignar el nombre del curso                   |
+| `+ getNombre()`                                  | string               | Obtener el nombre del curso                   |
+| `+ setTipoPlan(_tipoPlan:bool)`                  | void                 | Asignar el tipo de plan                       |
+| `+ getTipoPlan()`                                | bool                 | Obtener el tipo de plan                       |
+| `+ agregarUnidad(_unidad:Unidad*)`               | void                 | Agregar una unidad al curso                   |
+| `+ getUnidades()`                                | vector<Unidad*>      | Obtener las unidades del curso                |
+| `+ agregarExamen(_examen:Examen*)`               | void                 | Agregar un examen al curso                    |
+| `+ getExamenes()`                                | vector<Examen*>      | Obtener los exámenes del curso                |
+| `+ getCertificado()`                             | Certificado*         | Obtener el certificado del curso              |
+| `+ setSinopsis(_sinopsis:string)`                | void                 | Asignar la sinopsis del curso                 |
+| `+ getSinopsis()`                                | string               | Obtener la sinopsis del curso                 |
+| `+ setConocimientosPrevios(_conocimiento:string)`| void                 | Asignar los conocimientos previos necesarios  |
+| `+ getConocimientosPrevios()`                    | vector<string>       | Obtener los conocimientos previos necesarios  |
+
+**ListaActividades**: Clase que contiene la información necesaria para crear listas de actividades.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- nombre`               | string               | Nombre de la lista de actividades          |
+| `- actividades`          | vector<string>       | Lista de actividades                      |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ ListaActividades(_actividad:string)`          | Constructor          | Constructor de la clase ListaActividades       |
+| `+ setNombre(_nombre:string)`                    | void                 | Asignar el nombre de la lista de actividades   |
+| `+ getNombre()`                                  | string               | Obtener el nombre de la lista                  |
+| `+ agregarActividad(_actividad:string)`          | void                 | Agregar una actividad a la lista               |
+| `+ getActividades()`                             | vector<string>       | Obtener las actividades de la lista            |
+
+**Examen**: Clase que contiene información sobre un examen.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- preguntas`            | vector<Pregunta*>    | Lista de preguntas del examen              |
+| `- calificacion`         | double               | Calificación obtenida en el examen         |
+| `- estado`               | string               | Estado del examen (aprobado, no aprobado)  |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Examen()`                                     | Constructor          | Constructor de la clase Examen                |
+| `+ setPreguntas(_pregunta:Pregunta*)`            | void                 | Agregar una pregunta al examen                |
+| `+ getPreguntas()`                               | vector<Pregunta*>    | Obtener las preguntas del examen              |
+| `+ setCalificacion(_calificacion:double)`        | void                 | Asignar la calificación al examen             |
+| `+ getCalificacion()`                            | double               | Obtener la calificación del examen            |
+| `+ setEstado(_estado:string)`                    | void                 | Asignar el estado del examen                  |
+| `+ getEstado()`                                  | string               | Obtener el estado del examen                  |
+
+**Calendario**: Clase que contiene información sobre un calendario.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- eventos`              | vector<Evento*>      | Lista de eventos en el calendario          |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Calendario()`                                 | Constructor          | Constructor de la clase Calendario            |
+| `+ agregarEvento(_evento:Evento*)`               | void                 | Agregar un evento al calendario               |
+| `+ eliminarEvento(_indice:int)`                  | void                 | Eliminar un evento por su índice              |
+| `+ actualizarEventoNombre(_indice:int, _nombre:string)` | void            | Actualizar el nombre de un evento             |
+| `+ actualizarEventoFecha(_indice:int, _fecha:string)`   | void             | Actualizar la fecha de un evento              |
+| `+ actualizarEventoHora(_indice:int, _hora:string)`     | void             | Actualizar la hora de un evento               |
+| `+ getEvento(_indice:int)`                             | Evento*           | Obtener un evento por su índice               |
+
+**Evento**: Clase que contiene información sobre un evento para el calendario.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- nombre`               | string               | Nombre del evento                          |
+| `- fecha`                | string               | Fecha del evento                           |
+| `- hora`                 | string               | Hora del evento                            |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Evento(_nombre:string, _fecha:string, _hora:string)` | Constructor    | Constructor de la clase Evento                |
+| `+ setNombre(_nombre:string)`                    | void                 | Asignar el nombre del evento                  |
+| `+ getNombre()`                                  | string               | Obtener el nombre del evento                  |
+| `+ setFecha(_fecha:string)`                      | void                 | Asignar la fecha del evento                   |
+| `+ getFecha()`                                   | string               | Obtener la fecha del evento                   |
+| `+ setHora(_hora:string)`                        | void                 | Asignar la hora del evento                    |
+| `+ getHora()`                                    | string               | Obtener la hora del evento                    |
+
+**Certificado**: Clase que contiene información sobre el certificado que se otorga al finalizar un curso.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- nombre`               | string               | Nombre del certificado                     |
+| `- fechaEmision`         | string               | Fecha de emisión del certificado           |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Certificado()`                                 | Constructor          | Constructor de la clase Certificado           |
+| `+ setNombre(_nombre:string)`                     | void                 | Asignar el nombre del certificado             |
+| `+ getNombre()`                                   | string               | Obtener el nombre del certificado             |
+| `+ setFechaEmision(_fechaEmision:string)`         | void                 | Asignar la fecha de emisión del certificado   |
+| `+ getFechaEmision()`                             | string               | Obtener la fecha de emisión del certificado   |
+| `+ subirArchivo()`                                | void                 | Subir un archivo relacionado al certificado   |
+| `+ descargarArchivo()`                            | void                 | Descargar el archivo del certificado          |
+
+**Unidad**: Clase que contiene información sobre las unidades en cada curso.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- titulo`               | string               | Título de la unidad                        |
+| `- sesiones`             | vector<Sesion*>      | Lista de sesiones dentro de la unidad      |
+| `- descripcion`          | string               | Descripción de la unidad                   |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Unidad()`                                      | Constructor          | Constructor de la clase Unidad                |
+| `+ setTitulo(_titulo:string)`                     | void                 | Asignar el título de la unidad                |
+| `+ getTitulo()`                                   | string               | Obtener el título de la unidad                |
+| `+ agregarSesion(_sesion:Sesion*)`                | void                 | Agregar una sesión a la unidad                |
+| `+ getSesion()`                                   | vector<Sesion*>      | Obtener las sesiones de la unidad             |
+| `+ setDescripcion(_descripcion:string)`           | void                 | Asignar la descripción de la unidad           |
+| `+ getDescripcion()`                              | string               | Obtener la descripción de la unidad           |
+
+**Sesion**: Clase padre que contiene información sobre los distintos tipos de contenidos dentro de una unidad.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- titulo`               | string               | Título de la sesión                        |
+| `- completado`           | bool                 | Estado de la sesión (si está completada)    |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ Sesion()`                                      | Constructor          | Constructor de la clase Sesión                |
+| `+ setTitulo(_titulo:string)`                     | void                 | Asignar el título de la sesión                |
+| `+ getTitulo()`                                   | string               | Obtener el título de la sesión                |
+| `+ setEstado(_estado:string)`                     | void                 | Asignar el estado de la sesión                |
+| `+ getEstado()`                                   | string               | Obtener el estado de la sesión                |
+| `+ setCompletado(_completado:bool)`               | void                 | Marcar la sesión como completada              |
+| `+ getCompletado()`                               | bool                 | Comprobar si la sesión ha sido completada     |
+
+**CursoInscrito**: Clase que contiene un objeto de clase Curso con información adicional que es necesario para el alumno.
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- curso`                | Curso*               | Referencia a la clase Curso               |
+| `- sesionesCumplidas`     | int                  | Número de sesiones cumplidas en el curso   |
+| `- valoracion`           | int                  | Valoración dada por el estudiante al curso |
+| `- comentario`           | string               | Comentario del estudiante sobre el curso   |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ CursoInscrito()`                               | Constructor          | Constructor de la clase CursoInscrito          |
+| `+ setCurso(_curso:Curso*)`                       | void                 | Asignar un curso inscrito                     |
+| `+ getCurso()`                                    | Curso*               | Obtener el curso inscrito                     |
+| `+ actualizarSesionesCumplidas()`                 | void                 | Actualizar el número de sesiones cumplidas    |
+| `+ comprobarFinalizacion()`                       | bool                 | Verificar si el curso ha sido completado       |
+| `+ setValoracion(_valoracion:int)`                | void                 | Asignar la valoración del curso               |
+| `+ getValoracion()`                               | int                  | Obtener la valoración del curso               |
+| `+ setComentario(_comentario:string)`             | void                 | Asignar un comentario sobre el curso          |
+| `+ getComentario()`                               | string               | Obtener el comentario sobre el curso          |
+
+**CursosActuales**: Clase que contiene el conjunto de cursos a los que se ha inscrito el alumno.
+
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- cursosInscritos`       | vector<CursoInscrito*> | Lista de cursos en los que está inscrito el estudiante |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ CursosActuales()`                              | Constructor          | Constructor de la clase CursosActuales         |
+| `+ eliminarCursoInscrito(_indice:int)`            | void                 | Eliminar un curso inscrito de la lista         |
+| `+ getCursoInscrito(_indice:int)`                 | Curso*               | Obtener un curso inscrito por su índice        |
+| `+ agregarCursoInscrito(_cursoInscrito:CursoInscrito*)` | void            | Agregar un curso inscrito a la lista           |
+| `+ getCursosInscritos()`                          | vector<CursoInscrito*> | Obtener la lista de cursos inscritos           |
+
+**CursosCreados**: Clase que contiene el conjunto de cursos que han sido creados por un profesor.
+
+| **Variable**             | **Tipo**             | **Descripción**                            |
+|--------------------------|----------------------|--------------------------------------------|
+| `- cursosCreados`         | vector<Curso*>       | Lista de cursos creados                    |
+
+| **Función**                                      | **Tipo**             | **Descripción**                               |
+|--------------------------------------------------|----------------------|-----------------------------------------------|
+| `+ CrearCurso()`                                  | Constructor          | Constructor de la clase CursosCreados          |
+| `+ crearNuevoCurso(_curso:Curso*)`                | void                 | Crear un nuevo curso                          |
+| `+ getCursosCreados()`                            | vector<Curso*>       | Obtener la lista de cursos creados            |
+
+**Pregunta**: Clase que contiene información sobre una pregunta.
+| **Variable**                | **Tipo**             | **Descripción**                           |
+|-----------------------------|----------------------|-------------------------------------------|
+| `- enunciado`               | string               | Enunciado de la pregunta                  |
+| `- alternativas`            | vector<string>       | Lista de alternativas para la pregunta    |
+| `- tipoRespuesta`           | string               | Tipo de respuesta esperada                |
+| `- respuestaCorrecta`       | int                  | Índice de la respuesta correcta           |
+| `- respuesta`               | string               | Respuesta dada por el usuario             |
+
+| **Función**                                     | **Tipo**             | **Descripción**                              |
+|-------------------------------------------------|----------------------|----------------------------------------------|
+| `+ Pregunta()`                                  | Constructor          | Constructor de la clase Pregunta             |
+| `+ setEnunciado(_enunciado:string):void`         | void                 | Asignar el enunciado de la pregunta          |
+| `+ setAlternativa(_alternativa:string):void`     | void                 | Agregar una alternativa                      |
+| `+ setTipoRespuesta(_tipoRespuesta:string):void` | void                 | Establecer el tipo de respuesta              |
+| `+ setRespuestaCorrecta(_respuesta:int):void`    | void                 | Establecer la respuesta correcta             |
+| `+ getEnunciado():string`                       | string               | Obtener el enunciado de la pregunta          |
+| `+ getAlternativas():vector<string>`             | vector<string>       | Obtener las alternativas                    |
+| `+ getTipoRespuesta():string`                   | string               | Obtener el tipo de respuesta                |
+| `+ getRespuestaCorrecta():void`                 | void                 | Obtener la respuesta correcta               |
+| `+ setRespuesta(_respuesta:string):void`         | void                 | Asignar una respuesta                       |
+| `+ getRespuesta():string`                       | string               | Obtener la respuesta dada por el usuario    |
+
+**Tema**: Clase que contiene información sobre un tema que se va a publicar en una unidad.
+| **Función**                                    | **Tipo**             | **Descripción**                              |
+|------------------------------------------------|----------------------|----------------------------------------------|
+| `+ Tema()`                                     | Constructor          | Constructor de la clase Tema                 |
+| `+ subirArchivo()`                             | void                 | Subir un archivo                            |
+| `+ actualizarArchivo()`                        | void                 | Actualizar un archivo                       |
+
+
+**Proyecto**: Clase que contiene información sobre el proyecto que se realiza antes de finalizar un curso.
+| **Variable**          | **Tipo**  | **Descripción**                  |
+|-----------------------|-----------|----------------------------------|
+| `- descripcion`       | string    | Descripción del proyecto          |
+| `- enlace`            | string    | Enlace relacionado con el proyecto|
+| `- estado`            | string    | Estado actual del proyecto        |
+
+| **Función**                                     | **Tipo**             | **Descripción**                              |
+|-------------------------------------------------|----------------------|----------------------------------------------|
+| `+ Proyecto()`                                  | Constructor          | Constructor de la clase Proyecto             |
+| `+ setDescripcion(_descripcion:string):void`    | void                 | Asignar una descripción al proyecto         |
+| `+ getDescripcion():string`                    | string               | Obtener la descripción del proyecto         |
+| `+ setEstado(_estado:string):void`              | void                 | Establecer el estado del proyecto           |
+| `+ getEstado():string`                         | string               | Obtener el estado del proyecto              |
+| `+ setEnlace(_estado:string):void`              | void                 | Establecer el enlace del proyecto           |
+| `+ getEnlace():string`                         | string               | Obtener el enlace del proyecto              |
+
+
+**Tutoria**: Clase que contiene información sobre una tutoría.
+| **Variable**   | **Tipo** | **Descripción**                     |
+|----------------|----------|-------------------------------------|
+| `- fecha`      | string   | Fecha de la tutoría                 |
+| `- hora`       | string   | Hora de la tutoría                  |
+| `- estado`     | string   | Estado de la tutoría                |
+| `- enlace`     | string   | Enlace para acceder a la tutoría    |
+
+| **Función**                                  | **Tipo**             | **Descripción**                              |
+|----------------------------------------------|----------------------|----------------------------------------------|
+| `+ Tutoria()`                               | Constructor          | Constructor de la clase Tutoria              |
+| `+ setFecha(_fecha:string):void`             | void                 | Asignar la fecha de la tutoría               |
+| `+ getFecha():string`                       | string               | Obtener la fecha de la tutoría               |
+| `+ setHora(_hora:string):void`               | void                 | Asignar la hora de la tutoría                |
+| `+ getHora():string`                        | string               | Obtener la hora de la tutoría                |
+| `+ setEnlace(_enlace:string):void`           | void                 | Asignar el enlace de la tutoría              |
+| `+ getEnlace():string`                      | string               | Obtener el enlace de la tutoría              |
+| `+ setEstado(_estado:string):void`           | void                 | Asignar el estado de la tutoría              |
+| `+ getEstado():string`                      | string               | Obtener el estado de la tutoría              |
 
 ## 4.8. Database Design. <a name ="4.8.">
 
