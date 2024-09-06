@@ -871,6 +871,28 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
+**Versión Desktop**<br>
+
+**Inicio de sesión**: Es clara, funcional y fácil de usar, garantizando una experiencia intuitiva tanto para usuarios nuevos como recurrentes.
+<img src="assets/wireframes-web-application/Inicio-de-Sesión.png" alt="Inicio de sesión" title="Inicio de sesión">
+
+**Registro**: Es clara, funcional y fácil de usar, garantizando una experiencia intuitiva tanto para usuarios nuevos como recurrentes. Los campos a rellenar y el botón llaman a la acción, y además te permite dirigirte a Inicio de sesión desde esta pantalla.
+<img src="assets/wireframes-web-application/Registro-de-usuario.png" alt="Registro-de-usuario" title="Registro-de-usuario">
+
+**Planes de suscripción**: Es clara y concisa. La información que presenta en cada tarjeta de presentación de plan es precisa. Además, los botones buscan llamar la atención con diferentes tonalidades, de acuerdo al plan que está utilizando.
+<img src="assets/wireframes-web-application/Planes-de-suscripción.png" alt="Planes-de-suscripción" title="Planes-de-suscripción">
+
+**Pago por tarjeta**: incluye los elementos esenciales para que el usuario complete una transacción de manera segura y sencilla. 
+<img src="assets/wireframes-web-application/Pago-por-tarjeta.png" alt="Pago-por-tarjeta" title="Pago-por-tarjeta">
+
+**Pago exitoso**: Tras completar el pago, el usuario recibe una confirmación visual que incluye un mensaje claro de "Pago Exitoso" acompañado de un ícono que refuerza la seguridad y satisfacción.
+<img src="assets/wireframes-web-application/Pago-exitoso.png" alt="Pago-exitoso" title="Pago-exitoso">
+
+**Pago fallido**: Tras procesar el pago, el usuario recibe error en el proceso que incluye un mensaje claro de "Error en el proceso" acompañado de un ícono que refuerza la alerta.
+<img src="assets/wireframes-web-application/Pago fallido.png" alt="Pago fallido" title="Pago fallido">
+
+**Mis cursos**: Muestra de forma clara y organizada la lista de cursos en los que el usuario está inscrito. Se organiza los cursos en bloques o tarjetas, facilitando la exploración rápida y los títulos son prominentes para resaltar.
+<img src="assets/wireframes-web-application/Mis-cursos.png" alt="Mis-cursos" title="Mis-cursos">
 
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 
