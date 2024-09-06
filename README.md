@@ -894,6 +894,38 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 **Mis cursos**: Muestra de forma clara y organizada la lista de cursos en los que el usuario está inscrito. Se organiza los cursos en bloques o tarjetas, facilitando la exploración rápida y los títulos son prominentes para resaltar.
 <img src="assets/wireframes-web-application/Mis-cursos.png" alt="Mis-cursos" title="Mis-cursos">
 
+**Historial de cursos**: Se organiza y muestra todos los cursos que el usuario ha completado. Cada curso se presenta en forma de lista o tarjetas, con detalles como el nombre del curso y un acceso al contenido del curso completado desde el enlace del nombre.
+<img src="assets/wireframes-web-application/Historial-de-cursos.png" alt="Historial-de-cursos" title="Historial-de-cursos">
+
+**Perfil**: Se organiza los distintos apartados de manera clara, utilizando secciones diferenciadas para "Información" y "Certificados". En estas secciones, se incluyen detalles relevantes como la información personal y los certificados obtenidos al finalizar los cursos.
+<img src="assets/wireframes-web-application/Perfil.png" alt="Perfil" title="Perfil">
+<img src="assets/wireframes-web-application/Certificados.png" alt="Certificados" title="Certificados">
+
+**Cursos**: Cada curso se presenta en formato de tarjeta o bloque que incluye el nombre del curso, el título, y un ícono de candado que indica si el curso está bloqueado (acceso restringido) o desbloqueado (acceso disponible). Este sistema visual de candados ayuda a los usuarios a entender rápidamente a qué cursos tienen acceso según su plan. Además, cada tarjeta de curso cuenta con un botón de "Ver Detalles" claramente visible, que permite al usuario explorar más información sobre el curso.
+<img src="assets/wireframes-web-application/Catalogo-de-cursos.png" alt="Catalogo-de-cursos" title="Catalogo-de-cursos">
+
+**Detalles de curso**: Al ingresar, el usuario ve el nombre del curso en la parte superior junto con una imagen o ícono representativo, seguido de una descripción detallada del curso que incluye el temario, objetivos de aprendizaje, duración, nivel de dificultad, conocimientos previos e información sobre el certificado.
+<img src="assets/wireframes-web-application/Detalle-curso.png" alt="Detalle-curso" title="Detalle-curso">
+
+**Esamen**: Cada pregunta del examen se presenta en su propio bloque, con opciones claramente diferenciadas, como respuestas de selección múltiple o campos para respuestas abiertas. Asimismo, un botón de "Enviar" está visible al final del examen, que permite al estudiante revisar sus respuestas antes de enviarlas.
+<img src="assets/wireframes-web-application/Examen.png" alt="Examen" title="Examen">
+
+**Tutorías**: Al ingresar a algún curso, el usuario verá una lista de tutorías disponibles organizadas en formato de botones según una fecha específica. El alumno hará click en el botón de la hora para reserva una automáticamente.
+<img src="assets/wireframes-web-application/Tutorias.png" alt="Tutorias" title="Tutorias">
+
+**Valoraciones**: Permite a los estudiantes consultar y agregar reseñas sobre los cursos que han tomado, combinando un sistema de estrellas para puntuar y un espacio para dejar comentarios. Al ingresar, el usuario ve un resumen del puntaje promedio del curso, que se representa con estrellas (por ejemplo, de 1 a 5 estrellas), junto con las valoraciones recibidas. Cada reseña individual se presenta en un bloque que incluye el nombre del estudiante, la cantidad de estrellas otorgadas y un comentario que detalla su experiencia con el curso.
+<img src="assets/wireframes-web-application/Valoracion-puntaje.png" alt="Valoracion-puntaje" title="Valoracion-puntaje">
+<img src="assets/wireframes-web-application/Valoracion-comentario.png" alt="Valoracion-comentario" title="Valoracion-comentario">
+
+**Calendario**: Se ofrece a los estudiantes una vista organizada y visualmente clara de sus actividades, como clases, tutorías, exámenes, y fechas importantes que han registrado en el calendario. Se muestra en un formato de cuadrícula ycon días, donde cada evento o actividad está marcado con etiquetas para facilitar su identificación
+<img src="assets/wireframes-web-application/Calendario.png" alt="Calendario" title="Calendario">
+
+**Calificaciones**:  Muestra a los profesores un resumen detallado del rendimiento académico de los alumnos en cada curso, organizando las notas de manera clara y accesible.
+<img src="assets/wireframes-web-application/Calificaciones.png" alt="Calificaciones" title="Calificaciones">
+
+**Proyecto**:  Al acceder a la sesión de proyecto, al final del curso, el usuario verá los detalles del proyecto que debe completar, junto con detalles clave como el título del proyecto, descripción y un espacio para enviar el enlace donde está alojado el proyecto.
+<img src="assets/wireframes-web-application/Proyecto.png" alt="Proyecto" title="Proyecto">
+
 **Versión Mobile**<br>
 
 **Pantalla de inicio del registro**: Es claro, comprensible y fácil de usar, sin complicar al usuario sobre la acción que debe realizar al iniciar la aplicación por primera vez o ya lo estaba usando anteriormente.<br>
