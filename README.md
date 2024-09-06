@@ -177,7 +177,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <!-- Belahonia Miranda, Fabrisio Andre -->
   <tr align="center">
     <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+      <img src="assets/Fabrisio Belahonia.jpeg" alt="" style="margin-bottom: 5px;" width="200"/> 
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
@@ -193,8 +193,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <tr>
     <td align="left" style="padding: 10px;">
       <b>Acerca de:</b><br>
-      Colocar descripción
-    </td>
+ Mi nombre es Fabrisio Belahonia, estudiante de Ing. de software. Voy cursando el 5to ciclo de mi carrera, y me considero una persona responsable, ordenado, empático. Me interesa el área de Ciberseguridad y tengo experiencia con Linux, Redes, Cloud, etc.    </td>
   </tr>
   <!-- Huanaco Huayta, Elizabeth Lucero -->
   <tr align="center">
@@ -441,7 +440,7 @@ Es una plataforma global de aprendizaje en línea que ofrece cursos en una ampli
 
 Este análisis es llevado a cabo porque se busca conocer cuáles son las ventajas y desventajas que presenta nuestra aplicación frente a la competencia.
 
-| **Competencia**      | **LearnE** | **Udemy** | **Khan Academy** | **Platzi** |
+| **Competencia**      | **LearnE** <br> <img src="assets/Analisis_Competivo-learned.png" alt="Analisis_Competivo-learned" title="Analisis_Competivo-learned" style="width:100px;"> | **Udemy** <br> <img src="assets/Analisis_Competivo-udemy.png" alt="Analisis_Competivo-udemy" title="Analisis_Competivo-udemy" style="width:100px;"> | **Khan Academy** <img src="assets/Analisis_Competivo-khanacademy.png" alt="Analisis_Competivo-khanacademy" title="Analisis_Competivo-khanacademy" style="width:100px;"> | **Platzi** <br> <img src="assets/Analisis_Competivo-platzi.png" alt="Analisis_Competivo-platzi" title="Analisis_Competivo-platzi" style="width:100px;"> |
 |----------------------|------------|-----------|------------------|------------|
 | **Perfil** | | | | |
 | **Overview** | Esta startup ofrece una plataforma educativa lúdica y autodidacta con herramientas gráficas para fomentar la creatividad. Permite a los usuarios visualizar temarios de cursos, realizar exámenes semanales para medir su progreso, y acceder a tutorías personalizadas. Además, cuentan con dos planes de suscripción disponibles. | Plataforma global de aprendizaje en línea que funciona como un marketplace, ofreciendo una extensa gama de cursos creados por instructores independientes. Udemy es accesible y flexible, permitiendo a los estudiantes aprender a su propio ritmo en diversos temas. | Organización sin fines de lucro que brinda educación gratuita y accesible en todo el mundo. Ofrece recursos educativos de alta calidad en diversas materias, permitiendo a los estudiantes de todas las edades aprender a su propio ritmo, desde primaria hasta nivel universitario. | Plataforma de aprendizaje en línea dirigida al mercado latinoamericano, especializada en habilidades tecnológicas, corporativas y creativas. Ofrece cursos prácticos y actualizados, con una comunidad activa que fomenta el aprendizaje colaborativo. Ideal para estudiantes, emprendedores y profesionales. |
@@ -545,6 +544,8 @@ Alianzas Estratégicas: Forma colaboraciones con empresas y universidades para o
 ### 2.2.2. Registro de Entrevistas. <a name ="2.2.2.">
 
 **Entrevista a alumnos**
+URL de entrevistas-alumnos:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=tHUSQC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 | Entrevistado 1 | Priscila Jurado   |
 | ------ | -- |
@@ -555,36 +556,47 @@ Alianzas Estratégicas: Forma colaboraciones con empresas y universidades para o
 | Entrevistado 2 | Esteban Salinas  |
 | Edad |18 |
 | Distrito de residencia | Villa El Salvador |
-<img src="assets/entrevista1.png"> | El estudiante de Comunicación Audiovisual prefiere el aprendizaje presencial, aunque valora la flexibilidad de los cursos en línea. Usa herramientas como mapas mentales y aplicaciones para tomar notas. Recomienda una plataforma de aprendizaje que ofrezca múltiples métodos y desafíos adaptativos.|
+<img src="assets/entrevista-2.jpeg"> | El estudiante de Comunicación Audiovisual prefiere el aprendizaje presencial, aunque valora la flexibilidad de los cursos en línea. Usa herramientas como mapas mentales y aplicaciones para tomar notas. Recomienda una plataforma de aprendizaje que ofrezca múltiples métodos y desafíos adaptativos.|
 | Timing: 0:07-15:15  | URL: |
 | Entrevistado 3 | Ronald Cuellar Buetron   |
 | Edad |19 |
 | Distrito de residencia | San Juan de Lurigancho |
-<img src="assets/entrevista1.png"> | El entrevistado, estudiante de Sistemas de Información, destaca su curiosidad y preferencia por el aprendizaje en línea. Valora la flexibilidad, la retroalimentación detallada, y sugiere una plataforma educativa con desafíos prácticos, tutorías personalizadas y evaluaciones combinadas.|
+<img src="assets/entrevista-3.jpeg"> | El entrevistado, estudiante de Sistemas de Información, destaca su curiosidad y preferencia por el aprendizaje en línea. Valora la flexibilidad, la retroalimentación detallada, y sugiere una plataforma educativa con desafíos prácticos, tutorías personalizadas y evaluaciones combinadas.|
 | Timing: 0:07-15:15  | URL: |
 
 <br><br>
 **Entrevista a alumnos**
+
+URL de entrevistas-profesores:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=8DeEWh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM5Mi4wMn19
 
 
 | Entrevistado 4 | Ariana Mauricio Landa   |
 | ------ | -- |
 | Edad |22 |
 | Distrito de residencia | San Juan de Lurigancho |
-<img src="assets/entrevista1.png"> | Milagros, profesora de inglés y estudiante, enfrenta desafíos con la baja participación en clases virtuales. Utiliza laptop, tablet, correo y WhatsApp para su trabajo. Prefiere evaluaciones formativas y proyectos prácticos, y busca personalizar el contenido para sus estudiantes.|
+<img src="assets/entrevista-4.jpeg"> | Milagros, profesora de inglés y estudiante, enfrenta desafíos con la baja participación en clases virtuales. Utiliza laptop, tablet, correo y WhatsApp para su trabajo. Prefiere evaluaciones formativas y proyectos prácticos, y busca personalizar el contenido para sus estudiantes.|
 | Timing: 0:07-15:15  | URL: |
 | Entrevistado 5 | Bruno Minaya  |
 | Edad |28 |
 | Distrito de residencia | Surquillo |
-<img src="assets/entrevista1.png"> | El profesor Bruno valora la integración de herramientas tecnológicas en la enseñanza, destacando la importancia de prácticas al finalizar las clases y el seguimiento del progreso de los estudiantes para un aprendizaje eficaz y adaptativo.|
+<img src="assets/entrevista-5.jpeg"> | El profesor Bruno valora la integración de herramientas tecnológicas en la enseñanza, destacando la importancia de prácticas al finalizar las clases y el seguimiento del progreso de los estudiantes para un aprendizaje eficaz y adaptativo.|
 | Timing: 0:07-15:15  | URL: |
 | Entrevistado 6 | Jorge Anthony Monteza |
 | Edad |58 |
 | Distrito de residencia | Villa Maria del Triunfo |
-<img src="assets/entrevista1.png"> | El profesor de matemáticas tiene 30 años de experiencia. Usa la plataforma Cubicol para enseñar en línea, prefiere exámenes presenciales y valora la personalización del aprendizaje y el uso de gráficos.|
+<img src="assets/entrevista-6.jpeg"> | El profesor de matemáticas tiene 30 años de experiencia. Usa la plataforma Cubicol para enseñar en línea, prefiere exámenes presenciales y valora la personalización del aprendizaje y el uso de gráficos.|
 | Timing: 0:07-15:15  | URL: |
 
 ### 2.2.3. Análisis de entrevistas. <a name ="2.2.3.">
+
+**Segmento: Alumnos**
+
+Las entrevistas con tres usuarios de plataformas de aprendizaje en línea muestran una variedad de preferencias. Priscila, estudiante de educación, aprecia la flexibilidad de las clases grabadas y las herramientas interactivas, prefiriendo evaluaciones semanales y plataformas dinámicas para el aprendizaje autodidacta. Un estudiante de comunicación audiovisual prefiere el aprendizaje presencial pero reconoce el valor de las clases grabadas; sugiere que las plataformas deben ser menos monótonas y adaptarse a distintos estilos de aprendizaje, ofreciendo evaluaciones prácticas y personalizadas. Un estudiante de sistemas de información valora el uso de plataformas como Coursera, la importancia de herramientas colaborativas como Slack y LinkedIn, y expresa frustraciones con la carga de trabajo y el equilibrio entre teoría y práctica. En general, el 60% de los usuarios desea plataformas más dinámicas y adaptables, el 40% valora la flexibilidad de las clases grabadas, el 33% prefiere evaluaciones prácticas, y el 33% destaca la integración de herramientas colaborativas. Un 20% muestra frustraciones con la carga de trabajo y el equilibrio académico.
+
+**Segmento: Profesores**
+
+La profesora de inglés utiliza herramientas como correo profesional y WhatsApp, y su objetivo profesional es continuar su educación y mejorar su bienestar, enfrentando frustraciones con la baja participación estudiantil en clases virtuales. El profesor de programación usa computadoras para enseñar y herramientas como Google Classroom y entornos de desarrollo como Visual Studio, buscando mantenerse actualizado y enfrentar desafíos con la adaptación a nuevas tecnologías. El profesor de matemáticas destaca por su dedicación al uso de tecnología educativa y herramientas como plataformas digitales para mejorar la enseñanza, enfrentando dificultades con la integración de nuevas tecnologías. El 30% de los entrevistados enfrenta frustraciones con la participación estudiantil, el 40% se enfoca en la adaptación a nuevas tecnologías, y el 30% se dedica a mejorar la enseñanza mediante plataformas digitales.
 
 ## 2.3. Needfinding. <a name ="2.3.">
 ### 2.3.1. User Personas. <a name ="2.3.1.">
