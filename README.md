@@ -1463,7 +1463,7 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 | HU05 | Ver descripción de la plataforma en la landing page | TK4 | Despliegue de la landing page | Se realiza el despliegue de la landing page por medio de GitHub Pages | 2 | Fabrisio Belahonia  | Done |
 | HU05 | Ver descripción de la plataforma en la landing page | TK5 | Mejorar UI/UX en la landing page | Se mejorará la interfaz y la experiencia de usuario de la landing page siguiendo el feedback obtenido por los usuarios | 4 | Pedro Guía  | To-do |
 | HU02 | Caja de contacto (landing page) | TK1 | Crear formulario para contactar a LearnE | Se diseñará e implementará un formulario de contacto con el cual los usuarios podrán resolver sus dudas sobre LearnE | 4 | Pedro Guía  | Done |
-
+ 
 
 #### 5.2.1.3. Development Evidence for Sprint Review. <a name ="5.2.1.3.">
 
@@ -1472,6 +1472,15 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 | LearnE-LandingPage | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
 | LearnE-LandingPage | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
 
+
+**Commits vistos desde GitHub:**
+
+<img src="assets/development1.png" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
+
+
+**Repositorio de GitHub**
+
+<img src="assets/development2.png" alt="developmentEvidence2" title="Development Evidence 2" style="width:100%;">
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.1.4.">
@@ -1498,11 +1507,9 @@ En esta entrega, se desarrolló y desplegó la landing page junto a sus caracter
 <img src="assets/execution6.png" alt="executionEvidence6" title="Execution Evidence 6" style="width:100%;">
 
 
-
-
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
-**Este item no aplica para esta entrega.**
+**Esta sección no aplica para esta entrega.**
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
@@ -1511,14 +1518,15 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 <img src="assets/deployment.png" alt="githubPagesD" title="GitHub Pages deployment" style="width:80%;">
 
 
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
-| Nombre | Actividad realizada en el sprint 1 |
-
-
+| Fabrisio Andre Belahonia Miranda | Actividad realizada en el sprint 1 |
+| Elizabeth Lucero Huanaco Huayta | Actividad realizada en el sprint 1 |
+| Anthony Martin Huapaya Cuevas | Actividad realizada en el sprint 1 |
+| Pedro Andre Guia Carrasco | Actividad realizada en el sprint 1 |
+| Jorge David Orrego Noriega | Actividad realizada en el sprint 1 |
 
 
 # Conclusiones y recomendaciones.
@@ -1539,8 +1547,11 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 # Anexos
 
-**Enlace de la landing page:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
+**Enlace del repositorio del informe:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Reporte 
 
+**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage 
+
+**Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
 
 **Video Exposición TB1:** 
 * Enlace de la exposición en Microsoft Stream:
