@@ -894,7 +894,60 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 **Mis cursos**: Muestra de forma clara y organizada la lista de cursos en los que el usuario está inscrito. Se organiza los cursos en bloques o tarjetas, facilitando la exploración rápida y los títulos son prominentes para resaltar.
 <img src="assets/wireframes-web-application/Mis-cursos.png" alt="Mis-cursos" title="Mis-cursos">
 
+**Versión Mobile**<br>
+
+**Pantalla de inicio del registro**: Es claro, comprensible y fácil de usar, sin complicar al usuario sobre la acción que debe realizar al iniciar la aplicación por primera vez o ya lo estaba usando anteriormente.<br>
+<img src="assets/wireframes-web-application/PantallaInicioRegistro.png" alt="Pantalla-Inicio-Regsitro">
+
+**Iniciar Sesión**: Muestra que datos completar al momento de querer iniciar sesión en la plataforma teniendo una cuenta, mostrando de manera sencilla y comprensible.<br>
+<img src="assets/wireframes-web-application/InicioSesion.png" alt="Inicio-Sesion">
+
+**Registro**: Es claro y fácil de usarlo, garantizando al usuario los campos que debe rellenar al momento de registrarse en la aplicación.
+<img src="assets/wireframes-web-application/Registro.png" alt="Pantalla-Registro">
+
+**Planes**: Es sencillo, claro y comprensible, donde el estudiante debe escoger cual plan usará al momento de registrarse en la aplicación o cuando ya tenga la cuenta y quiera usar una suscripción premium.<br>
+<img src="assets/wireframes-web-application/Planes.png" alt="Planes">
+
+**Pago**: Es entendible y sencillo, donde se colocará algunos datos de la tarjeta para efectuar el pago de la suscripción premium.
+<img src="assets/wireframes-web-application/PagoPremium.png" alt="Pago">
+
+**Pago exitoso**: Al momento de realizar el proceso del pago, si todo salió bien, saldrá un mensaje de que el pago fue exitoso y que puede tener el contenido adicional que ofrece la suscripción premium. Se uso dos ventanas diferentes, las cuales son al momento de realizar el pago en el registro y la otra cuando ya tiene una cuenta activa.<br>
+<img src="assets/wireframes-web-application/PagoRealizadoPremiumInicio.png" alt="Pago-Realizado-Registro">
+<img src="assets/wireframes-web-application/PagoRealizadoPremiumRegistrado.png" alt="Pago-Realizado-Registrado">
+
+**Pago fallido**: Indica cuando el proceso de pago tuvo un problema, por lo que no se logra efectuar el pago para la suscripción, donde tienes la opción de volver a la ventana del Pago o entrar a la aplicación sin la suscripción premium. Al igual que el pago exitoso, se tiene dos ventanas para la versión del registro y una cuenta activa.<br>
+<img src="assets/wireframes-web-application/PagoFallidoPremiumInicio.png" alt="Pago-Fallido-Registro">
+<img src="assets/wireframes-web-application/PagoFallidoPremiumRegistrado.png" alt="Pago-Fallido-Registrado">
+
+**Pantalla de inicio**: Fácil de usar, sencillo y eficaz, donde al iniciar sesión o terminar de registrarse le mandará a la pantalla de inicio de la aplicación. Este muestra algunos cursos recomendados por la misma aplicación y una barra de búsqueda para encontrar los cursos que el estudiante quiere inscribirse. Este tiene una versión premium y gratuita, donde mostrará los cursos que tienen un candado por ser suscripción gratis y los candados abiertos para las suscripciones premium.<br>
+<img src="assets/wireframes-web-application/PantallaInicioEstudianteCursosFree.png" alt="Inicio-Estudiante-Free">
+<img src="assets/wireframes-web-application/PantallaInicioEstudianteCursosPremium.png" alt="Inicio-Estudiante-Premium">
+
+**Barra Multitarea**: Opción donde le mostrará las distintas ventanas que puede acceder, como "Mis cursos", "Actividades", "Historial de cursos", entre otros.<br>
+<img src="assets/wireframes-web-application/BarraMultitareas.png" alt="Barra-Multitareas">
+
+**Curso seleccionado**: Al momento de seleccionar el curso que tiene interés el estudiante, se le mostrará los detalles del curso con distintas informaciones necesarias para el estudiante. Se mostrará como se ve en la pantalla del móvil y el scrolleo de la pantalla.<br>
+<img src="assets/wireframes-web-application/VistaCursoPantalla.png" alt="Curso-Pantalla">
+<img src="assets/wireframes-web-application/VistaCursoCompleto.png" alt="Curso-Completo">
+
+**Tutorías**: En esta ventanas mostrará la sección en que se encuentra la parte de tutorías en cada curso.
+<img src="assets/wireframes-web-application/" alt="">
+
+**Búsqueda de tutorías**: En estas ventanas se mostrarán lo que es la pantalla de carga cuando se selecciona la opción de búsqueda de tutorías y las respuestas que puede recibir, ya sea que muestre los horarios disponibles o si no hay tutorías disponibles.<br>
+<img src="assets/wireframes-web-application/BusquedaTutoriasDisponibles.png" alt="Busqueda-Tutorias">
+<img src="assets/wireframes-web-application/BusquedaTutoriasEleccion.png" alt="Busqueda-Eleccion">
+<img src="assets/wireframes-web-application/BusquedaTutoriasFallida.png" alt="Busqueda-Fallida">
+
+**Tutorías disponibles**: En estas ventanas se mostrarán las tutorías reservadas que ya se encuentran disponibles del curso, mostrando una pantalla de carga, la pantalla donde no hay tutorías disponibles y el enlace de la tutoría reservada.<br>
+<img src="assets/wireframes-web-application/" alt="">
+<img src="assets/wireframes-web-application/" alt="">
+<img src="assets/wireframes-web-application/" alt="">
+
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
+**Wireflow Diagram Reserva e ingreso de tutorías**<br>
+
+En este diagrama, se mostrará el proceso que pasa un estudiante para lograr reservar y posteriormente ingresar a una tutoría, teniendo en cuenta que es alguien que tiene una suscripción premium y puede acceder a esa funcionalidad.
+<img src="assets/WireFlows Estudiante.png" alt="Wireflow-Tutorías">
 
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
