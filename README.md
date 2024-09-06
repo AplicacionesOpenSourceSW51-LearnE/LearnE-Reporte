@@ -1059,6 +1059,11 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 En este diagrama, se mostrará el proceso que pasa un estudiante para lograr reservar y posteriormente ingresar a una tutoría, teniendo en cuenta que es alguien que tiene una suscripción premium y puede acceder a esa funcionalidad.
 <img src="assets/WireFlows Estudiante.png" alt="Wireflow-Tutorías">
 
+**Wireflow Diagram Gestión de cursos**<br>
+
+En este diagrama, se mostrará el proceso de como el profesor administra su curso, podemos ver tanto la subida de examenes, temas y cursos
+<img src="assets/WireFlows_Profesor.jpeg" alt="Wireflow-Gestion-cursos">
+
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
 
