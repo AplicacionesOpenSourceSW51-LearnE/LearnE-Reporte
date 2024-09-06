@@ -1086,28 +1086,27 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 | Sprint # | Sprint 1 |
 |----------|----------|
 | Sprint Planning Background |
-| Date |  |
-| Time |  |
-| Location |  |
-| Prepared By |  |
-| Attendees (to planning meeting) | |
+| Date | 28/08/2024  |
+| Time | 18:00 |
+| Location | Videoconferencia por Discord |
+| Prepared By | Jorge Orrego |
+| Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
-| Sprint 1 Goal |  |
-| Sprint 1 Velociy |  |
-| Sum of Story Point |  |
+| Sprint 1 Goal | Completar el desarrollo de la landing page y desplegarla en GitHub Pages |
+| Sprint 1 Velociy | 7 |
+| Sum of Story Point | 7 |
 
 #### 5.2.1.2. Sprint Backlog 1. <a name ="5.2.1.2.">
 
 
-
-| Sprint # | Sprint 1 |
-|----------|----------|
-| User Story | WorkItem/Task |
-
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
-| |  |  |  |  |  |  |  |
-
+| HU05 | Ver descripción de la plataforma en la landing page | TK1 | Diseño UI/UX de la landing page | Se realiza el diseño de la interfaz de usuario para la landing page con wireframes y mockups | 6 | Jorge Orrego  | Done |
+| HU05 | Ver descripción de la plataforma en la landing page | TK2 | Desarrollo de la landing page | Se desarrolla la landing page con HTML, CSS y Javascript | 10 | Anthony Huapaya  | Done |
+| HU05 | Ver descripción de la plataforma en la landing page | TK3 | Optimización SEO | Se realiza la optimización SEO para que la página pueda ser detectada fácilmente por buscadores como Google o Bing | 4 | Elizabeth Huanaco  | Done |
+| HU05 | Ver descripción de la plataforma en la landing page | TK4 | Despliegue de la landing page | Se realiza el despliegue de la landing page por medio de GitHub Pages | 2 | Fabrisio Belahonia  | Done |
+| HU05 | Ver descripción de la plataforma en la landing page | TK5 | Mejorar UI/UX en la landing page | Se mejorará la interfaz y la experiencia de usuario de la landing page siguiendo el feedback obtenido por los usuarios | 4 | Pedro Guía  | To-do |
+| HU02 | Caja de contacto (landing page) | TK1 | Crear formulario para contactar a LearnE | Se diseñará e implementará un formulario de contacto con el cual los usuarios podrán resolver sus dudas sobre LearnE | 4 | Pedro Guía  | Done |
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review. <a name ="5.2.1.3.">
@@ -1121,7 +1120,6 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |            |        |           |                |                     |                  | 
-
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.1.5.">
