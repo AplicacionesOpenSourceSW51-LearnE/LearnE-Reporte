@@ -1547,7 +1547,7 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 | HU05 | Ver descripción de la plataforma en la landing page | TK3 | Optimización SEO | Se realiza la optimización SEO para que la página pueda ser detectada fácilmente por buscadores como Google o Bing | 4 | Elizabeth Huanaco  | Done |
 | HU05 | Ver descripción de la plataforma en la landing page | TK4 | Despliegue de la landing page | Se realiza el despliegue de la landing page por medio de GitHub Pages | 2 | Fabrisio Belahonia  | Done |
 | HU05 | Ver descripción de la plataforma en la landing page | TK5 | Mejorar UI/UX en la landing page | Se mejorará la interfaz y la experiencia de usuario de la landing page siguiendo el feedback obtenido por los usuarios | 4 | Pedro Guía  | To-do |
-| HU02 | Caja de contacto (landing page) | TK1 | Crear formulario para contactar a LearnE | Se diseñará e implementará un formulario de contacto con el cual los usuarios podrán resolver sus dudas sobre LearnE | 4 | Pedro Guía  | Done |
+| HU21 | Caja de contacto (landing page) | TK1 | Crear formulario para contactar a LearnE | Se diseñará e implementará un formulario de contacto con el cual los usuarios podrán resolver sus dudas sobre LearnE | 4 | Pedro Guía  | Done |
  
 
 #### 5.2.1.3. Development Evidence for Sprint Review. <a name ="5.2.1.3.">
