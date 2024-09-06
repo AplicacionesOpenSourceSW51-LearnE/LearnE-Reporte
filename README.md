@@ -1570,10 +1570,21 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.1.4.">
 
+Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias de usuario abordadas en este sprint (HU05 y HU21). 
+
+<img src="assets/gherkin1.png" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
+
+<img src="assets/gherkin2.png" alt="Gherkin2" title="Gherkin Test 2" style="width:100%;">
+
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                  | 
+|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Initial commit |  Initial commit                   |    06/09/2024 | 
+|  LearnE-Product-Testing | main | c9d0663eba6510a0bfb3e2cc0dd2972e65974e0a | feat(testing): added HU05 acceptance tests file|  feat(testing): added HU05 acceptance tests file |    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4a7e4a5840b391d6b1ca2ba9c26298482109505a | feat(testing): added feature's scenarios |  feat(testing): added feature's scenarios|    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4288e500ee61b2c1e84ad46934d59633ecc28b51 | feat(testing): added HU21 feature set |  feat(testing): added HU21 feature set |    06/09/2024 | 
 
+**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.1.5.">
 
