@@ -35,11 +35,11 @@
         </tr>
         <tr>
             <td>Huapaya Cuevas, Anthony Martin</td>
-            <td>u202220235</td>
+            <td>U202220235</td>
         </tr>
         <tr>
-            <td>nombre</td>
-            <td>codigo</td>
+            <td>Fabrisio Belahonia Miranda</td>
+            <td>U202220219</td>
         </tr>
     </table>
 </div>
