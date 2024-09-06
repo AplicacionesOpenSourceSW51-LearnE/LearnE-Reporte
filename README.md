@@ -436,10 +436,52 @@ Es una plataforma global de aprendizaje en línea que ofrece cursos en una ampli
 
 ### 2.1.1. Análisis competitivo. <a name ="2.1.1.">
 
+# Competitive Analysis Landscape
+
+Este análisis es llevado a cabo porque se busca conocer cuáles son las ventajas y desventajas que presenta nuestra aplicación frente a la competencia.
+
+| **Competencia**      | **LearnE** | **Udemy** | **Khan Academy** | **Platzi** |
+|----------------------|------------|-----------|------------------|------------|
+| **Perfil** | | | | |
+| **Overview** | Esta startup ofrece una plataforma educativa lúdica y autodidacta con herramientas gráficas para fomentar la creatividad. Permite a los usuarios visualizar temarios de cursos, realizar exámenes semanales para medir su progreso, y acceder a tutorías personalizadas. Además, cuentan con dos planes de suscripción disponibles. | Plataforma global de aprendizaje en línea que funciona como un marketplace, ofreciendo una extensa gama de cursos creados por instructores independientes. Udemy es accesible y flexible, permitiendo a los estudiantes aprender a su propio ritmo en diversos temas. | Organización sin fines de lucro que brinda educación gratuita y accesible en todo el mundo. Ofrece recursos educativos de alta calidad en diversas materias, permitiendo a los estudiantes de todas las edades aprender a su propio ritmo, desde primaria hasta nivel universitario. | Plataforma de aprendizaje en línea dirigida al mercado latinoamericano, especializada en habilidades tecnológicas, corporativas y creativas. Ofrece cursos prácticos y actualizados, con una comunidad activa que fomenta el aprendizaje colaborativo. Ideal para estudiantes, emprendedores y profesionales. |
+| **Ventaja Competitiva** | Exámenes semanales, tutorías personalizadas, flexibilidad de aprendizaje. | Flexibilidad de aprendizaje, diversidad de cursos, modelo de marketplace. | Gratuito, reconocimiento global. | Comunidad activa, certificaciones reconocidas, actualización constante. |
+| **Perfil de Marketing** | | | | |
+| **Mercado Objetivo** | Estudiantes autodidactas y profesionales. | Estudiantes autodidactas y profesionales en tecnologías. | Estudiantes de todas las edades (en su mayoría jóvenes) y maestros. | Estudiantes autodidactas y profesionales en tecnologías. |
+| **Estrategias de Marketing** | Marketing de contenidos, colaboración con empresas, publicidad en línea, ofertas, pruebas gratuitas. | Descuentos y promociones, email marketing, publicidad digital. | Marketing en redes sociales, apoyo a la comunidad educativa, testimonios. | Marketing de contenidos, colaboración con empresas, publicidad en línea. |
+| **Perfil de Producto** | | | | |
+| **Productos & Servicios** | Cursos en línea con herramientas gráficas, exámenes semanales, tutorías personalizadas. | Marketplace de cursos en línea. | Cursos educativos gratuitos. | Cursos en línea, certificaciones al completar el curso, comunidad activa: foros, eventos. |
+| **Precios y Costos** | Plan freemium, suscripción anual y mensual. | Depende del instructor, rondan desde los 10 dólares a 200 dólares. | Gratuito. | Suscripción anual y mensual. |
+| **Canales de Distribución** | Web y móvil. | Web y móvil. | Web y móvil. | Web y móvil. |
+| **Análisis SWOT** | | | | |
+| **Fortalezas** | Plan freemium, exámenes semanales, tutorías personalizadas, enfoque creativo. | Amplia gama de temas, categorías y cursos, disponibilidad de varios idiomas, cursos creados por instructores independientes, diversidad de fuentes de ingreso, ofertas de precio accesibles, plataforma fácil de usar. | Acceso gratuito, enfoque en educación básica, reconocida y respetada en el ámbito educativo. | Cursos de alta calidad en áreas específicas (tecnología, marketing, etc.), comunidad activa de estudiantes y expertos, ofrece certificaciones reconocidas, comunidad activa. |
+| **Debilidades** | Dependencia de suscripción premium, competencia en el mercado, recursos limitados. | Calidad variable de cursos, no ofrece certificación reconocidas oficialmente, variabilidad de precios de los cursos. | No ofrece certificaciones o grados, limitaciones en la interacción con los instructores, falta de ingresos directos: depende completamente de donaciones. | Enfoque limitado: su oferta de cursos está más centrada en tecnología y negocios, dependencia del mercado latinoamericano, precios altos. |
+| **Oportunidades** | Expansión del mercado, colaboraciones, innovación continua. | Expansión en mercados emergentes, colaboraciones corporativas, mejoras en la calidad, ofrecer certificados internacionales. | Expansión de contenido, colaboraciones educativas, innovación tecnológica, crecimiento del mercado de aprendizaje en línea. | Expansión internacional: posibilidad de crecer en otros mercados fuera de América Latina, desarrollo de nuevos cursos en otras áreas, partnerships estratégicos. |
+| **Amenazas** | Excesiva competencia, cambios de preferencia del público. | Excesiva competencia, cambios de preferencia del público. | Excesiva competencia, cambios de preferencia del público, dependencia de donaciones y financiamiento. | Excesiva competencia, cambios de preferencia del público. |
 
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores. <a name ="2.1.2.">
+
+**Mejora del Marketing de Contenidos**
+
+Colaboración con Creadores de Contenido: Establece alianzas con creadores de contenido influyentes en el ámbito educativo para aumentar la visibilidad de LearnE. Utiliza su alcance para compartir casos de éxito y testimonios que demuestran la efectividad de la plataforma.
+Publicación de Blogs: Mantener un blog activo con artículos relevantes sobre el aprendizaje autodidacta, técnicas para mejorar la creatividad, y estudios de caso. Ofrece contenido valioso que atraiga a estudiantes y profesionales interesados en el desarrollo personal y profesional.
+
+**Interfaz Intuitiva**
+
+Experiencia de Usuario: Asegúrate de que la plataforma LearnE sea fácil de navegar, con una interfaz intuitiva tanto en la versión web como en la móvil. La simplicidad y accesibilidad en el diseño garantizan una experiencia de usuario fluida y agradable.
+
+**Ofrecimiento de Roadmap de Aprendizaje**
+
+Ruta de Aprendizaje Personalizada: Proporciona a los usuarios un roadmap educativo que conecte cursos y recursos, ofreciendo una guía clara y estructurada para alcanzar sus objetivos de aprendizaje. Este enfoque facilita un camino de aprendizaje más coherente y efectivo.
+
+**Implementación de Innovación Continua**
+
+Actualización Constante de Contenidos: Asegúrate de que los cursos y materiales estén siempre actualizados con las últimas tendencias y avances en el campo. La innovación continua es clave para mantener la relevancia y la calidad educativa.
+
+**Colaboración con Instituciones y Partnerships Corporativos**
+
+Alianzas Estratégicas: Forma colaboraciones con empresas y universidades para ofrecer formación especializada y programas de desarrollo profesional. Estas alianzas no solo amplían el alcance de LearnE, sino que también enriquecen la oferta educativa con programas y recursos adicionales.
 
 
 
@@ -500,23 +542,46 @@ Es una plataforma global de aprendizaje en línea que ofrece cursos en una ampli
 - ¿Qué frustraciones encuentras en tu práctica educativa?
 
 ### 2.2.2. Registro de Entrevistas. <a name ="2.2.2.">
-| Alumno |    |
+
+**Entrevista a alumnos**
+
+| Entrevistado 1 | Priscila Jurado   |
 | ------ | -- |
-| Entrevista 1 |
-| Datos Personales del entrevistado | URL del video en Youtube |
-|Nombre Completo <br> Priscila Jurado <br> Sexo: Femenimo <br> Edad: 35 <br> Distrito de residencia: Villa Maria del Triunfo | Enlace <br> https://www.youtube.com/watch?v=9c6UjDopz_8<br>Duracion de la entrevista: 6:44 |
-| Screenshot del cuadro de video:<br> | Resumen de la entrevista
-<img src="assets/entrevista1.png"> | Priscila Jurado, estudiante de educación, usa Zoom y Google Meet para cursos en línea, valorando las clases grabadas y herramientas digitales. Prefiere el aprendizaje autodidacta y herramientas como mapas mentales. Sugiere plataformas más dinámicas y aprecia tutorías personalizadas y bien programadas.
+| Edad |35 |
+| Distrito de residencia | Villa Maria del Triunfo |
+<img src="assets/entrevista1.png"> | Priscila Jurado, estudiante de educación, usa Zoom y Google Meet para cursos en línea, valorando las clases grabadas y herramientas digitales. Prefiere el aprendizaje autodidacta y herramientas como mapas mentales. Sugiere plataformas más dinámicas y aprecia tutorías personalizadas y bien programadas.|
+| Timing: 0:07-15:15  | URL: |
+| Entrevistado 2 | Esteban Salinas  |
+| Edad |18 |
+| Distrito de residencia | Villa El Salvador |
+<img src="assets/entrevista1.png"> | El estudiante de Comunicación Audiovisual prefiere el aprendizaje presencial, aunque valora la flexibilidad de los cursos en línea. Usa herramientas como mapas mentales y aplicaciones para tomar notas. Recomienda una plataforma de aprendizaje que ofrezca múltiples métodos y desafíos adaptativos.|
+| Timing: 0:07-15:15  | URL: |
+| Entrevistado 3 | Ronald Cuellar Buetron   |
+| Edad |19 |
+| Distrito de residencia | San Juan de Lurigancho |
+<img src="assets/entrevista1.png"> | El entrevistado, estudiante de Sistemas de Información, destaca su curiosidad y preferencia por el aprendizaje en línea. Valora la flexibilidad, la retroalimentación detallada, y sugiere una plataforma educativa con desafíos prácticos, tutorías personalizadas y evaluaciones combinadas.|
+| Timing: 0:07-15:15  | URL: |
+
 <br><br>
+**Entrevista a alumnos**
 
-| Alumno |    |
+
+| Entrevistado 4 | Ariana Mauricio Landa   |
 | ------ | -- |
-| Enrevista 2 |
-| Datos Personales del entrevistado | URL del video en Youtube |
-| Nombre Completo <br> Esteban Salinas <br> Sexo: Masculino <br> Edad: 18 <br> Distrito de residencia: Villa El Salvador | Enlace <br>https://www.youtube.com/watch?v=6Fe_vMqhr6c<br>Duracion de la entrevista: 9:04 |
-| Screenshot del cuadro de video:<br> | Resumen de la entrevista |
-<img src="assets/entrevista2.png"> | El estudiante de Comunicación Audiovisual prefiere el aprendizaje presencial, aunque valora la flexibilidad de los cursos en línea. Usa herramientas como mapas mentales y aplicaciones para tomar notas. Recomienda una plataforma de aprendizaje que ofrezca múltiples métodos y desafíos adaptativos.
-
+| Edad |22 |
+| Distrito de residencia | San Juan de Lurigancho |
+<img src="assets/entrevista1.png"> | Milagros, profesora de inglés y estudiante, enfrenta desafíos con la baja participación en clases virtuales. Utiliza laptop, tablet, correo y WhatsApp para su trabajo. Prefiere evaluaciones formativas y proyectos prácticos, y busca personalizar el contenido para sus estudiantes.|
+| Timing: 0:07-15:15  | URL: |
+| Entrevistado 5 | Bruno Minaya  |
+| Edad |28 |
+| Distrito de residencia | Surquillo |
+<img src="assets/entrevista1.png"> | El profesor Bruno valora la integración de herramientas tecnológicas en la enseñanza, destacando la importancia de prácticas al finalizar las clases y el seguimiento del progreso de los estudiantes para un aprendizaje eficaz y adaptativo.|
+| Timing: 0:07-15:15  | URL: |
+| Entrevistado 6 | Jorge Anthony Monteza |
+| Edad |58 |
+| Distrito de residencia | Villa Maria del Triunfo |
+<img src="assets/entrevista1.png"> | El profesor de matemáticas tiene 30 años de experiencia. Usa la plataforma Cubicol para enseñar en línea, prefiere exámenes presenciales y valora la personalización del aprendizaje y el uso de gráficos.|
+| Timing: 0:07-15:15  | URL: |
 
 ### 2.2.3. Análisis de entrevistas. <a name ="2.2.3.">
 
@@ -983,30 +1048,20 @@ En este diagrama, se mostrará el proceso que pasa un estudiante para lograr res
 
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
-#### Mockups Estudiante
-
-<img src="assets/Mockup2.png" alt="Mockups-Estudiante">
-
-#### Mockups Profesor 
-
-<img src="assets/Mockup1.png" alt="Mockups-Estudiante">
-
-**Enlace para visualizar el documento en Figma:** https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=0-1&t=X3dkYmw5u2QoQ7HN-1  
 
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
-**Estudiante** <br><br> 
-Usuario inicia sesión <br> 
+- Estudiante <br>
+Usuario inicia sesión 
 <img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion"><br>
-Ingresa su correo y contraseña <br>
-
-Estudiante se registra <br><br>
-<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br><br> 
-Ingresa datos de cuenta y se registra <br><br> 
-Pantalla de inicio <br>
-<img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> <br><br>
+Ingresa su correo y contraseña 
+<br><br>
+Estudiante se registra
+<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br>
+Ingresa datos de cuenta y se registra<br><br>
+<img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> <br>Pantalla de inicio
+<br><br>
 Recordatorio de tutorias<br><br>
-<img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio"><br><br>
-Notificaciones de tutorias<br><br>
+<img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio">Notificaciones de tutorias<br><br>
 Estudiante elige plan
 <img src="assets/user_flow4.png" alt="UserFlow4" title="Planes"> Escoge el plan premium<br><br>
 Añade metodo de pago
@@ -1639,7 +1694,6 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 
 ## Conclusiones TB1
 
-* Durante el desarrollo del TB1 pudimos pasar de nuevo por el proceso de investigación y delimitación de requisitos para diseñar nuestra aplicación de la mejor manera. Esto nos ha servido para acostumbrarnos a este método de trabajo para el desarrollo de software, además de mejorar nuestras habilidades de comunicación y trabajo en equipo.  
 
 # Bibliografía
 
