@@ -983,20 +983,30 @@ En este diagrama, se mostrará el proceso que pasa un estudiante para lograr res
 
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
+#### Mockups Estudiante
+
+<img src="assets/Mockup2.png" alt="Mockups-Estudiante">
+
+#### Mockups Profesor 
+
+<img src="assets/Mockup1.png" alt="Mockups-Estudiante">
+
+**Enlace para visualizar el documento en Figma:** https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=0-1&t=X3dkYmw5u2QoQ7HN-1  
 
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
-- Estudiante <br>
-Usuario inicia sesión 
+**Estudiante** <br><br> 
+Usuario inicia sesión <br> 
 <img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion"><br>
-Ingresa su correo y contraseña 
-<br><br>
-Estudiante se registra
-<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br>
-Ingresa datos de cuenta y se registra<br><br>
-<img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> <br>Pantalla de inicio
-<br><br>
+Ingresa su correo y contraseña <br>
+
+Estudiante se registra <br><br>
+<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br><br> 
+Ingresa datos de cuenta y se registra <br><br> 
+Pantalla de inicio <br>
+<img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> <br><br>
 Recordatorio de tutorias<br><br>
-<img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio">Notificaciones de tutorias<br><br>
+<img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio"><br><br>
+Notificaciones de tutorias<br><br>
 Estudiante elige plan
 <img src="assets/user_flow4.png" alt="UserFlow4" title="Planes"> Escoge el plan premium<br><br>
 Añade metodo de pago
@@ -1629,6 +1639,7 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 
 ## Conclusiones TB1
 
+* Durante el desarrollo del TB1 pudimos pasar de nuevo por el proceso de investigación y delimitación de requisitos para diseñar nuestra aplicación de la mejor manera. Esto nos ha servido para acostumbrarnos a este método de trabajo para el desarrollo de software, además de mejorar nuestras habilidades de comunicación y trabajo en equipo.  
 
 # Bibliografía
 
