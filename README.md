@@ -939,7 +939,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 <img src="assets/wireframes-web-application/BusquedaTutoriasFallida.png" alt="Busqueda-Fallida">
 
 **Tutorías disponibles**: En estas ventanas se mostrarán las tutorías reservadas que ya se encuentran disponibles del curso, mostrando una pantalla de carga, la pantalla donde no hay tutorías disponibles y el enlace de la tutoría reservada.<br>
-<img src="assets/wireframes-web-application/TutoriasDisponibleCarga.png" alt="Tutorias-Disponible-Cargando">
+<img src="assets/wireframes-web-application/TutoríasDisponibleCarga.png" alt="Tutorias-Disponible-Cargando">
 <img src="assets/wireframes-web-application/TutoriasDisponiblesFallido.png" alt="Tutorias-Disponible-Fallido">
 <img src="assets/wireframes-web-application/TutoriasDisponibleExito.png" alt="Tutorias-Disponible-Exitoso">
 
