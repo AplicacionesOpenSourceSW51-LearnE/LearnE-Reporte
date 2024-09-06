@@ -198,7 +198,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <!-- Huanaco Huayta, Elizabeth Lucero -->
   <tr align="center">
     <td rowspan="3" width="30%">
-      <img src="" alt="" style="margin-bottom: 5px;" width="200"/> 
+      <img src="assets/ElizabethHuanaco.jpg" alt="" style="margin-bottom: 5px;" width="200"/>  
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
@@ -214,7 +214,7 @@ Será una aplicación con dos planes de suscripción, el primero es de ámbito f
   <tr>
     <td align="left" style="padding: 10px;">
       <b>Acerca de:</b><br>
-      Colocar descripción
+      Estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas porque me interesa el campo de la tecnología. Elegí enfocarme en esta carrera por el interés que tengo en el desarrollo de software, ya que considero que es un área clave para el futuro de la innovación tecnológica.
     </td>
   </tr>
   <!-- Anthony Martin Huapaya Cuevas -->
