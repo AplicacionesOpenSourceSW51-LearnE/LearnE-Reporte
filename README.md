@@ -1157,6 +1157,9 @@ Añadir pago por tarjeta: Plan Premium<br><br>
   <img src="assets/user_flow44.png" alt="UserFlow44" title="Gestion1">Eliminacion exitosa<br><br>
 
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
+Nuestro prototipo ofrece una interfaz clara y accesible, con un enfoque en la usabilidad y diseño inclusivo. Incluye pantallas intuitivas para iniciar sesión, registrar cuentas y realizar pagos seguros. La gestión de cursos y el historial se muestran de forma ordenada, mientras que el perfil del estudiante y las valoraciones de cursos facilitan la personalización y retroalimentación. Además, el calendario organiza eventos, y las pantallas de exámenes y proyectos permiten una administración eficiente de tareas y calificaciones. Cada diseño está pensado para proporcionar una experiencia de usuario fluida y eficiente.
+<img src="assets/video-prototype.png" alt="video-prototype" title="video-prototype">
+
 
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 
@@ -1760,3 +1763,6 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Video del prototipo:**
+* Enlace del prototipo en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/Eb8Tl2H6XNlNjMv65altgY4BNPGXfpaAN2Pi73xCZj6vUw?e=f0IGzn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
