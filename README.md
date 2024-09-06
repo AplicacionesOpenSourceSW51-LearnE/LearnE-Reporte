@@ -1469,7 +1469,10 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-|            |        |           |                |                     |                  | 
+| LearnE-LandingPage | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
+| LearnE-LandingPage | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.1.4.">
 
@@ -1479,6 +1482,33 @@ Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.1.5.">
+
+En esta entrega, se desarrolló y desplegó la landing page junto a sus características. 
+
+<img src="assets/execution1.png" alt="executionEvidence1" title="Execution Evidence 1" style="width:100%;">
+
+<img src="assets/execution2.png" alt="executionEvidence2" title="Execution Evidence 2" style="width:100%;">
+
+<img src="assets/execution3.png" alt="executionEvidence3" title="Execution Evidence 3" style="width:100%;">
+
+<img src="assets/execution4.png" alt="executionEvidence4" title="Execution Evidence 4" style="width:100%;">
+
+<img src="assets/execution5.png" alt="executionEvidence5" title="Execution Evidence 5" style="width:100%;">
+
+<img src="assets/execution6.png" alt="executionEvidence6" title="Execution Evidence 6" style="width:100%;">
+
+
+
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+**Este item no aplica para esta entrega.**
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró para utilizar la rama main como base del proyecto a desplegar. 
+
+<img src="assets/deployment.png" alt="githubPagesD" title="GitHub Pages deployment" style="width:80%;">
 
 
 
@@ -1509,12 +1539,11 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 # Anexos
 
-**Enlace de la landing page:**
+**Enlace de la landing page:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
 
 
 **Video Exposición TB1:** 
-
+* Enlace de la exposición en Microsoft Stream:
 
 **Video de las Entrevistas:**
-* Link de la entrevista en Youtube: 
-* Link de la entrevista en Microsoft Stream: 
+* Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
