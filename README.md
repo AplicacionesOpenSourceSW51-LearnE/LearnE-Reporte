@@ -986,7 +986,7 @@ Añadir pago por tarjeta: Plan Premium<br><br>
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
-
+<img src="assets/Diagrama de clases_LearnE.png" alt="Class Diagram" title="Diagrama de Clases">
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 
