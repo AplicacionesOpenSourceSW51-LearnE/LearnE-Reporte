@@ -931,7 +931,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 <img src="assets/wireframes-web-application/VistaCursoCompleto.png" alt="Curso-Completo">
 
 **Tutorías**: En esta ventanas mostrará la sección en que se encuentra la parte de tutorías en cada curso.
-<img src="assets/wireframes-web-application/" alt="">
+<img src="assets/wireframes-web-application/TutoríasMovil.png" alt="Tutorias-Movil">
 
 **Búsqueda de tutorías**: En estas ventanas se mostrarán lo que es la pantalla de carga cuando se selecciona la opción de búsqueda de tutorías y las respuestas que puede recibir, ya sea que muestre los horarios disponibles o si no hay tutorías disponibles.<br>
 <img src="assets/wireframes-web-application/BusquedaTutoriasDisponibles.png" alt="Busqueda-Tutorias">
@@ -939,9 +939,9 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 <img src="assets/wireframes-web-application/BusquedaTutoriasFallida.png" alt="Busqueda-Fallida">
 
 **Tutorías disponibles**: En estas ventanas se mostrarán las tutorías reservadas que ya se encuentran disponibles del curso, mostrando una pantalla de carga, la pantalla donde no hay tutorías disponibles y el enlace de la tutoría reservada.<br>
-<img src="assets/wireframes-web-application/" alt="">
-<img src="assets/wireframes-web-application/" alt="">
-<img src="assets/wireframes-web-application/" alt="">
+<img src="assets/wireframes-web-application/TutoriasDisponibleCarga.png" alt="Tutorias-Disponible-Cargando">
+<img src="assets/wireframes-web-application/TutoriasDisponiblesFallido.png" alt="Tutorias-Disponible-Fallido">
+<img src="assets/wireframes-web-application/TutoriasDisponibleExito.png" alt="Tutorias-Disponible-Exitoso">
 
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 **Wireflow Diagram Reserva e ingreso de tutorías**<br>
