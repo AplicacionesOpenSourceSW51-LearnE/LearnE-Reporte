@@ -1732,6 +1732,17 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
 
+**Enlace del diseño de wireframe, mock-up en Figma:** [https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/](https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=130-2271&t=yze7EryhPGMBUH6k-1)
+
+**Enlace del diseño de prototipo en Figma:** https://www.figma.com/design/ci2Ygt5R6JV8urqClMaCGY/Prototype-profesor?node-id=0-1&t=9VUnWDu8gxvP6HyO-1
+
+**Enlace del diseño de wireflow  en Lucichart:** https://lucid.app/lucidchart/28e93606-7f76-4b9c-a6ed-f3b4b86c47ce/edit?viewport_loc=-34510%2C-1461%2C40548%2C19097%2C0_0&invitationId=inv_59fdf1d1-d1ca-4b45-8179-794abf6a4622
+
+
+**Enlace del diseño de diagrama de clases en Lucichart:** https://lucid.app/lucidchart/101906ad-b7f2-4a67-9ddb-33c808ce45ad/edit?viewport_loc=332%2C-610%2C3288%2C1719%2C0_0&invitationId=inv_b5f08b4d-7601-4bf6-9e18-990c1b5a8642
+
+**Enlace del diseño de diagrama de base de datos en Lucichart:** https://my.vertabelo.com/doc/KTSHelrn2ajC6jYSn2rozYWJLZfVw5rA
+
 **Video Exposición TB1:** 
 * Enlace de la exposición en Microsoft Stream:
 
