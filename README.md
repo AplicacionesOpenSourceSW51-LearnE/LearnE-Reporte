@@ -931,7 +931,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 <img src="assets/wireframes-web-application/VistaCursoCompleto.png" alt="Curso-Completo">
 
 **Tutorías**: En esta ventanas mostrará la sección en que se encuentra la parte de tutorías en cada curso.
-<img src="assets/wireframes-web-application/TutoríasMovil.png" alt="Tutorias-Movil">
+<img src="assets/wireframes-web-application/TutoríasMóvil.png" alt="Tutorias-Movil">
 
 **Búsqueda de tutorías**: En estas ventanas se mostrarán lo que es la pantalla de carga cuando se selecciona la opción de búsqueda de tutorías y las respuestas que puede recibir, ya sea que muestre los horarios disponibles o si no hay tutorías disponibles.<br>
 <img src="assets/wireframes-web-application/BusquedaTutoriasDisponibles.png" alt="Busqueda-Tutorias">
