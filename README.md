@@ -929,11 +929,12 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 ### 5.1.1. Software Development Environment Configuration. <a name ="5.1.1.">
 
-### Requirements Management
+#### Requirements Management
    1. **UXPressia:** Es una herramienta de diseño utilizada principalmente para crear user personas, empathy mappings, impact maps, etc. Con esta hemos desarrollado la mayoría de gráficos vistos en los capítulos II y III. Enlace de referencia: <https://uxpressia.com/>
    2. **Vertabelo:** Plataforma especializada en crear diseños para bases de datos de manera colaborativa. En esta hemos creado nuestro diseño de la base de datos de LearnE. Enlace de referencia <https://vertabelo.com/>
    3. **Figma:** Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow Diagrams. Enlace de referencia: <https://www.figma.com/>
-### Software Development
+
+#### Software Development
    1. **JetBrains WebStorm:** Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de ejecutar nuestra aplicación web (frontend) que nos permita ver los cambios al programa en tiempo real cuando se edita el código. Enlace de referencia https://www.jetbrains.com/es-es/webstorm/
    2. **IntelliJ IDEA Ultimate:** Entorno de desarrollo de software especializado en el desarrollo de aplicaciones con el lenguaje de programación Java. Lo vamos a utilizar a la hora de desarrollar el backend con OpenJDK. Enlace de referencia: https://www.jetbrains.com/es-es/idea/ 
    3. **HTML5:** Es un lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. En este caso vamos a utilizar su última versión en la creación tanto de la landing page como del frontend en complemento con otras herramientas. Enlace de referencia: https://www.w3schools.com/html/
@@ -944,22 +945,62 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
    8. **OpenJDK:** Kit de desarrollo de Java de código abierto que utilizaremos en el desarrollo del backend. Enlace de referencia: https://openjdk.org/ 
    9. **MySQL:** Motor de base de datos que utilizaremos en el desarrollo de nuestro backend. Se eligió por ser más simple de administrar que otros motores de bases de datos. Enlace de referencia: https://www.mysql.com/ 
     
-### Software Deployment
+#### Software Deployment
    1. **GitHub Pages:** Servicio de hosting para páginas web de GitHub que nos permite desplegar de una manera más sencilla, ya que solo tenemos que subir el proyecto a un repositorio sin mucha configuración por nuestra parte para que funcione. Se utilizará para desplegar la landing page. Enlace de referencia: https://pages.github.com/ 
    2. **Google Firebase:** Servicio de hosting de Google para páginas web que nos permiten desplegar aplicaciones web más complejas. Requiere de una configuración previa por el desarrollador en su proyecto para desplegarlo. Se utilizará para desplegar el frontend de nuestra aplicación web. Enlace de referencia: https://firebase.google.com 
    3. **Microsoft Azure:** Plataforma de computación en la nube que nos permite desplegar una gran variedad de aplicaciones. En este caso la utilizaremos para desplegar tanto nuestra base de datos MySQL como nuestro backend. Enlace de referencia: https://azure.microsoft.com/es-es/
 
-### Software Documentation and Project Management
+#### Software Documentation and Project Management
    1. **Git:** Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de una aplicación en desarrollo. Los miembros del equipo podrán acceder a ella a través de servicios como GitHub o desde sus propias computadoras. Enlace de referencia: https://git-scm.com/
    2. **Github:** Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git. Esto nos facilitará la colaboracion en tiempo real y la revision de nuestros avances del proyecto por parte de cada miembro del equipo. Enlace de referencia https://github.com/
    
 
 ### 5.1.2. Source Code Management. <a name ="5.1.2.">
 
+El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando Git para el control de versiones. Además, el código fuente del proyecto será publicado en la plataforma GitHub tanto para publicar nuestros avances de manera pública como para permitir la colaboración entre cada integrante del equipo en el desarrollo del mismo. 
+
+<img src="assets/gitflow.png" alt="gitflow" title="GitFlow" style="width:50%;">
+
+
+**Enlace del repositorio del informe:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Reporte 
+
+**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage 
+
 ### 5.1.3. Source Code Style Guide & Conventions. <a name ="5.1.3.">
 
+A continuación, se mencionará brevemente las convenciones más importantes para los principales lenguajes de programación y de estilos que se van a utilizar en el desarrollo del trabajo: 
+
+#### HTML
+- Usa indentación consistente (generalmente 2 o 4 espacios).
+- Atributos en minúsculas y entre comillas dobles (`<div class="example">`).
+- Usa elementos semánticos siempre que sea posible (`<header>`, `<footer>`, `<article>`).
+- Cierra siempre las etiquetas, incluso en elementos auto-cerrados (`<img />`).
+
+#### CSS
+- Usa guiones para nombres de clases y IDs en lugar de camelCase (ej. `.primary-button`).
+- Organiza las reglas CSS por tipo (layout, estilo visual, etc.).
+- Usa indentación de 2 o 4 espacios.
+- Evita el uso excesivo de IDs para seleccionar elementos, prioriza las clases.
+- Usa el sistema de colores en hexadecimal o variables CSS para consistencia.
+
+#### JavaScript
+- Usa `camelCase` para nombres de variables y funciones (`let myVariable`).
+- Prefiere `const` y `let` sobre `var` para declarar variables.
+- Escribe funciones en flecha cuando sea posible (`const func = () => {}`).
+- Usa punto y coma al final de las declaraciones.
+- Nombra las funciones y variables de manera descriptiva y clara.
+
+#### TypeScript
+- Sigue las mismas convenciones de JavaScript.
+- Usa tipado explícito donde sea posible (`const age: number = 25`).
+- Evita el uso de `any`, en su lugar, define interfaces o tipos específicos.
+- Aprovecha las características de ES6+ como `async/await` y desestructuración.
 
 ### 5.1.4. Software Deployment Configuration. <a name ="5.1.4.">
+
+Se desplegará la landing page por medio de GitHub Pages, el cual es un servicio gratuito de GitHub que permite a los usuarios alojar sitios web estáticos directamente desde un repositorio. Se usa comúnmente para crear portafolios, blogs o documentaciones de proyectos, generando automáticamente las páginas a partir de archivos HTML, CSS, y JavaScript almacenados en el repositorio. Los sitios se pueden personalizar con dominios propios y son fáciles de publicar a través de las ramas del repositorio o del uso de Jekyll, una herramienta de generación de sitios web.
+
+<img src="assets/githubPages.jpg" alt="githubPages" title="GitHub Pages" style="width:50%;">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation. <a name ="5.2.">
