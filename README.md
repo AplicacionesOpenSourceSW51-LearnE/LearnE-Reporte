@@ -1080,84 +1080,184 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
 **Enlace para visualizar el documento en Figma:** https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=0-1&t=X3dkYmw5u2QoQ7HN-1 
 
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
-- Estudiante <br>
-Usuario inicia sesión 
-<img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion"><br>
-Ingresa su correo y contraseña 
-<br><br>
-Estudiante se registra
-<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br>
-Ingresa datos de cuenta y se registra<br><br>
-<img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> <br>Pantalla de inicio
-<br><br>
-Recordatorio de tutorias<br><br>
-<img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio">Notificaciones de tutorias<br><br>
-Estudiante elige plan
-<img src="assets/user_flow4.png" alt="UserFlow4" title="Planes"> Escoge el plan premium<br><br>
-Añade metodo de pago
-<img src="assets/user_flow5.png" alt="UserFlow5" title="Metodo de Pago"><br><br>
-El pago sale exitoso o hubo un problema
-<img src="assets/user_flow6.png" alt="UserFlow6" title="Correcto">
-<img src="assets/user_flow7.png" alt="UserFlow7" title="Peligro"><br><br>
-Estudiante cancela suscrpcion premium
-<img src="assets/user_flow8.png" alt="UserFlow8" title="Cancelación"><br><br>
-Historial de cursos
-<img src="assets/user_flow10.png" alt="UserFlow10" title="Historial de cursos"><br>
-Visualización del catálogo de cursos<br><br>
-Actividades del curso
-<img src="assets/user_flow15.png" alt="UserFlow15" title="Actividades"><br><br>
-<img src="assets/user_flow16.png" alt="UserFlow16" title="Video"><br><br>
-<img src="assets/user_flow17.png" alt="UserFlow17" title="Video"><br><br>
-<img src="assets/user_flow18.png" alt="UserFlow18" title="Video"><br><br>
-<img src="assets/user_flow21.png" alt="UserFlow21" title="Video">Realiza examen del curso<br><br>
-<img src="assets/user_flow19.png" alt="UserFlow19" title="Video"><br><br>
-<img src="assets/user_flow20.png" alt="UserFlow20" title="Video"><br><br>
-<img src="assets/user_flow22.png" alt="UserFlow22" title="Video">Completa el curso<br><br>
-<img src="assets/user_flow11.png" alt="UserFlow11" title="Cursos Plan Gratis"><br>
-Busqueda de cursos-plan gratis y premium<br><br>
-<img src="assets/user_flow12.png" alt="UserFlow12" title="Inscripción a curso">
-Inscribirse en un curso<br><br>
-<img src="assets/user_flow13.png" alt="UserFlow13" title="Detalles del curso"><br>Ver detalles de un curso<br><br>
-<img src="assets/user_flow14.png" alt="UserFlow14" title="Cancelar inscripcion">Cancelar inscripción del curso<br><br>
-Calendario
-<img src="assets/user_flow23.png" alt="Calendario" title="Calendario"><br><br>
-Notas
-<img src="assets/user_flow24.png" alt="Notas" title="Notas"><br><br>
+- Estudiante
+
+  Usuario inicia sesión 
+
+  <img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion">
+
+  Ingresa su correo y contraseña 
+
+  Estudiante se registra
+
+  <img src="assets/user_flow2.png" alt="UserFlow2" title="Registro">
+
+  Ingresa datos de cuenta y se registra
+
+  <img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> 
+
+  Pantalla de inicio 
+
+  Recordatorio de tutorias
+
+  <img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio">
+
+  Notificaciones de tutorias
+
+  Estudiante elige plan
+
+  <img src="assets/user_flow4.png" alt="UserFlow4" title="Planes"> 
+
+  Escoge el plan premium
+
+  Añade metodo de pago
+
+  <img src="assets/user_flow5.png" alt="UserFlow5" title="Metodo de Pago">
+
+  El pago sale exitoso o hubo un problema
+
+  <img src="assets/user_flow6.png" alt="UserFlow6" title="Correcto">
+
+  <img src="assets/user_flow7.png" alt="UserFlow7" title="Peligro">
+
+  Estudiante cancela suscrpcion premium
+
+  <img src="assets/user_flow8.png" alt="UserFlow8" title="Cancelación">
+
+  Historial de cursos
+
+  <img src="assets/user_flow10.png" alt="UserFlow10" title="Historial de cursos">
+
+  *Visualización del catálogo de cursos*
+
+  Actividades del curso
+
+  <img src="assets/user_flow15.png" alt="UserFlow15" title="Actividades">
+
+  <img src="assets/user_flow16.png" alt="UserFlow16" title="Video">
+
+  <img src="assets/user_flow17.png" alt="UserFlow17" title="Video">
+
+  <img src="assets/user_flow18.png" alt="UserFlow18" title="Video">
+
+  <img src="assets/user_flow21.png" alt="UserFlow21" title="Video">
+
+  Realiza examen del curso
+
+  <img src="assets/user_flow19.png" alt="UserFlow19" title="Video">
+
+  <img src="assets/user_flow20.png" alt="UserFlow20" title="Video">
+
+  <img src="assets/user_flow22.png" alt="UserFlow22" title="Video">
+
+  Completa el curso
+
+  <img src="assets/user_flow11.png" alt="UserFlow11" title="Cursos Plan Gratis">
+
+  Busqueda de cursos-plan gratis y premium
+
+  <img src="assets/user_flow12.png" alt="UserFlow12" title="Inscripción a curso">
+
+  Inscribirse en un curso
+
+  <img src="assets/user_flow13.png" alt="UserFlow13" title="Detalles del curso">
+
+  Ver detalles de un curso
+
+  <img src="assets/user_flow14.png" alt="UserFlow14" title="Cancelar inscripcion">
+
+  Cancelar inscripción del curso
+
+  Calendario
+
+  <img src="assets/user_flow23.png" alt="Calendario" title="Calendario">
+
+  Notas
+
+  <img src="assets/user_flow24.png" alt="Notas" title="Notas">
 
 - Profesor
-Usuario inicia sesión 
-<img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion"><br>
-Ingresa su correo y contraseña 
-<br><br>
-Profesor se registra
-<img src="assets/user_flow2.png" alt="UserFlow2" title="Registro"><br>
-Ingresa datos de cuenta y se registra<br><br>
-<img src="assets/user_flow26.png" alt="UserFlow26" title="Pago de tarjeta"><br>
-Añadir pago por tarjeta: Plan Premium<br><br>
-<img src="assets/user_flow27.png" alt="UserFlow27" title="Politicas"><br>Politicas<br><br>
-<img src="assets/user_flow28.png" alt="UserFlow28" title="Solicitud aceptada"><br>Solicitud aceptada<br><br>
-<img src="assets/user_flow29.png" alt="UserFlow29" title="Pago exitoso"><br>Pago Exitoso<br><br>
-<img src="assets/user_flow38.png" alt="UserFlow29" title="Pago exitoso"><br>Perfil de Profesor<br><br>
-- Sesion del profesor
-<img src="assets/user_flow36.png" alt="UserFlow36" title="Pantalla principal del Profesor"><br>Pantalla general<br><br>
-<img src="assets/user_flow37.png" alt="UserFlow37" title="Gestion"><br>Gestion de cursos<br><br>
-  - Gestion de curso
+
+  Usuario inicia sesión 
+
+  <img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion">
+
+  Ingresa su correo y contraseña 
+
+  Profesor se registra
+
+  <img src="assets/user_flow2.png" alt="UserFlow2" title="Registro">
+
+  Ingresa datos de cuenta y se registra
+
+  <img src="assets/user_flow26.png" alt="UserFlow26" title="Pago de tarjeta">
+
+  Añadir pago por tarjeta: Plan Premium
+
+  Politicas
+
+  <img src="assets/user_flow27.png" alt="UserFlow27" title="Politicas">
+
+  Solicitud aceptada
+
+  <img src="assets/user_flow28.png" alt="UserFlow28" title="Solicitud aceptada">
+
+  Pago Exitoso
+
+  <img src="assets/user_flow29.png" alt="UserFlow29" title="Pago exitoso">
+
+  Perfil de Profesor
+
+  <img src="assets/user_flow38.png" alt="UserFlow29" title="Pago exitoso">
+
+  - Sesion del profesor
+
+  <img src="assets/user_flow36.png" alt="UserFlow36" title="Pantalla principal del Profesor">
+
+  Pantalla general
+
+  <img src="assets/user_flow37.png" alt="UserFlow37" title="Gestion">
+
+  Gestion de cursos
+
+- Gestion de curso
+  
   <img src="assets/user_flow30.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow31.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow32.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow33.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow34.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow35.png" alt="UserFlow30" title="Gestion1"><br>
-  - Material
-  <img src="assets/user_flow39.png" alt="UserFlow39" title="Gestion1">Se añade nuevo archivo<br><br>
-  <img src="assets/user_flow40.png" alt="UserFlow40" title="Gestion1">Ingresa los datos del nuevo archivo<br><br>
-  <img src="assets/user_flow41.png" alt="UserFlow41" title="Gestion1">Archivo subido<br><br>
-  <img src="assets/user_flow42.png" alt="UserFlow42" title="Gestion1">Visualizacion del archivo en la pantalla<br><br>
-  <img src="assets/user_flow43.png" alt="UserFlow43" title="Gestion1">Eliminar archivo<br><br>
-  <img src="assets/user_flow44.png" alt="UserFlow44" title="Gestion1">Eliminacion exitosa<br><br>
+
+- Material
+  
+  <img src="assets/user_flow39.png" alt="UserFlow39" title="Gestion1">
+  
+  Se añade nuevo archivo
+  
+  <img src="assets/user_flow40.png" alt="UserFlow40" title="Gestion1">
+  
+  Ingresa los datos del nuevo archivo
+  
+  <img src="assets/user_flow41.png" alt="UserFlow41" title="Gestion1">
+  
+  Archivo subido
+  
+  <img src="assets/user_flow42.png" alt="UserFlow42" title="Gestion1">
+  
+  Visualizacion del archivo en la pantalla
+  
+  <img src="assets/user_flow43.png" alt="UserFlow43" title="Gestion1">
+  
+  Eliminar archivo
+  
+  <img src="assets/user_flow44.png" alt="UserFlow44" title="Gestion1">
+  
+  Eliminacion exitosa
 
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
 Nuestro prototipo ofrece una interfaz clara y accesible, con un enfoque en la usabilidad y diseño inclusivo. Incluye pantallas intuitivas para iniciar sesión, registrar cuentas y realizar pagos seguros. La gestión de cursos y el historial se muestran de forma ordenada, mientras que el perfil del estudiante y las valoraciones de cursos facilitan la personalización y retroalimentación. Además, el calendario organiza eventos, y las pantallas de exámenes y proyectos permiten una administración eficiente de tareas y calificaciones. Cada diseño está pensado para proporcionar una experiencia de usuario fluida y eficiente.
+
 <img src="assets/video-prototype.png" alt="video-prototype" title="video-prototype">
 
 
