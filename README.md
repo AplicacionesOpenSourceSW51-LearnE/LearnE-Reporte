@@ -1845,15 +1845,29 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
 | Sprint 1 Goal | Completar el desarrollo de la aplicación frontend y desplegarla en Google Firebase, además de mejorar la landing page según los requisitos brindados en clase. |
-| Sprint 1 Velociy |  |
-| Sum of Story Point |  |
+| Sprint 1 Velociy | 46 |
+| Sum of Story Point | 46 |
 
 #### 5.2.2.2. Sprint Backlog 2. <a name ="5.2.2.2.">
 
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
-|  | |  |  |  |  |  |  |
+| HU07 | Videos explicativos | TK01  | Crear una vista para la presentación de videos de un curso | Crear uns vista en la que se podrá ver los videos brindados en un curso. | 14 | Anthony Huapaya |  |
+| HU12 | Planes de suscripción | TK02 | Crear una vista para ver los planes de suscripción | Crear una vista para ver los planes de suscripción disponibles en la plataforma y que sirva para suscribirse. | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  |
+| HU13 | Calendario | TK03 | Crear una vista para ver el calendario | Crear una vista que muestre el calendario con las tutorías disponibles de un alumno.  | 8 | Fabrisio Belahonia |  |
+| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia |  |
+| HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia |  |
+| HU04 | Inscribirse en un curso. | TK06 |  Crear una vista para inscribirse al curso|  Crear una vista en la que el alumno pueda inscribirse en un curso | 8 | Elizabeth Huanaco |  |
+| HU15 | Historial de cursos | TK07 | Crear una vista para ver el historial de cursos | Crear una vista en la que se pueda ver los cursos completados del alumno | 6 | Pedro Guía |  |
+| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda un examen de algún curso. | 6 | Elizabeth Huanaco |  |
+| HU11 | Reseñas y calificaciones | TK09 | Crear una vista para ver las reseñas y calificaciones de un curso  |  Crear una vista en la que el alumno pueda ver la calificación y las reseñas de un curso| 6 | Fabrisio Belahonia, Anthony Huapaya |  |
+| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma. | 6 | Jorge Orrego |  |
+| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego |  |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego |  |
+| HU17 | Notificaciones sobre mis cursos | TK13 | Crear una vista para ver las notificaciones  | Crear una vista en la que se pueda ver las notificaciones de distintas partes de la plataforma. | 4 | Pedro Guía |  |
+| HU19 | Creación de listas de actividades | TK14 | Crear una vista para crear y modificar actividades  | Crear una vista en la que se pueda crear y/o modificar actividades dentro de la plataforma. | 4 | Pedro Guía, Elizabeth Huanaco |  |
+
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review. <a name ="5.2.2.3.">
