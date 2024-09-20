@@ -157,6 +157,15 @@
          5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
          5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
          5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+      5.2.2. [Sprint 2](#5.2.2.)<br>
+         5.2.1.1. [Sprint Planning 2](#5.2.2.1.)<br>
+         5.2.1.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+         5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+         5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+         5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>      
 6. [Conclusiones](#conclusiones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos) <br>
@@ -1801,11 +1810,11 @@ En esta entrega, se desarrolló y desplegó la landing page junto a sus caracter
 <img src="assets/execution6.png" alt="executionEvidence6" title="Execution Evidence 6" style="width:100%;">
 
 
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review <a name ="5.2.1.6.">
 
 **Esta sección no aplica para esta entrega.**
 
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review <a name ="5.2.1.7.">
 
 Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró para utilizar la rama main como base del proyecto a desplegar. 
 
@@ -1822,11 +1831,79 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 | Pedro Andre Guia Carrasco | Descripción del Startup, Lean UX Problem Statements, Lean UX Hypothesis Statements, Segmento Objetivos, User Stories, Web Applications Mock-ups, Domain-Driven Software Architecture, Database Design, Product Implementation, Validation & Deployment |
 | Jorge David Orrego Noriega |Solution Profile, Antecedentes y problemática, Lean UX Assumptions, User Stories, Product Backlog, Landing Page Wireframe, Landing Page Mock-up, Web Applications Mock-ups, Web Applications User Flow Diagrams, Database Design, Product Implementation, Validation & Deployment |
 
+### 5.2.2. Sprint 2 <a name ="5.2.2.">
+
+#### 5.2.2.1. Sprint Planning 2. <a name ="5.2.2.1.">
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+| Sprint Planning Background |
+| Date | 17/09/2024  |
+| Time | 19:00 |
+| Location | Videoconferencia por Discord |
+| Prepared By | Jorge Orrego |
+| Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
+| Sprint Goal & User Stories |
+| Sprint 1 Goal | Completar el desarrollo de la aplicación frontend y desplegarla en Google Firebase, además de mejorar la landing page según los requisitos brindados en clase. |
+| Sprint 1 Velociy |  |
+| Sum of Story Point |  |
+
+#### 5.2.2.2. Sprint Backlog 2. <a name ="5.2.2.2.">
+
+
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
+|  | |  |  |  |  |  |  |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review. <a name ="5.2.2.3.">
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
+|  |  |  |  |  |  |
+
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.2.4.">
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|   | | |  |                     |     | 
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.2.5.">
+
+
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review <a name ="5.2.2.6.">
+
+**Esta sección no aplica para esta entrega.**
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review <a name ="5.2.2.7.">
+
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. <a name ="5.2.2.8.">
+
+| Alumno | Actividad |
+|--------|-----------|
+| Fabrisio Andre Belahonia Miranda | |
+| Elizabeth Lucero Huanaco Huayta |  |
+| Anthony Martin Huapaya Cuevas | |
+| Pedro Andre Guia Carrasco |  |
+| Jorge David Orrego Noriega |  |
+
 
 # Conclusiones y recomendaciones.
 
 ## Conclusiones TB1
 * Durante el desarrollo del TB1 pudimos pasar de nuevo por el proceso de investigación y delimitación de requisitos para diseñar nuestra aplicación de la mejor manera. Esto nos ha servido para acostumbrarnos a este método de trabajo para el desarrollo de software, además de mejorar nuestras habilidades de comunicación y trabajo en equipo.  
+
+## Conclusiones TP
 
 # Bibliografía
 
