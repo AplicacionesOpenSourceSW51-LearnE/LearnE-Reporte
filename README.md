@@ -1877,7 +1877,7 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 |  |  |  |  |  |  |
 
 
-
+**Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.2.4.">
 
@@ -1900,11 +1900,19 @@ En esta entrega utilizamos una Fake API para simular la función de nuestros ser
 
 <img src="assets/myJsonServerDemo.png" alt="fakeApiDemo" title="Fake API Demo" style="width:100%;">
 
+**Enlace del repositorio:** https://github.com/AplicacionesOpenSourceSW51-LearnE/FakeAPI  
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review <a name ="5.2.2.7.">
 
-Se utilizó el servicio de Google Firebase para desplegar nuestra aplicación web 
+Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra aplicación web. Para acceder a los endpoints de una API, utilizamos My JSON Server como ya se explicó anteriormente. 
 
+<img src="assets/firebaseMain.png" alt="firebase" title="Firebase" style="width:100%;">
+
+<img src="assets/firebase.png" alt="firebase" title="Firebase" style="width:100%;">
+
+<img src="assets/frontendDeployed.png" alt="frontendDeployed" title="Deployed Frontend" style="width:100%;">
+
+**Enlace de la página desplegada:** https://learnefrontend.web.app/home   
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. <a name ="5.2.2.8.">
 
@@ -1923,6 +1931,7 @@ Se utilizó el servicio de Google Firebase para desplegar nuestra aplicación we
 * Durante el desarrollo del TB1 pudimos pasar de nuevo por el proceso de investigación y delimitación de requisitos para diseñar nuestra aplicación de la mejor manera. Esto nos ha servido para acostumbrarnos a este método de trabajo para el desarrollo de software, además de mejorar nuestras habilidades de comunicación y trabajo en equipo.  
 
 ## Conclusiones TP
+* Durante el desarrollo del TP pudimos aplicar nuestros conocimientos en Angular y desarrollo web para crear la primera versión de nuestra aplicación web (solo frontend). Esto nos sirvió tanto para afianzar lo que aprendimos en el curso como para acercarnos a un entorno de desarrollo más acorde con la realidad.   
 
 # Bibliografía
 
@@ -1943,6 +1952,12 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
 
+**Enlace del frontend desplegado:** https://learnefrontend.web.app/home
+
+**Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend 
+
+**Enlace del repositorio del Fake API:** https://github.com/AplicacionesOpenSourceSW51-LearnE/FakeAPI  
+
 **Enlace del diseño de wireframe, mock-up en Figma:** [https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/](https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=130-2271&t=yze7EryhPGMBUH6k-1)
 
 **Enlace del diseño de prototipo en Figma:** https://www.figma.com/design/ci2Ygt5R6JV8urqClMaCGY/Prototype-profesor?node-id=0-1&t=9VUnWDu8gxvP6HyO-1
@@ -1956,6 +1971,9 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Video Exposición TB1:** 
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EV_Ggf5QD7ZMrfRRy8UVTSMBe5CRE-50e5RAMyCCaQgKuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QGYtrK 
+
+**Video Exposición TP:** 
+* Enlace de la exposición en Microsoft 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
