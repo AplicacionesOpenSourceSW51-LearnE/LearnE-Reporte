@@ -164,14 +164,30 @@
          5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
          5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
       5.2.2. [Sprint 2](#5.2.2.)<br>
-         5.2.1.1. [Sprint Planning 2](#5.2.2.1.)<br>
-         5.2.1.2. [Sprint Backlog 2](#5.2.2.2.)<br>
-         5.2.1.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
-         5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
-         5.2.1.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
-         5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
-         5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
-         5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>      
+         5.2.2.1. [Sprint Planning 2](#5.2.2.1.)<br>
+         5.2.2.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+         5.2.2.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+         5.2.2.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+         5.2.2.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+         5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+         5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+         5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+      5.2.3. [Sprint 3](#5.2.3.)<br>
+         5.2.3.1. [Sprint Planning 2](#5.2.3.1.)<br>
+         5.2.3.2. [Sprint Backlog 2](#5.2.3.2.)<br>
+         5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
+         5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+         5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+         5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+         5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+         5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+    5.3. [Validation Interviews](#5.3.)<br>
+       5.3.1. [Diseño de Entrevistas](#5.3.1.)<br>
+       5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
+       5.3.3. [Evaluaciones según Heurísticas](#5.3.3.)<br>
+    5.4. [Validation Interviews](#5.4.)<br>
+
+    
 6. [Conclusiones](#conclusiones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos) <br>
@@ -1924,11 +1940,263 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | |
-| Elizabeth Lucero Huanaco Huayta |  |
-| Anthony Martin Huapaya Cuevas | |
-| Pedro Andre Guia Carrasco |  |
-| Jorge David Orrego Noriega |  |
+| Fabrisio Andre Belahonia Miranda | Desarrollo del Frontend: Sección de calendario, detalle del curso, calificacion del curso, |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo del Frontend: Sección de curso, subbscripciones |
+| Anthony Martin Huapaya Cuevas | Desarrollo del Frontend: Sección de curso,|
+| Pedro Andre Guia Carrasco | Desarrollo del Frontend: Sección de registro, Reporte |
+| Jorge David Orrego Noriega |Desarrollo del Frontend:Sección de myNotes,perfil, Reporte  |
+
+ver excel
+
+
+
+
+
+
+
+
+### 5.2.3. Sprint 3 <a name ="5.2.3.">
+
+#### 5.2.3.1. Sprint Planning 23. <a name ="5.2.3.1.">
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| Sprint Planning Background |
+| Date | 31/10/2024  |
+| Time | 19:00 |
+| Location | Videoconferencia por Discord |
+| Prepared By | Jorge Orrego |
+| Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
+| Sprint Goal & User Stories |
+| Sprint 1 Goal | Completar el desarrollo de la aplicación frontend e iniciar el desarrollo del backend |
+| Sprint 1 Velociy | 46 |
+| Sum of Story Point | 46 |
+
+
+
+#### 5.2.3.2. Sprint Backlog 3. <a name ="5.2.3.2.">
+
+MODIFICAR
+revisar feature
+
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
+| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco |  |
+| HU12 | Planes de suscripción | TK02 | Crear una vista para ver los planes de suscripción | Crear una vista para ver los planes de suscripción disponibles en la plataforma y que sirva para suscribirse. | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
+| HU13 | Calendario | TK03 | Crear una vista para ver el calendario | Crear una vista que muestre el calendario con las tutorías disponibles de un alumno.  | 8 | Fabrisio Belahonia |  |
+| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia |  |
+| HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia |  |
+| HU04 | Inscribirse en un curso. | TK06 |  Crear una vista para inscribirse al curso|  Crear una vista en la que el alumno pueda inscribirse en un curso | 8 | Elizabeth Huanaco |  |
+| HU15 | Historial de cursos | TK07 | Crear una vista para ver el historial de cursos | Crear una vista en la que se pueda ver los cursos completados del alumno | 6 | Pedro Guía |  |
+| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda un examen de algún curso. | 6 | Elizabeth Huanaco |  |
+| HU11 | Reseñas y calificaciones | TK09 | Crear una vista para ver las reseñas y calificaciones de un curso  |  Crear una vista en la que el alumno pueda ver la calificación y las reseñas de un curso| 6 | Fabrisio Belahonia, Anthony Huapaya |  |
+| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma. | 6 | Jorge Orrego | Done |
+| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego |  |
+| HU17 | Notificaciones sobre mis cursos | TK13 | Crear una vista para ver las notificaciones  | Crear una vista en la que se pueda ver las notificaciones de distintas partes de la plataforma. | 4 | Pedro Guía |  |
+| HU19 | Creación de listas de actividades | TK14 | Crear una vista para crear y modificar actividades  | Crear una vista en la que se pueda crear y/o modificar actividades dentro de la plataforma. | 4 | Pedro Guía, Elizabeth Huanaco |  |
+
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review. <a name ="5.2.3.3.">
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
+| LearnE-LandingPage | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
+| LearnE-LandingPage | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+
+EDITARRRR
+**Commits vistos desde GitHub:**
+
+<img src="assets/development1.png" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
+
+
+**Repositorio de GitHub**
+
+<img src="assets/development2.png" alt="developmentEvidence2" title="Development Evidence 2" style="width:100%;">
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.3.4.">
+
+Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias de usuario abordadas en este sprint (HU05 y HU21). 
+
+<img src="assets/gherkin1.png" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
+
+<img src="assets/gherkin2.png" alt="Gherkin2" title="Gherkin Test 2" style="width:100%;">
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Initial commit |  Initial commit                   |    06/09/2024 | 
+|  LearnE-Product-Testing | main | c9d0663eba6510a0bfb3e2cc0dd2972e65974e0a | feat(testing): added HU05 acceptance tests file|  feat(testing): added HU05 acceptance tests file |    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4a7e4a5840b391d6b1ca2ba9c26298482109505a | feat(testing): added feature's scenarios |  feat(testing): added feature's scenarios|    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4288e500ee61b2c1e84ad46934d59633ecc28b51 | feat(testing): added HU21 feature set |  feat(testing): added HU21 feature set |    06/09/2024 | 
+
+**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review. <a name ="5.2.3.5.">
+
+
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review <a name ="5.2.3.6.">
+
+QUE MRD PONGO ACA=?XD
+LO DEL BACK
+MODIFICACION DEL API
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review <a name ="5.2.3.7.">
+ACA PONEMOS LO DEL BACK
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. <a name ="5.2.3.8.">
+
+| Alumno | Actividad |
+|--------|-----------|
+| Fabrisio Andre Belahonia Miranda | corrección de calendario, Descripcion con API, documentación,  |
+| Elizabeth Lucero Huanaco Huayta | correción frontend  |
+| Anthony Martin Huapaya Cuevas |correción frontend |
+| Pedro Andre Guia Carrasco | Perfil con API,Implementacion de backend |
+| Jorge David Orrego Noriega |Implementacion de backend |
+
+
+
+
+
+
+#### 5.3. Validation Interviews. <a name ="5.3.">
+
+#### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
+Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
+Landing Page:
+*IMG
+FrontEnd Web Application:
+
+*IMG
+
+####User Flows a validar en el Landing Page:
+
+f. User Flow Diagram F: Suscribirse a un plan
+
+####User Flows a validar en el Frontend Web Application
+
+a. User Flow Diagram A: Iniciar Sesion
+b. User Flow Diagram B: Visualizar Cuenta
+c. User Flow Diagram C: Registro a un curso 
+d. User Flow Diagram D: Visualizar cursos 
+e. User Flow Diagram E: Visualizar cursos  
+f. User Flow Diagram F: Suscribirse a un plan
+
+
+####Preguntas que se realizaran a los entrevistados:
+
+a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto?
+b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo?
+c. ¿Lograste visualizar tu cuenta en la pagina web de nuestra aplicacion? ¿Te parece una interfaz amigable?
+d. ¿Lograste revisar el foro? ¿Te llamo la atencion?
+e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes?
+d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio?
+f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti?
+
+
+
+
+
+
+#### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
+
+
+Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
+
+Link de la entrevista en Youtube: 
+Link de la entrevista en Microsoft Stream: 
+*IMG
+TEXTO
+
+
+
+
+#### 5.3.3. Evaluaciones según Heurísticas. <a name ="5.3.3.">
+
+Site o App a evaluar: FastLearners
+
+Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
+
+Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+Tareas a evaluar:
+
+1.Iniciar sesion en la aplicacion
+2.Visualizar los datos de la cuenta usuario
+3.Visualizar archivos multimedia
+4.Visualizar repositorios
+5.Visualizar el foro estudiantil
+
+####No estan incluidas en esta version de la evaluacion las siguientes tareas:
+
+1.Seccion de compra de suscripciones
+2.Subir contenido
+3.Visualizar contenido subido
+4.Editar cuenta usuario
+
+
+Escala de Severidad:
+
+Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
+
+
+
+
+| Nivel | Nivel de descripcion |
+|--------|-----------|
+| 1 |Problema superficial: puede ser facilemente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo |
+| 2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta  |
+| 4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento |
+
+Tabla Resumen (Problemas):
+
+| # | Problema | Escala de severidad | Herustica/Principio violada(o) |
+|----|-----------|--------------------|--------------------------------|
+| 1 |Problema DE:  | 4 |DSDSDSF	 
+| 2 |Problema DE: | 4|SDFSFD
+| 3 |Problema DE:  | 4|SASDASDDS
+| 4 |Problema DE: | 4 |ASSDSAD
+
+
+####Descripccion de problemas:
+
+####Problema N°1:
+
+Título: Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+
+Severidad: 4
+
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Descripción:
+
+Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario
+
+*IMG
+Recomendacion:
+
+Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida.
+
+
+
+
+
+
+
+#### 5.4 Video About-the-Product. <a name ="5.4.">
+
+En el video "About the Product" se presentan las funcionalidades y características clave de nuestra aplicación, junto con el modelo de negocio que se utilizará para generar ingresos. También se incluye el testimonio de un usuario que valoró positivamente su experiencia al interactuar con nuestra plataforma.
+
+
+
+
 
 
 # Conclusiones y recomendaciones.
@@ -1937,7 +2205,8 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 * Durante el desarrollo del TB1 pudimos pasar de nuevo por el proceso de investigación y delimitación de requisitos para diseñar nuestra aplicación de la mejor manera. Esto nos ha servido para acostumbrarnos a este método de trabajo para el desarrollo de software, además de mejorar nuestras habilidades de comunicación y trabajo en equipo.  
 
 ## Conclusiones TP
-* Durante el desarrollo del TP pudimos aplicar nuestros conocimientos en Angular y desarrollo web para crear la primera versión de nuestra aplicación web (solo frontend). Esto nos sirvió tanto para afianzar lo que aprendimos en el curso como para acercarnos a un entorno de desarrollo más acorde con la realidad.   
+* Durante el desarrollo del TP pudimos aplicar nuestros conocimientos en Angular y desarrollo web para crear la primera versión de nuestra aplicación web (solo frontend). Esto nos sirvió tanto para afianzar lo que aprendimos en el curso como para acercarnos a un entorno de desarrollo más acorde con la realidad.
+* 
 
 # Bibliografía
 
