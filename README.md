@@ -59,7 +59,22 @@
 | 3.0 | 27/08/2024 | Grupo LearnE |Desarrollo del Capitulo II: Requeriments Elicitation & Analysis|
 | 4.0 | 29/09/2024 | Grupo LearnE |Desarrollo del Capitulo III: Requirements Specification|
 | 5.0 | 31/09/2024 | Grupo LearnE |Desarrollo del Capitulo IV: Product Design|
-| 6.0 | 25/09/2024 | Grupo LearnE | Desarrollo del Capítulo V: Sprint 2 |
+| 6.0 | 31/10/2024 | Grupo LearnE | Desarrollo del Capítulo V: Sprint 2|
+| 6.0 | 31/10/2024 | Grupo LearnE | Se desarrolla el Sprint Planning 2, SprintBacklog 2 |
+| 7.0 | 31/10/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence, Services Documentation y Software Deployment Evidence|
+| 6.0 | 31/10/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint |
+| 6.0 | 31/10/2024 | Grupo LearnE | Inicio del Sprint 3|
+| 6.0 | 31/10/2024 | Grupo LearnE | Se desarrolla el Sprint Planning 3, SprintBacklog 3 |
+| 7.0 | 31/10/2024 | Grupo LearnE | Se agrega el Development Evidence for Sprint Review |
+| 8.0 | 31/10/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence y Services Documentation |
+| 9.0 | 31/10/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
+| 10.0 | 31/10/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 3 |
+| 12.0 | 31/10/2024 | Grupo LearnE | Inicio del desarrollo del informe TB2 |
+
+
+
+
+
 
 
 # Project Report Collaboration Insights
@@ -367,7 +382,7 @@ Como consecuencia, no podrían comprender temas posteriores porque no tuvieron b
 | Se solucionará esto con una convocatoria masiva de tutores por medio de redes sociales.| |
 |Un supuesto que en caso se pruebe que sea falso pueda causar que el proyecto falle sería la demanda por los servicios ofrecidos en nuestra plataforma. | |
 
-#### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.4.">
+#### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.3.">
 - Creemos que al ofrecer una plataforma de aprendizaje autodidacta y lúdica con herramientas gráficas y tutorías personalizadas, mejoramos la comprensión y retención de conceptos académicos en nuestros usuarios. 
 Sabremos que esta hipótesis es cierta si vemos un aumento en la tasa de finalización de cursos y un feedback positivo en la satisfacción de los usuarios respecto a la claridad y profundidad de los contenidos.
 
@@ -809,24 +824,20 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 | Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |---------------------|--------|-------------|--------------------------|---------------------------|
 | HU01 |  Registrar nuevo usuario en la plataforma. | Como nuevo usuario quiero registrarme en la aplicación para luego hacer uso de sus servicios. | **Escenario 1:** El usuario se registra como alumno. <br> <br> Dado que un usuario que quiere crear una cuenta de alumno, Cuando inicia el formulario de registro, Y elige la opción de registrarse como alumno, Entonces la aplicación creará una cuenta de alumno Y lo redirigirá a la pantalla acerca de los planes para usar. <br> <br> **Escenario 2:** El usuario se registra como profesor. <br> <br> Dado que un usuario quiere crear una cuenta de profesor, Cuando inicia el formulario de registro, Y elige la opción de registrarse como profesor, Entonces la aplicación creará una cuenta de profesor Y lo redirigirá a la pantalla sobre las condiciones del profesor. |         |
-| HU02 |  Buscar nuevos cursos dentro de la plataforma. | Como alumno quiero poder buscar nuevos cursos fácilmente desde la página de inicio de la aplicación para encontrar rápidamente la información que necesite. | **Escenario 1:** El usuario busca contenido por medio de una consulta de búsqueda. <br> <br> Dado que el alumno se encuentra en la página de inicio de la aplicación luego de haber iniciado sesión, Cuando seleccione la opción “Mis Cursos”, Y en la barra de búsqueda escriba el curso que busca, Entonces lo redirigirá a una nueva página en la que se muestran los resultados de la búsqueda. |         |
 | HU03 | Ver detalles de un curso | Como alumno quiero poder ver los detalles de un curso en específico para saber con más detalle su contenido y profesores que lo dicten. | **Escenario 1:** El alumno selecciona un curso para ver sus detalles. <br> <br> Dado que el alumno quiere ver los detalles de un curso en particular, Cuando seleccione dentro de la aplicación “Ver detalles”, Entonces le brindará los detalles del curso de interés. <br> <br> **Escenario 2:** El alumno ve los detalles de los profesores que complementan el curso. <br> <br> Dado que soy un alumno se encuentra viendo los detalles de un curso, Cuando seleccione la opción para ver los profesores encargados, Entonces la aplicación le devolverá los datos de los profesores.  |         |
 | HU04 | Inscribirse en un curso. | Como alumno quiero inscribirme en un curso para poder aprender más sobre un tema en específico. | **Escenario 1:** El alumno se inscribe en un curso <br> <br> Dado que el alumno quiere registrarse en un curso luego de haber visto sus detalles, Cuando el alumno seleccione la opción de inscribirse en un curso, Entonces la plataforma registrará como inscrito al alumno en el curso Y se podrá acceder al contenido de este. <br> <br> **Escenario 2:** El alumno cancela su inscripción en el curso <br> <br> Dado que el alumno ya se inscribió en un curso, Y este desee cancelar su inscripción al mismo, Cuando el alumno seleccione la opción de cancelar su inscripción al curso, Entonces la aplicación removerá el curso de su lista de cursos activos. |         |
 | HU05 | Ver descripción de la plataforma en la landing page | Como visitante de la landing page quiero visualizar un breve y llamativo resumen del funcionamiento de la plataforma para así tener una mejor idea de los beneficios que me pueda brindar. | **Escenario 1:** El visitante logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, Cuando lea la descripción de la aplicación Y de los servicios que se ofrecen, Entonces el visitante tendrá una idea clara de cómo la aplicación le puede beneficiar personalmente. <br> <br> **Escenario 2:** El visitante no logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, Cuando lea la descripción de la aplicación Y de los servicios que se ofrecen, Y no entienda con exactitud el propósito Y los beneficios de la aplicación, Entonces el visitante no se verá interesado en la aplicación. |         |
 | HU06 | Acceso a tutorías en línea | Como estudiante, quiero acceder a tutorías en línea sobre los cursos matriculados para reforzar mi situación académica. | **Escenario 1:** Acceso exitoso a una tutoría <br> <br> Dado que el estudiante ha iniciado sesión en la aplicación, Cuando selecciona una tutoría en un curso disponible, Y elige un horario, Entonces podrá revisar las reservas que tiene para esa sesión, Y consultar la programación de los horarios disponibles en otros días. <br> <br> **Escenario 2:** No hay tutorías disponibles <br> <br> Dado que el estudiante busca una tutoría en matemáticas, Cuando no hay sesiones disponibles en el momento, Entonces se mostrará un mensaje indicando la próxima tutoría programada.|         |
 | HU07 | Videos explicativos | Como estudiante, quiero disponer de videos explicativos, para aprender a mi propio ritmo y comprender mejor un tema. | **Escenario 1:** Acceso a vídeo <br> <br> Dado que el estudiante accede a un curso, Cuando selecciona un tema, Entonces el video se reproducirá sin interrupciones. <br> <br> **Escenario 2:** El video no está disponible <br> <br> Dado que el estudiante intenta acceder a un video, Cuando el video no está disponible por problemas técnicos, Entonces se mostrará un mensaje de error con opciones para contactar al soporte técnico o ver otros videos.|         |
-| HU08 | Recordatorio de tutorías | Como estudiante suscrito al plan premium, quiero recibir recordatorios de las próximas tutorías, para poder planificar mi tiempo y no perder ninguna sesión importante. | **Escenario 1:** Recordatorio antes de la tutoría <br> <br> Dado que el estudiante está suscrito al plan premium, Cuando falta una hora para el inicio de una tutoría programada, Entonces recibirá una notificación recordatoria en su dispositivo.|         |
 | HU09 | Monitoreo de Progreso Académico del Estudiante | Como estudiante, quiero poder monitorear mi progreso académico en la aplicación, para asegurarse de que estoy aprovechando las tutorías y mejorando en mis estudios. | **Escenario 1:** Visualización del progreso académico <br> <br> Dado que el estudiante ha iniciado sesión en su cuenta, Cuando selecciona la opción de “Mis notas”, Entonces podrá ver un informe detallado de su rendimiento en cada materia. <br> <br> **Escenario 2:** No hay datos del progreso disponible <br> <br> Dado que el estudiante intenta ver su progreso académico, Cuando aún no hay datos suficientes porque no ha completado suficientes actividades, Entonces se mostrará un mensaje indicando que aún no hay suficiente información para generar un informe.|         |
 | HU10 | Subir material | Como profesor, quiero poder subir materiales de estudio (como PDFs, videos, presentaciones) a la plataforma para que los estudiantes puedan acceder a ellos durante el curso. | **Escenario 1:** Subir un archivo correctamente <br> <br> Dado que el profesor se encuentra registrado, Cuando seleccione un archivo (PDF, video, presentación) desde su dispositivo, Y le de clic en "Subir", Entonces el sistema muestra una confirmación de que el archivo ha sido subido correctamente, Y el archivo se muestra en la lista de materiales del curso con una opción para visualizar o descargar <br> <br> **Escenario 2:** Organizar materiales por curso o tema <br> <br> Dado que el profesor ha subido varios archivos a la plataforma, Cuando organice los materiales por curso o tema desde la página de “Gestión del curso”, Entonces los materiales se agrupan y se muestran a los estudiantes según la estructura definida, Y los estudiantes pueden acceder a los materiales organizados según el curso o tema. <br> <br> **Escenario 3:** Eliminación de un material subido <br> <br> Dado que el profesor subió un archivo pero que ya no lo necesita, Cuando selecciona el archivo que busca eliminar, Y le da clic en "Eliminar" desde la página de gestión del curso, Entonces el archivo se elimina de la lista de materiales del curso, Y los estudiantes ya no pueden acceder a él desde la página del curso.|         |
-| HU11 | Reseñas y calificaciones | Como usuario, quiero poder dejar reseñas y calificaciones sobre los cursos que he tomado, para compartir mi opinión y poder recomendar el curso. | **Escenario 1:** Escribir una reseña <br> <br> Dado que el alumno ha completado un curso o usado un recurso de la plataforma, Cuando acceda a la sección de reseñas del curso o recurso, Y escribe una reseña acerca de ello, Entonces ingresará su opinión y calificación (en estrellas o puntos), Y la reseña se guarda, mostrándola en la página del curso o recurso con la calificación correspondiente. <br> <br> **Escenario 2:** Ver reseñas y calificaciones de otros alumnos <br> <br> Dado que el alumno esté interesado en un curso o recurso específico, Cuando acceda a la página del curso o recurso, Entonces verá las reseñas y calificaciones dejadas por otros alumnos, Y leerá los comentarios, además de ver el promedio de las calificaciones para tomar una decisión informada.|         |
-| HU12 | Planes de suscripción | Como alumno, quiero poder seleccionar y actualizar mi plan de suscripción (freemium o mensual) para acceder a diferentes niveles de herramientas y cursos en la plataforma. | **Escenario 1:** Visualizar los planes de suscripción <br> <br> Dado que el alumno se muestra interesado en suscribirse a un plan, Cuando accede a la página de planes de suscripción, Entonces puede ver una lista de todos los planes disponibles con los detalles (precio, características, limitaciones), Y comparará las diferencias entre los planes freemium y mensual.<br> <br> **Escenario 2:** Seleccionar un plan de suscripción <br> <br> Dado que el alumno decidió cambiar su plan de suscripción, Cuando seleccione el plan que desea (gratis o premium) Y le da clic en "Elegir plan", Entonces se redirige a una página de pago donde ingresará los datos de pago para confirmar la suscripción, Y recibe una confirmación de que mi suscripción ha sido activada. <br> <br> **Escenario 3:** Activación de las funcionalidades del nuevo plan <br> <br> Dado que el alumno ha completado el proceso de suscripción de nuevo plan, Cuando acceda a la sección “Inicio” en logo de la aplicación web, Entonces puede acceder a los cursos disponibles, tutorías y certificaciones del plan premium. <br> <br> **Escenario 4:** Cancelación de la suscripción <br> <br> Dado que el alumno desea cancelar su suscripción actual, Cuando elige la opción de cancelar suscripción, Entonces la suscripción se cancela, Y el acceso de las funcionalidades del plan se desactivan al final del período de facturación de esas fechas, Y recibe una confirmación sobre la cancelación del plan. |         |
-| HU13 | Calendario | Como usuario, quiero tener acceso a un calendario donde pueda ver mis tutorías, exámenes, y otros eventos académicos para organizar mejor mi tiempo de estudio | **Escenario 1:** Ver eventos en el calendario <br> <br> Dado que el usuario que tiene tutorías, exámenes, y otros eventos académicos programados, Cuando acceda al calendario en la plataforma, Entonces mira todos los eventos organizados por fecha con una vista clara y ordenada, Y seleccionará cada evento para ver detalles adicionales. <br> <br> **Escenario 2:** Agregar un nuevo evento al calendario <br> <br> Dado que el profesor quiere agregar un nuevo evento (como una tutoría o examen), Cuando hace clic en "Agregar evento" y llena la información del evento (fecha, hora, descripción), Entonces el evento se añade al calendario y se muestra en la vista correspondiente, Y recibe una confirmación de que el evento ha sido agregado correctamente. <br> <br> **Escenario 3:** Eliminar un evento del calendario <br> <br> Dado que el usuario tiene un evento en el calendario que ya no es relevante, Cuando selecciona el evento, Y le da clic en "Eliminar", Entonces el evento se elimina del calendario, Y no aparece en la vista del calendario.  |         |
+| HU11 | Reseñas y calificaciones | Como usuario, quiero poder dejar reseñas y calificaciones sobre los cursos que he tomado, para compartir mi opinión y poder recomendar el curso. | **Escenario 1:** Elegir una calificación <br> <br> Dado que el alumno ha completado un curso o usado un recurso de la plataforma, Cuando acceda a la sección de reseñas del curso o recurso, Entonces ingresará su  calificación (en estrellas), Y la reseña se guarda, mostrándola en la página del curso o recurso con la calificación correspondiente. <br> <br> **Escenario 2:** Ver  calificaciones de otros alumnos <br> <br> Dado que el alumno esté interesado en un curso o recurso específico, Cuando acceda a la página del curso o recurso, Entonces verá las calificaciones dejadas por otros alumnos.|         |
+| HU12 | Planes de suscripción | Como alumno, quiero poder seleccionar y actualizar mi plan de suscripción (freemium o mensual) para acceder a diferentes niveles de herramientas y cursos en la plataforma. | **Escenario 1:** Visualizar los planes de suscripción <br> <br> Dado que el alumno se muestra interesado en suscribirse a un plan, Cuando accede a la página de planes de suscripción, Entonces puede ver una lista de todos los planes disponibles con los detalles (precio, características, limitaciones), Y comparará las diferencias entre los planes freemium y mensual.<br> <br> **Escenario 2:** Seleccionar un plan de suscripción <br> <br> Dado que el alumno decidió cambiar su plan de suscripción, Cuando seleccione el plan que desea (gratis o premium) Y le da clic en "Elegir plan", Entonces se redirige a una página de pago donde ingresará los datos de pago para confirmar la suscripción, Y recibe una confirmación de que mi suscripción ha sido activada. <br> <br> **Escenario 3:** Cancelación de la suscripción <br> <br> Dado que el alumno desea cancelar su suscripción actual, Cuando elige la opción de cancelar suscripción, Entonces la suscripción se cancela, Y el acceso de las funcionalidades del plan se desactivan al final del período de facturación de esas fechas, Y recibe una confirmación sobre la cancelación del plan. |         |
+| HU13 | Calendario | Como usuario, quiero tener acceso a un calendario donde pueda estar pendiente de  mis tutorías, exámenes, y otros eventos académicos para organizar mejor mi tiempo de estudio | **Escenario 1:** Ver el calendario <br> <br> Dado que el usuario que tiene tutorías, exámenes, y otros eventos académicos programados, Cuando acceda al calendario en la plataforma, Entonces está pendiente de todos los eventos que tiene pendiente, Y el calendario le falicita la vista.  |         |
 | HU14 | Exámenes | Como profesor, quiero poner pruebas a mis alumnos cada cierto tiempo, para comprobar cómo están aprendiendo. | **Escenario 1:** Crear un nuevo examen <br> <br>Dado que el profesor desea crear un nuevo examen para un curso, Cuando selecciona la opción "Crear examen", Y llena los detalles, como preguntas, tipo de preguntas, duración, entre otras, Entonces el examen se guarda en la plataforma, colocándolo como disponible para los estudiantes según la configuración establecida. <br> <br> **Escenario 2:** Configurar parámetros del examen <br> <br> Dado que el profesor está configurando un examen, Cuando establece los parámetros del examen (duración, tipo de preguntas, número de intentos permitidos), Entonces los parámetros se aplican al examen y se comunican claramente a los estudiantes al acceder al examen. <br> <br> **Escenario 3:** Revisar resultados de los exámenes <br> <br> Dado que el profesor quiere revisar los resultados de los exámenes de los estudiantes, Cuando accede a la sección de resultados de exámenes, Entonces pueden ver la lista de estudiantes que han completado el examen, Y pueden ver las calificaciones de cada estudiante, sus respuestas individuales, retroalimentaciones asociadas.  |         |
-| HU15 | Historial de cursos | Como alumno, quiero ver mis cursos completados para ver el progreso que voy llevando | **Escenario 1:** Abrir el historial <br> <br> Dado que el alumno quiere revisar los cursos que culminó, Cuando entra a “Mi perfil”, Y ve la opción de historial de cursos, dandole click en ello, Entonces revisa los cursos que ha culminado. <br> <br> **Escenario 2:** Organizar el historial de cursos <br> <br> Dado que el alumno entra a ver el historial, Y no encuentra con facilidad el curso que busca, Cuando aplica algunos filtros que le ayudan, Entonces la lista de cursos se mostrará de la manera que aplicó los filtros |         |
-| HU16 | Certificación del curso | Como alumno con suscripción premium, quiero tener algún certificado como prueba de que aprendí el curso | **Escenario 1:** Guardar certificado en el perfil <br> <br> Dado que el alumno que tiene suscripción premium quiere comprobar que ha terminado el curso que llevaba, Cuando termina el curso que llevaba, Entonces le mostrará que se guardó un certificado en su perfil <br> <br> **Escenario 2:** Descargar el certificado <br> <br> Dado que el alumno quiere descargar el certificado acaba de obtener,Cuando entra a “Mi perfil”, Y revisa la opción “Certificados”, Entonces abrirá los certificados que consiguió, Y muestra la opción de descargar |         |
-| HU17 | Notificaciones sobre mis cursos | Como usuario, quiero recibir notificaciones de los cursos inscritos para estar pendiente de ello | **Escenario 1:** Notificaciones para el alumno <br> <br> Dado que el alumno quiere estar pendiente con lo que pasa sobre sus cursos, Cuando vea el ícono de notificación con un número, Entonces lo abre, mostrando las notificaciones de los cursos <br> <br> **Escenario 2:** Notificaciones para el profesor <br> <br> Dado que el profesor quiere ver algunas notificaciones sobre el cumplimiento de los trabajos o tutorías, Cuando el ícono de las notificaciones se ve llena, Entonces al abrir mostrará las entregas de evaluaciones o el momento de iniciar la tutoría |         |
+| HU15 | Historial de cursos | Como alumno, quiero ver mis cursos completados para ver el progreso que voy llevando | **Escenario 1:** Abrir el historial <br> <br> Dado que el alumno quiere revisar los cursos que culminó, Cuando entra a “Mi perfil”, Y ve la opción de historial de cursos, dandole click en ello, Entonces revisa los cursos que ha culminado. |         |
+| HU16 | Certificación del curso | Como alumno con suscripción premium, quiero tener algún certificado como prueba de que aprendí el curso | **Escenario 1:** Guardar certificado en el perfil <br> <br> Dado que el alumno que tiene suscripción premium quiere comprobar que ha terminado el curso que llevaba, Cuando termina el curso que llevaba, Entonces le mostrará que se guardó un certificado en su perfil. |         |
 | HU18 | Recomendaciones de cursos | Como alumno, quiero recibir recomendaciones sobre algunos cursos que puedan ser de mi interés | **Escenario 1:** Recomiendan cursos similares a los que toma <br> <br> Dado que el alumno quiere estar pendiente con lo que pasa sobre sus cursos, Cuando vea el ícono de notificación con un número, Entonces lo abre, mostrando las notificaciones de los cursos |         |
-| HU19 | Creación de listas de actividades | Como usuario, quiero crear una lista sobre las cosas que debo hacer hasta una fecha fija | **Escenario 1:** Creación de la lista de actividades <br> <br> Dado que el usuario quiere realizar una lista sobre las actividades que realizará en la semana, Cuando entra en la pantalla de inicio a la sección “Mis actividades”, Entonces creará su lista a partir de colocar un título con las actividades que realizará en un plazo <br> <br> **Escenario 2:** Eliminación de la lista de actividades <br> <br> Dado que el usuario comienza a acumular listas pasadas y quiere eliminarlas, Cuando está en la sección “Mis actividades”, Y revisa todas las listas que son anteriores, Entonces le da click al ícono de “Más opciones”, Y selecciona la opción “Eliminar lista” |         |
 | HU20 | Inicio de sesión | Como usuario, quiero iniciar sesión utilizando mi correo electrónico y contraseña para acceder a mi cuenta.| **Escenario 1:** El usuario inicia sesión como alumno <br> <br> Dado que el alumno no ha iniciado sesión, Cuando ingrese en la sección Login, Y complete sus datos de autenticación, Y el sistema verifique las credenciales en la base de datos, Entonces el usuario es dirigido a la pantalla de inicio <br> <br> **Escenario 2:** El usuario inicia sesión como profesor <br> <br> Dado que el profesor no ha iniciado sesión, Cuando ingrese en la sección Login, Y complete sus datos de autenticación, Y el sistema verifique las credenciales en la base de datos, Entonces el usuario es dirigido a la pantalla de inicio |         |
 | HU21 | Caja de contacto (landing page) | Como usuario, quiero acceder a una caja de contacto para enviar consultas sin necesidad de registrarse. | **Escenario 1:** El usuario envía una consulta a través de la caja de contacto <br> <br> Dado que el visitante tiene una duda acerca de los cursos o tutorías, Cuando el usuario rellena los campos de la caja de contacto, Y el usuario hace click en el botón “enviar”, Entonces la consulta es enviada a través del sistema. |         |
 | HU22 | Perfil del profesor | Como alumno, quiero ver el perfil completo del profesor y calificaciones de otros alumnos, para decidir si quiero tomar su curso. | **Escenario 1:** Alumno revisa el perfil completo de un profesor <br> <br>  Dado que el alumno ha iniciado sesión, Y revisa la lista de cursos disponibles, Cuando el alumno selecciona la imagen de perfil del profesor que se encuentra en la portada del curso, Entonces el alumno es redirigido al perfil del profesor. |         |
@@ -1011,7 +1022,6 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 **Perfil**: Se organiza los distintos apartados de manera clara, utilizando secciones diferenciadas para "Información" y "Certificados". En estas secciones, se incluyen detalles relevantes como la información personal y los certificados obtenidos al finalizar los cursos.
 <img src="assets/wireframes-web-application/Perfil.png" alt="Perfil" title="Perfil">
-<img src="assets/wireframes-web-application/Certificados.png" alt="Certificados" title="Certificados">
 
 **Cursos**: Cada curso se presenta en formato de tarjeta o bloque que incluye el nombre del curso, el título, y un ícono de candado que indica si el curso está bloqueado (acceso restringido) o desbloqueado (acceso disponible). Este sistema visual de candados ayuda a los usuarios a entender rápidamente a qué cursos tienen acceso según su plan. Además, cada tarjeta de curso cuenta con un botón de "Ver Detalles" claramente visible, que permite al usuario explorar más información sobre el curso.
 <img src="assets/wireframes-web-application/Catalogo-de-cursos.png" alt="Catalogo-de-cursos" title="Catalogo-de-cursos">
@@ -1019,7 +1029,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 **Detalles de curso**: Al ingresar, el usuario ve el nombre del curso en la parte superior junto con una imagen o ícono representativo, seguido de una descripción detallada del curso que incluye el temario, objetivos de aprendizaje, duración, nivel de dificultad, conocimientos previos e información sobre el certificado.
 <img src="assets/wireframes-web-application/Detalle-curso.png" alt="Detalle-curso" title="Detalle-curso">
 
-**Esamen**: Cada pregunta del examen se presenta en su propio bloque, con opciones claramente diferenciadas, como respuestas de selección múltiple o campos para respuestas abiertas. Asimismo, un botón de "Enviar" está visible al final del examen, que permite al estudiante revisar sus respuestas antes de enviarlas.
+**EXamen**: Cada pregunta del examen se presenta en su propio bloque, con opciones claramente diferenciadas, como respuestas de selección múltiple o campos para respuestas abiertas. Asimismo, un botón de "Enviar" está visible al final del examen, que permite al estudiante revisar sus respuestas antes de enviarlas.
 <img src="assets/wireframes-web-application/Examen.png" alt="Examen" title="Examen">
 
 **Tutorías**: Al ingresar a algún curso, el usuario verá una lista de tutorías disponibles organizadas en formato de botones según una fecha específica. El alumno hará click en el botón de la hora para reserva una automáticamente.
@@ -1027,16 +1037,12 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 **Valoraciones**: Permite a los estudiantes consultar y agregar reseñas sobre los cursos que han tomado, combinando un sistema de estrellas para puntuar y un espacio para dejar comentarios. Al ingresar, el usuario ve un resumen del puntaje promedio del curso, que se representa con estrellas (por ejemplo, de 1 a 5 estrellas), junto con las valoraciones recibidas. Cada reseña individual se presenta en un bloque que incluye el nombre del estudiante, la cantidad de estrellas otorgadas y un comentario que detalla su experiencia con el curso.
 <img src="assets/wireframes-web-application/Valoracion-puntaje.png" alt="Valoracion-puntaje" title="Valoracion-puntaje">
-<img src="assets/wireframes-web-application/Valoracion-comentario.png" alt="Valoracion-comentario" title="Valoracion-comentario">
 
-**Calendario**: Se ofrece a los estudiantes una vista organizada y visualmente clara de sus actividades, como clases, tutorías, exámenes, y fechas importantes que han registrado en el calendario. Se muestra en un formato de cuadrícula ycon días, donde cada evento o actividad está marcado con etiquetas para facilitar su identificación
+**Calendario**: Se ofrece a los estudiantes una vista de un calendario con la finalidad de que pueda tener a primera mano y asi poder organizarse con sus actividades, como clases, tutorías, exámenes, y fechas importantes que han registrado en el calendario. Se muestra en un formato de cuadrícula ycon días, donde cada evento o actividad está marcado con etiquetas para facilitar su identificación
 <img src="assets/wireframes-web-application/Calendario.png" alt="Calendario" title="Calendario">
 
 **Calificaciones**:  Muestra a los profesores un resumen detallado del rendimiento académico de los alumnos en cada curso, organizando las notas de manera clara y accesible.
 <img src="assets/wireframes-web-application/Calificaciones.png" alt="Calificaciones" title="Calificaciones">
-
-**Proyecto**:  Al acceder a la sesión de proyecto, al final del curso, el usuario verá los detalles del proyecto que debe completar, junto con detalles clave como el título del proyecto, descripción y un espacio para enviar el enlace donde está alojado el proyecto.
-<img src="assets/wireframes-web-application/Proyecto.png" alt="Proyecto" title="Proyecto">
 
 **Versión Mobile**<br>
 
@@ -1113,7 +1119,7 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
 - Estudiante
 
-  Usuario inicia sesión 
+  Usuario inicia sesión:
 
   <img src="assets/user_flow1.png" atl="UserFlow1" title="Iniciar Sesion">
 
@@ -1124,18 +1130,13 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
   <img src="assets/user_flow2.png" alt="UserFlow2" title="Registro">
 
   Ingresa datos de cuenta y se registra
+  
+  Pantalla de inicio:
 
   <img src="assets/user_flow3.png" alt="UserFlow3" title="Inicio"> 
 
-  Pantalla de inicio 
 
-  Recordatorio de tutorias
-
-  <img src="assets/user_flow9.png" alt="UserFlow9" title="Recordatorio">
-
-  Notificaciones de tutorias
-
-  Estudiante elige plan
+  Estudiante elige plan:
 
   <img src="assets/user_flow4.png" alt="UserFlow4" title="Planes"> 
 
@@ -1161,43 +1162,36 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
 
   *Visualización del catálogo de cursos*
 
-  Actividades del curso
-
-  <img src="assets/user_flow15.png" alt="UserFlow15" title="Actividades">
 
   <img src="assets/user_flow16.png" alt="UserFlow16" title="Video">
 
   <img src="assets/user_flow17.png" alt="UserFlow17" title="Video">
 
   <img src="assets/user_flow18.png" alt="UserFlow18" title="Video">
-
-  <img src="assets/user_flow21.png" alt="UserFlow21" title="Video">
-
+ 
   Realiza examen del curso
 
-  <img src="assets/user_flow19.png" alt="UserFlow19" title="Video">
+  <img src="assets/user_flow21.png" alt="UserFlow21" title="Video">
+  
+  Calificación del curso
 
   <img src="assets/user_flow20.png" alt="UserFlow20" title="Video">
 
-  <img src="assets/user_flow22.png" alt="UserFlow22" title="Video">
-
   Completa el curso
 
-  <img src="assets/user_flow11.png" alt="UserFlow11" title="Cursos Plan Gratis">
-
-  Busqueda de cursos-plan gratis y premium
-
-  <img src="assets/user_flow12.png" alt="UserFlow12" title="Inscripción a curso">
+  <img src="assets/user_flow22.png" alt="UserFlow22" title="Video">
 
   Inscribirse en un curso
 
-  <img src="assets/user_flow13.png" alt="UserFlow13" title="Detalles del curso">
+  <img src="assets/user_flow12.png" alt="UserFlow12" title="Inscripción a curso">
 
   Ver detalles de un curso
 
-  <img src="assets/user_flow14.png" alt="UserFlow14" title="Cancelar inscripcion">
+  <img src="assets/user_flow13.png" alt="UserFlow13" title="Detalles del curso">
 
   Cancelar inscripción del curso
+
+  <img src="assets/user_flow14.png" alt="UserFlow14" title="Cancelar inscripcion">
 
   Calendario
 
@@ -1219,15 +1213,6 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
 
   <img src="assets/user_flow2.png" alt="UserFlow2" title="Registro">
 
-  Ingresa datos de cuenta y se registra
-
-  <img src="assets/user_flow26.png" alt="UserFlow26" title="Pago de tarjeta">
-
-  Añadir pago por tarjeta: Plan Premium
-
-  Politicas
-
-  <img src="assets/user_flow27.png" alt="UserFlow27" title="Politicas">
 
   Solicitud aceptada
 
@@ -1243,8 +1228,6 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
 
   - Sesion del profesor
 
-  <img src="assets/user_flow36.png" alt="UserFlow36" title="Pantalla principal del Profesor">
-
   Pantalla general
 
   <img src="assets/user_flow37.png" alt="UserFlow37" title="Gestion">
@@ -1255,36 +1238,35 @@ En este diagrama, se mostrará el proceso de como el profesor administra su curs
   
   <img src="assets/user_flow30.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow31.png" alt="UserFlow30" title="Gestion1"><br>
-  <img src="assets/user_flow32.png" alt="UserFlow30" title="Gestion1"><br>
-  <img src="assets/user_flow33.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow34.png" alt="UserFlow30" title="Gestion1"><br>
   <img src="assets/user_flow35.png" alt="UserFlow30" title="Gestion1"><br>
 
 - Material
   
-  <img src="assets/user_flow39.png" alt="UserFlow39" title="Gestion1">
-  
   Se añade nuevo archivo
-  
-  <img src="assets/user_flow40.png" alt="UserFlow40" title="Gestion1">
+
+  <img src="assets/user_flow39.png" alt="UserFlow39" title="Gestion1">
   
   Ingresa los datos del nuevo archivo
   
-  <img src="assets/user_flow41.png" alt="UserFlow41" title="Gestion1">
+  <img src="assets/user_flow40.png" alt="UserFlow40" title="Gestion1">
   
   Archivo subido
-  
-  <img src="assets/user_flow42.png" alt="UserFlow42" title="Gestion1">
+
+  <img src="assets/user_flow41.png" alt="UserFlow41" title="Gestion1">
   
   Visualizacion del archivo en la pantalla
-  
-  <img src="assets/user_flow43.png" alt="UserFlow43" title="Gestion1">
+
+  <img src="assets/user_flow42.png" alt="UserFlow42" title="Gestion1">
   
   Eliminar archivo
-  
-  <img src="assets/user_flow44.png" alt="UserFlow44" title="Gestion1">
+
+  <img src="assets/user_flow43.png" alt="UserFlow43" title="Gestion1">
   
   Eliminacion exitosa
+
+  <img src="assets/user_flow44.png" alt="UserFlow44" title="Gestion1">
+  
 
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
 Nuestro prototipo ofrece una interfaz clara y accesible, con un enfoque en la usabilidad y diseño inclusivo. Incluye pantallas intuitivas para iniciar sesión, registrar cuentas y realizar pagos seguros. La gestión de cursos y el historial se muestran de forma ordenada, mientras que el perfil del estudiante y las valoraciones de cursos facilitan la personalización y retroalimentación. Además, el calendario organiza eventos, y las pantallas de exámenes y proyectos permiten una administración eficiente de tareas y calificaciones. Cada diseño está pensado para proporcionar una experiencia de usuario fluida y eficiente.
@@ -1877,18 +1859,15 @@ Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró p
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU07 | Videos explicativos | TK01  | Crear una vista para la presentación de videos de un curso | Crear uns vista en la que se podrá ver los videos brindados en un curso. | 14 | Anthony Huapaya |  |
 | HU12 | Planes de suscripción | TK02 | Crear una vista para ver los planes de suscripción | Crear una vista para ver los planes de suscripción disponibles en la plataforma y que sirva para suscribirse. | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
-| HU13 | Calendario | TK03 | Crear una vista para ver el calendario | Crear una vista que muestre el calendario con las tutorías disponibles de un alumno.  | 8 | Fabrisio Belahonia |  |
-| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia |  |
+| HU13 | Calendario | TK03 | Crear una vista para ver el calendario | Crear una vista que muestre el calendario.  | 8 | Fabrisio Belahonia |  |
 | HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia |  |
 | HU04 | Inscribirse en un curso. | TK06 |  Crear una vista para inscribirse al curso|  Crear una vista en la que el alumno pueda inscribirse en un curso | 8 | Elizabeth Huanaco |  |
 | HU15 | Historial de cursos | TK07 | Crear una vista para ver el historial de cursos | Crear una vista en la que se pueda ver los cursos completados del alumno | 6 | Pedro Guía |  |
 | HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda un examen de algún curso. | 6 | Elizabeth Huanaco |  |
-| HU11 | Reseñas y calificaciones | TK09 | Crear una vista para ver las reseñas y calificaciones de un curso  |  Crear una vista en la que el alumno pueda ver la calificación y las reseñas de un curso| 6 | Fabrisio Belahonia, Anthony Huapaya |  |
+| HU11 |  Calificaciones | TK09 | Crear una vista para ver las calificaciones de un curso  |  Crear una vista en la que el alumno pueda ver la calificación  de un curso| 6 | Fabrisio Belahonia, Anthony Huapaya |  |
 | HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma. | 6 | Jorge Orrego | Done |
 | HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
 | HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego |  |
-| HU17 | Notificaciones sobre mis cursos | TK13 | Crear una vista para ver las notificaciones  | Crear una vista en la que se pueda ver las notificaciones de distintas partes de la plataforma. | 4 | Pedro Guía |  |
-| HU19 | Creación de listas de actividades | TK14 | Crear una vista para crear y modificar actividades  | Crear una vista en la que se pueda crear y/o modificar actividades dentro de la plataforma. | 4 | Pedro Guía, Elizabeth Huanaco |  |
 
 
 
@@ -1940,9 +1919,9 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | Desarrollo del Frontend: Sección de calendario, detalle del curso, calificacion del curso, |
-| Elizabeth Lucero Huanaco Huayta | Desarrollo del Frontend: Sección de curso, subbscripciones |
-| Anthony Martin Huapaya Cuevas | Desarrollo del Frontend: Sección de curso,|
+| Fabrisio Andre Belahonia Miranda | Desarrollo del Frontend: Sección de calendario, descripción del curso, calificacion del curso. |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo del Frontend: Sección de curso, subbscripciones,pago,examenes |
+| Anthony Martin Huapaya Cuevas | Desarrollo del Frontend: Sección de curso,tutoría, |
 | Pedro Andre Guia Carrasco | Desarrollo del Frontend: Sección de registro, Reporte |
 | Jorge David Orrego Noriega |Desarrollo del Frontend:Sección de myNotes,perfil, Reporte  |
 
@@ -2075,29 +2054,42 @@ FrontEnd Web Application:
 
 *IMG
 
-####User Flows a validar en el Landing Page:
+#### User Flows a validar en el Landing Page:
 
 f. User Flow Diagram F: Suscribirse a un plan
 
-####User Flows a validar en el Frontend Web Application
+#### User Flows a validar en el Frontend Web Application
 
 a. User Flow Diagram A: Iniciar Sesion
-b. User Flow Diagram B: Visualizar Cuenta
-c. User Flow Diagram C: Registro a un curso 
-d. User Flow Diagram D: Visualizar cursos 
-e. User Flow Diagram E: Visualizar cursos  
+
+b. User Flow Diagram B: Evaluación del curso
+
+c. User Flow Diagram C: Gestión de curso
+
+d. User Flow Diagram D: Inscribirse en un curso
+
+e. User Flow Diagram E: Estructura de muestra del curso
+
 f. User Flow Diagram F: Suscribirse a un plan
 
 
-####Preguntas que se realizaran a los entrevistados:
+#### Preguntas que se realizaran a los entrevistados:
 
-a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto?
-b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo?
-c. ¿Lograste visualizar tu cuenta en la pagina web de nuestra aplicacion? ¿Te parece una interfaz amigable?
-d. ¿Lograste revisar el foro? ¿Te llamo la atencion?
-e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes?
-d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio?
-f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti?
+a. ¿Fue claro el proceso de inicio de sesión?
+
+b. ¿Pudiste completar la evaluación del curso sin problemas?
+
+c. ¿Encontraste fácilmente las opciones para gestionar el curso?
+
+d. ¿Fue fácil inscribirse en el curso?
+
+e. ¿Comprendiste rápidamente la estructura de muestra del curso?
+
+f. ¿Fue claro el proceso de selección y pago del plan?
+
+g. funcionalidad y estética de la pagina web
+
+h.- ¿Te resultó sencillo encontrar la opción para suscribirte a un plan?
 
 
 
@@ -2119,9 +2111,9 @@ TEXTO
 
 #### 5.3.3. Evaluaciones según Heurísticas. <a name ="5.3.3.">
 
-Site o App a evaluar: FastLearners
+Site o App a evaluar: LearnE
 
-Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
+Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
 
 Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
