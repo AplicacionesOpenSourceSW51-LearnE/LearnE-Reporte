@@ -2093,7 +2093,11 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review <a name ="5.2.3.6.">
 
-<img src="assets/service1.jpg" alt="Services" title="plataform api" style="width:100%;">
+Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
+
+<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review <a name ="5.2.3.7.">
@@ -2131,10 +2135,6 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Anthony Martin Huapaya Cuevas | Correción frontend |
 | Pedro Andre Guia Carrasco | Desarrollo del backend |
 | Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
-
-
-
-
 
 
 #### 5.3. Validation Interviews. <a name ="5.3.">
