@@ -2296,42 +2296,48 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
-Link de la entrevista en Youtube: 
-Link de la entrevista en Microsoft Stream: 
-*IMG
-TEXTO
-
-
+| Sección | Características del video | Sobre el contenido | Integración y entrega |
+|----|-----------|--------------------|--------------------------------|
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-1<br> **Formato:** .mp4 <br> **Duración**: 4:31 min |Nombre: Sebastian Bohorquez <br> Segmento Objetivo: alumno <br>  Edad:19<br>  Distrito:San Isidro <br>| Screenshot: <img src="assets/entre-sebas.jpg" alt="Interviews 1" title="Interviews 1" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EUYWCOR2K75LmTf9hj1HzAoBqUmmQuF2-lzaOsKUPcGWPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zUgH4r | 	 
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-2<br> **Formato:** .mp4 <br> **Duración**: 3:50 min   | Nombre:Jamil Salazar <br> Segmento Objetivo: profesor <br>  Edad: 22 <br>  Distrito: Comas <br> | Screenshot: <img src="assets/enter-jamil.jpg" alt="Interviews 2" title="Interviews 2" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EfAdX8w4_NtCjj_HcJOL7bcBtG5Qm7J_ZXkzJydSZE3Ulw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Iiz4pj |
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-3<br> **Formato:** .mp4 <br> **Duración**: 5:31 min   | Nombre:Jesus Uribe <br> Segmento Objetivo: Estudiante<br>  Edad: 20 <br>  Distrito: La Molina <br> |Screenshot: <img src="assets/entre-uribe.jpg" alt="PROBLEMA N°1" title="PROBLEMA N°1" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/ES_iLBhv8pFJln-_AU5k7H0BDxUPjT6ALaguuK2Qa8GkwQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7Yhj8W |
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-4<br> **Formato:** .mp4 <br> **Duración**: 5:00 min   | Nombre: Ronald Cuellar <br> Segmento Objetivo: Profesor <br>  Edad: 19 <br>  Distrito:SJL <br> | Screenshot: <img src="assets/entre-ronald.jpg" alt="Interviews 4" title="Interviews 4" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/ERf-41TFLbVInxtexrdCnBkBQnfIZj5n3jAStUo3Ay3Hiw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CuZyHy|
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-5<br> **Formato:** .mp4 <br> **Duración**: 6:15 min   | Nombre: Victor Manuel Miranda <br> Segmento Objetivo: estudiante <br>  Edad: 24 <br>  Distrito: Huachipa <br>| Screenshot: <img src="assets/entre-manu.jpg" alt="Interviews 5" title="Interviews 5" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EQBrI4uGHYhKnxRlisrPzYcBPbOaY14Po7PaV4GU2Vctbw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZDqTmV|
+| Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-6<br> **Formato:** .mp4 <br> **Duración**: 4:44 min   | Nombre: Bruno Minaya <br> Segmento Objetivo: Profesor <br>  Edad: 29 <br>  Distrito: San Miguel <br> | Screenshot: <img src="assets/entre-bruno.jpg" alt="Interviews" title="Interviews" style="width:100px;height:100px;"> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/ES8OX125Z8NMjkoIVzltoAQBxgVw45UGnjZJPl0h8o9i4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gVc6Nu |
 
 
 #### 5.3.3. Evaluaciones según Heurísticas. <a name ="5.3.3.">
 
 Site o App a evaluar: LearnE
 
-Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
+Objetivo: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
 
-Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+Método: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
 Tareas a evaluar:
 
-1.Iniciar sesion en la aplicacion
-2.Visualizar los datos de la cuenta usuario
-3.Visualizar archivos multimedia
-4.Visualizar repositorios
-5.Visualizar el foro estudiantil
+1.Iniciar sesión en la aplicación.
 
-####No estan incluidas en esta version de la evaluacion las siguientes tareas:
+2.Visualizar los datos de la cuenta del usuario.
 
-1.Seccion de compra de suscripciones
-2.Subir contenido
-3.Visualizar contenido subido
-4.Editar cuenta usuario
+3.Navegar por la sección Mis cursos y acceder a los materiales de los cursos.
+
+4.Explorar el catálogo de cursos disponibles y seleccionar uno.
+
+5.Solicitar una tutoría con el profesor y revisar los horarios disponibles.
+
+6.Consultar el calendario para ver los días del mes.
+
+7.Elegir un plan de suscripción y añadir la información de pago.
+
+8.Gestionar cursos como profesor, incluyendo agregar y modificar materiales.
 
 
-Escala de Severidad:
+
+
+#### Escala de Severidad:
 
 Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
-
 
 
 
@@ -2342,39 +2348,72 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 | 3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta  |
 | 4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento |
 
-Tabla Resumen (Problemas):
+
+#### Tabla Resumen (Problemas):
 
 | # | Problema | Escala de severidad | Herustica/Principio violada(o) |
 |----|-----------|--------------------|--------------------------------|
-| 1 |Problema DE:  | 4 |DSDSDSF	 
-| 2 |Problema DE: | 4|SDFSFD
-| 3 |Problema DE:  | 4|SASDASDDS
-| 4 |Problema DE: | 4 |ASSDSAD
+| 1 | No hay opción de editar perfil | 3 | Flexibilidad y eficiencia de uso: El sistema debe permitir la edición de los datos del usuario. | 	 
+| 2 | La gama de colores no es la adecudad | 2 | Visibilidad del estado del sistema |
+| 3 | Exceso de espacio | 2 | Visibilidad del estado del sistema |
+| 4 | No hay opcion de eliminar tutoria | 4 |Control y libertad del usuario |
+| 5 | No hay motivo de la la seccion calendario | 3 | Estándares y Consistencia |
 
 
-####Descripccion de problemas:
+### Descripccion de problemas:
 
-####Problema N°1:
+- PROBLEMA N°1: No hay opción de editar perfil<br>
+- Severidad: 3<br>
+- Heuristica violada: Flexibilidad y eficiencia de uso<br>
+- Problema: El sistema no permite a los usuarios actualizar o modificar su información de perfil, lo cual limita la personalización y flexibilidad en el uso de la plataforma.<br>
 
-Título: Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+<img src="assets/euris-perfil.jpg" alt="PROBLEMA N°1" title="PROBLEMA N°1" style="width:100%;">
 
-Severidad: 4
+- Recomendacion: Añadir una opción que permita a los usuarios editar sus datos de perfil fácilmente desde el menú de usuario o una sección específica de configuración.<br>
 
-Heuristica violada: Usability: Usabilidad y control del usuario
+---
+ 
+- Problema N°2: La gama de colores no es la adecuada<br>
+- Severidad: 2<br>
+- Heuristica violada: Usability: Usabilidad y control del usuario<br>
+- Problema: La elección de colores no es óptima, lo cual puede dificultar la visualización de algunos elementos o la identificación del estado de ciertas acciones.<br>
 
-Descripción:
+<img src="assets/euris-gama.jpg" alt="Problema N°2" title=" Problema N°2 " style="width:100%;">
 
-Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario
+- Recomendacion: Revisar la paleta de colores y optar por combinaciones con suficiente contraste y adecuada visibilidad para todos los usuarios, considerando la accesibilidad.<br>
 
-*IMG
-Recomendacion:
+---
 
-Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida.
+- Problema N°3: Exceso de espacio<br>
+- Severidad: 2<br>
+- Heuristica violada: Usability:  Visibilidad del estado del sistema<br>
+- Problema: La interfaz presenta demasiado espacio en algunas áreas, lo que puede llevar a un diseño desbalanceado y a una experiencia de usuario menos eficiente.<br>
 
+<img src="assets/euris-espa1.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
+<img src="assets/euris-espa2.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
 
+- Recomendacion: Optimizar el uso del espacio, reorganizando los elementos para reducir espacios vacíos y mejorar la estructura visual.<br>
 
+---
 
+- Problema N°4: No hay opción de eliminar tutoría<br>
+- Severidad: 4<br>
+- Heuristica violada: Control y libertad del usuario<br><br>
+- Problema: Los usuarios no tienen la opción de eliminar tutorías, lo cual restringe su control sobre el contenido y puede llevar a frustraciones si desean deshacerse de información innecesaria.<br>
 
+<img src="assets/euris-tuto.jpg" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
+- Recomendación: Agregar una función que permita a los usuarios eliminar tutorías, ya sea desde la vista principal o en un menú de opciones específicas de cada tutoría.<br>
+
+---
+
+- Problema N°5: No hay motivo de la sección calendario<br>
+- Severidad: 3<br>
+- Heuristica violada: Estándares y consistencia<br>
+- Problema: La sección de calendario no tiene un propósito claro o su funcionalidad no se alinea con las expectativas de los usuarios, generando confusión.<br>
+
+<img src="assets/euris-calendar.jpg" alt="Problema N°5" title="Problema N°5 " style="width:100%;">
+
+- Recomendación: Aclarar el propósito de la sección de calendario o integrarla de manera que cumpla una función útil para el usuario, como la gestión de eventos o recordatorios, y asegurarse de que esté alineada con el resto de la aplicación.<br>
 
 
 #### 5.4 Video About-the-Product. <a name ="5.4.">
@@ -2393,7 +2432,10 @@ En el video "About the Product" se presentan las funcionalidades y característi
 
 ## Conclusiones TP
 * Durante el desarrollo del TP pudimos aplicar nuestros conocimientos en Angular y desarrollo web para crear la primera versión de nuestra aplicación web (solo frontend). Esto nos sirvió tanto para afianzar lo que aprendimos en el curso como para acercarnos a un entorno de desarrollo más acorde con la realidad.
-* 
+
+## Conclusiones TB2
+** Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
+
 
 # Bibliografía
 
