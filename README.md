@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-    <strong>Setiembre 2024</strong>
+    <strong>Noviembre 2024</strong>
 </p>
 
 
@@ -92,13 +92,10 @@
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-<<<<<<< HEAD
 | Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> TP: <br> He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br><br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas. <br><br>Fabrisio Belahonia : <br> TB1: <br> La comunicación efectiva con el equipo fue fundamental para alcanzar los objetivos y asegurar una excelente coordinación. Esto resultó especialmente crucial en la elaboración de los User Personas, User Task Matrix y User Journey Mapping, ya que su éxito dependía directamente de las entrevistas realizadas por otros miembros del equipo. Además, el análisis de competidores jugó un papel clave para identificar oportunidades y amenazas en el mercado. A partir de este análisis, desarrollamos una estrategia sólida que nos permitió diferenciarnos de la competencia, mejorando nuestra propuesta de valor y alineando nuestras tácticas con las necesidades de los usuarios.<br><br>  |  TB1: <br><br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio de la exposición <br><br> TP: <br><br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación por medio de las exposiciones. |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web. <br> TP: <br> Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br><br> Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br><br>Fabrisio Belahonia : <br> TB1: <br> La elaboración del análisis de competidores, junto con las estrategias diseñadas frente a ellos y el análisis detallado de las entrevistas, ha permitido documentar de manera exhaustiva el desarrollo de la competencia, identificar sus puntos débiles y definir cómo podemos destacar sobre ellos. Además, la redacción de las entrevistas nos proporciona una visión clara sobre las necesidades y expectativas de nuestro segmento objetivo, lo que nos permite ajustar nuestras estrategias para ofrecer una propuesta más alineada y diferenciada.<br><br>  | TB1: <br><br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio del informe <br><br> TP: <br><br> Se pudo documentar tanto la funcionalidad como el despliegue de nuestra aplicación web en el informe. |
-=======
 | Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> TP: <br> He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br><br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas. <br> TP: <br> Colaboré de manera síncronica y asincrónica el trabajo con lo que respecta al Front-End en apoyo con mis compañeros del grupo. Además, mostraba los avances realizados para que se considere la constante participación en el grupo con el desarrollo de nuestra aplicación. <br><br>Fabrisio Belahonia : <br> TB1: <br> La comunicación efectiva con el equipo fue fundamental para alcanzar los objetivos y asegurar una excelente coordinación. Esto resultó especialmente crucial en la elaboración de los User Personas, User Task Matrix y User Journey Mapping, ya que su éxito dependía directamente de las entrevistas realizadas por otros miembros del equipo. Además, el análisis de competidores jugó un papel clave para identificar oportunidades y amenazas en el mercado. A partir de este análisis, desarrollamos una estrategia sólida que nos permitió diferenciarnos de la competencia, mejorando nuestra propuesta de valor y alineando nuestras tácticas con las necesidades de los usuarios.<br><br>  |  TB1: <br><br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio de la exposición <br><br> TP: <br><br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación por medio de las exposiciones. |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web. <br> TP: <br> Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br><br> Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br> TP: <br> Hice lo que es el SideBar para la vista del curso, mostrar el video una vez seleccionado la sección ha usar, las funcionalidades que tiene que ver con las tutorías y mostrar los cursos inscritos del estudiante. <br><br>Fabrisio Belahonia : <br> TB1: <br> La elaboración del análisis de competidores, junto con las estrategias diseñadas frente a ellos y el análisis detallado de las entrevistas, ha permitido documentar de manera exhaustiva el desarrollo de la competencia, identificar sus puntos débiles y definir cómo podemos destacar sobre ellos. Además, la redacción de las entrevistas nos proporciona una visión clara sobre las necesidades y expectativas de nuestro segmento objetivo, lo que nos permite ajustar nuestras estrategias para ofrecer una propuesta más alineada y diferenciada.<br><br>  | TB1: <br><br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio del informe <br><br> TP: <br><br> Se pudo documentar tanto la funcionalidad como el despliegue de nuestra aplicación web en el informe. |
->>>>>>> 38da26a52fb773e99c0eed50ad07e1922e01303a
 
 # Contenido
 
@@ -188,8 +185,8 @@
          5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
          5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
       5.2.3. [Sprint 3](#5.2.3.)<br>
-         5.2.3.1. [Sprint Planning 2](#5.2.3.1.)<br>
-         5.2.3.2. [Sprint Backlog 2](#5.2.3.2.)<br>
+         5.2.3.1. [Sprint Planning 3](#5.2.3.1.)<br>
+         5.2.3.2. [Sprint Backlog 3](#5.2.3.2.)<br>
          5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
          5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
          5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
@@ -201,8 +198,6 @@
        5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
        5.3.3. [Evaluaciones según Heurísticas](#5.3.3.)<br>
     5.4. [Validation Interviews](#5.4.)<br>
-
-    
 6. [Conclusiones](#conclusiones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos) <br>
@@ -2001,8 +1996,8 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 | Sprint # | Sprint 3 |
 |----------|----------|
 | Sprint Planning Background |
-| Date | 31/10/2024  |
-| Time | 19:00 |
+| Date | 27/10/2024  |
+| Time | 18:00 |
 | Location | Videoconferencia por Discord |
 | Prepared By | Jorge Orrego |
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
@@ -2030,10 +2025,6 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego |  |
 | HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video | 8 | Anthony Huapaya |  |
 | HU06 | Acceso a tutorías en línea  | TK05 | Muestra de horarios | Se muestra los horarios en el cual el alumno pueda escoger el que mas le conviene y ademas muesrta cuales ya estan reservados | 8 | Anthony Huapaya |  |
-
-
-
-
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review. <a name ="5.2.3.3.">
@@ -2106,18 +2097,40 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review <a name ="5.2.3.7.">
-ACA PONEMOS LO DEL BACK
 
+Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y nuestra base de datos MySQL dado que esta plataforma se encarga de generar un ambiente de ejecución y de desplegue automáticamente, sin nosotros tener que realizar tantas configuraciones. 
+
+**Enlace de referencia:** https://zeabur.com/ 
+
+**Despliegue de los web services (backend)**
+
+<img src="assets/deployment_zeabur1.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/deployment_zeabur2.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+
+**Despliegue de la base de datos MySQL**
+
+<img src="assets/deployment_zeabur3.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/deployment_zeabur4.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+**Consumir la API desplegada por medio de Swagger**
+
+<img src="assets/deployment_zeabur5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+
+**Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. <a name ="5.2.3.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | corrección de calendario, Descripcion con API, documentación,  |
-| Elizabeth Lucero Huanaco Huayta | correción frontend  |
-| Anthony Martin Huapaya Cuevas |correción frontend |
-| Pedro Andre Guia Carrasco | Perfil con API,Implementacion de backend |
-| Jorge David Orrego Noriega |Implementacion de backend |
+| Fabrisio Andre Belahonia Miranda | Corrección de calendario, Descripción con API, documentación  |
+| Elizabeth Lucero Huanaco Huayta | Correción frontend  |
+| Anthony Martin Huapaya Cuevas | Correción frontend |
+| Pedro Andre Guia Carrasco | Desarrollo del backend |
+| Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
 
 
 
