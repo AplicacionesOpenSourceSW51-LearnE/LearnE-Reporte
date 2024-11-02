@@ -2031,7 +2031,7 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 
 ### 5.2.3. Sprint 3 <a name ="5.2.3.">
 
-#### 5.2.3.1. Sprint Planning 23. <a name ="5.2.3.1.">
+#### 5.2.3.1. Sprint Planning 3. <a name ="5.2.3.1.">
 
 | Sprint # | Sprint 3 |
 |----------|----------|
