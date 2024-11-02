@@ -2109,11 +2109,9 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.3.4.">
 
-Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias de usuario abordadas en este sprint (HU05 y HU21). 
+En esta seccion  se muestra la evidencia de los test realizados en la sprint.
 
-<img src="assets/gherkin1.png" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
-
-<img src="assets/gherkin2.png" alt="Gherkin2" title="Gherkin Test 2" style="width:100%;">
+<img src="assets/testing.png">
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
