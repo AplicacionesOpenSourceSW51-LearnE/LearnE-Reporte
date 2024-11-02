@@ -2029,77 +2029,126 @@ MODIFICACION DEL API
 ACA PONEMOS LO DEL BACK
 
 
+### Evidencia de despliegue
+
+
+
+
+
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. <a name ="5.2.3.8.">
+
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | corrección de calendario, Descripcion con API, documentación,  |
-| Elizabeth Lucero Huanaco Huayta | correción frontend  |
-| Anthony Martin Huapaya Cuevas |correción frontend |
-| Pedro Andre Guia Carrasco | Perfil con API,Implementacion de backend |
-| Jorge David Orrego Noriega |Implementacion de backend |
-
-
-
-
+| Fabrisio Andre Belahonia Miranda | Correción del frontend: Calendario, Descripcion con API, documentación, PPT |
+| Elizabeth Lucero Huanaco Huayta | Correción del frontend: Registro de usuario,gestion de cursos, Routeo, modificacion de API |
+| Anthony Martin Huapaya Cuevas |Correción frontend: Sesion de tutorias, gestion de cursos, Routeo, modificaciond e API |
+| Pedro Andre Guia Carrasco | Correción frontend: Perfil con API e Implementacion de backend |
+| Jorge David Orrego Noriega |Correción frontend:registro de usuario e Implementacion de backend |
 
 
 #### 5.3. Validation Interviews. <a name ="5.3.">
+En esta sección de nuestro proyecto, LearnE, buscamos identificar oportunidades clave de mejora para aumentar el compromiso tanto de profesores como de estudiantes. Esta fase esencial implica una comunicación directa con nuestros principales usuarios, con el fin de recopilar sus experiencias, opiniones y sugerencias a través de entrevistas estructuradas. Esto garantiza que nuestra plataforma no solo cumpla con los aspectos técnicos, sino que también se adapte de manera óptima a las necesidades diarias y expectativas de cada usuario. A continuación, detallamos los objetivos de los usuarios, los cuales son esenciales para guiar y enriquecer estas entrevistas.
+
 
 #### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
-Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
-Landing Page:
-*IMG
-FrontEnd Web Application:
 
-*IMG
-
-#### User Flows a validar en el Landing Page:
-
-f. User Flow Diagram F: Suscribirse a un plan
-
-#### User Flows a validar en el Frontend Web Application
-
-a. User Flow Diagram A: Iniciar Sesion
-
-b. User Flow Diagram B: Evaluación del curso
-
-c. User Flow Diagram C: Gestión de curso
-
-d. User Flow Diagram D: Inscribirse en un curso
-
-e. User Flow Diagram E: Estructura de muestra del curso
-
-f. User Flow Diagram F: Suscribirse a un plan
-
-
-#### Preguntas que se realizaran a los entrevistados:
-
-a. ¿Fue claro el proceso de inicio de sesión?
-
-b. ¿Pudiste completar la evaluación del curso sin problemas?
-
-c. ¿Encontraste fácilmente las opciones para gestionar el curso?
-
-d. ¿Fue fácil inscribirse en el curso?
-
-e. ¿Comprendiste rápidamente la estructura de muestra del curso?
-
-f. ¿Fue claro el proceso de selección y pago del plan?
-
-g. funcionalidad y estética de la pagina web
-
-h.- ¿Te resultó sencillo encontrar la opción para suscribirte a un plan?
+Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que nuestro sitio web, Learn.E, y el landing page respondan efectivamente a las necesidades reales de los odontólogos y el personal administrativo. A continuación, se presentan dichos objetivos de usuario:
 
 
 
 
+
+#### Landing page <br><br>
+User Goal: Acceder a la sección Nosotros
+User persona: Profesores o alumnos
+Explicación del flujo: El usuario ingresará a la sección Nosotros y explorará esta área para conocer más sobre nuestra startup y obtener información detallada sobre nuestro producto.
+
+User Goal: Acceder a la sección Conoce más
+User persona: Profesores o alumnos
+Explicación del flujo: El usuario ingresará a la sección Conoce más y recorrerá esta área para familiarizarse con los servicios que ofrecemos en nuestro sitio web.
+
+User Goal: Acceder a la sección Planes
+User persona: Alumnos
+Explicación del flujo: El usuario ingresará a la sección de Planes y explorará esta área para conocer las opciones de suscripción que ofrecemos en nuestro sitio web.
+
+User Goal: Acceder a la sección Contáctanos
+User persona: Profesores o alumnos
+Explicación del flujo: El usuario ingresará a la sección de Contáctanos, completará los datos requeridos y enviará un mensaje de solicitud para comunicarse directamente con nuestro equipo.
+
+
+
+<br><br> Sitio web
+
+User Goal: Iniciar sesión
+
+User persona: Profesores o alumnos
+
+Explicación del flujo: Una vez que inicie sesión, el usuario será dirigido a la sección Mis cursos, donde podrá ver qué cursos está cursando. Al seleccionar un curso, podrá acceder a los materiales que el profesor ha subido, como clases, archivos, videos, entre otros.
+
+
+User Goal: Navegar por mis cursos
+
+User persona: Profesores o alumnos
+
+Explicación del flujo: Después de iniciar sesión, el usuario será dirigido al mis cursos, el en cual podra observasr que cucros esta llevvndo y podra entrar al cursos y verá los materiales que ha subido el profesor como clases, archivos, videos etc
+
+
+User Goal: Calificación
+
+User persona: Alumnos
+
+Explicación del flujo: Después de completar el curso, el alumno podrá dejar una calificación si lo desea, lo que permitirá comprender la puntuación que otorga al curso.
+
+
+User Goal: Catalogo de cursos
+
+User persona: Alumnos
+
+Explicación del flujo: Una vez que inicie sesión, el alumno podrá acceder al catálogo de cursos disponibles. Al seleccionar uno, se mostrarán los detalles del curso, incluyendo la descripción, imágenes relacionadas, el nombre del profesor que lo imparte, entre otros aspectos. Después de revisar esta información, el alumno podrá decidir si elige inscribirse en el curso o no.
+
+
+User Goal: Tutorias 
+
+User persona: Alumnos
+
+Explicación del flujo: Después de ingresar al curso, el alumno tiene la opción de solicitar una tutoría, donde podrá reservar una sesión con el profesor y consultar los horarios disponibles.
+
+
+User Goal: Calendario
+
+User persona: Alumnos
+
+Explicación del flujo: Una vez que inicie sesión, el usuario será llevado al Calendario, donde podrá ver los días del mes y tener una visión general del tiempo disponible para planificar sus actividades educativas.
+
+
+User Goal: Planes
+
+User persona:  Alumnos
+
+Explicación del flujo: Una vez que inicie sesión, el usuario podrá acceder a la sección Planes para seleccionar el plan que desee. Después de elegir, podrá añadir su tarjeta de pago. Además, tendrá la opción de cambiar de plan si así lo desea.
+
+
+User Goal: Gestion de cursos
+
+User persona: profesor
+
+Explicación del flujo: Una vez que inicie sesión, el usuario podrá acceder a la sección Gestión de cursos para administrar los cursos que imparte. En esta área, podrá agregar, modificar o eliminar archivos, materiales de estudio, temarios, examenes, entre otros.
+
+
+User Goal: Perfil
+
+User persona: Profesores o alumnos
+
+Explicación del flujo: Una vez que inicie sesión, el usuario podrá acceder a la sección Perfil para visualizar su información, como nombre, foto, apellido, correo electrónico, entre otros.
 
 
 #### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
 
 
-Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
+Realizamos 6 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
 Link de la entrevista en Youtube: 
 Link de la entrevista en Microsoft Stream: 
@@ -2113,24 +2162,33 @@ TEXTO
 
 Site o App a evaluar: LearnE
 
-Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
+Objetivo: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
 
-Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+Método: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
 Tareas a evaluar:
 
-1.Iniciar sesion en la aplicacion
-2.Visualizar los datos de la cuenta usuario
-3.Visualizar archivos multimedia
-4.Visualizar repositorios
-5.Visualizar el foro estudiantil
+1.Iniciar sesión en la aplicación.
+
+2.Visualizar los datos de la cuenta del usuario.
+
+3.Navegar por la sección Mis cursos y acceder a los materiales de los cursos.
+
+4.Explorar el catálogo de cursos disponibles y seleccionar uno.
+
+5.Solicitar una tutoría con el profesor y revisar los horarios disponibles.
+
+6.Consultar el calendario para ver los días del mes.
+
+7.Elegir un plan de suscripción y añadir la información de pago.
+
+8.Gestionar cursos como profesor, incluyendo agregar y modificar materiales.
 
 ####No estan incluidas en esta version de la evaluacion las siguientes tareas:
 
-1.Seccion de compra de suscripciones
-2.Subir contenido
-3.Visualizar contenido subido
-4.Editar cuenta usuario
+1. asasdasd
+  
+  
 
 
 Escala de Severidad:
