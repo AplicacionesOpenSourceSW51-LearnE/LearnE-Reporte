@@ -2086,7 +2086,16 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 #### 5.2.3.5. Execution Evidence for Sprint Review. <a name ="5.2.3.5.">
 
+**Desarrollo del Backend por medio del IDE IntelliJ IDEA:**
+
 <img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
+
+
+**Visualización de endpoints de la API por medio de Swagger:**
+
+<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
