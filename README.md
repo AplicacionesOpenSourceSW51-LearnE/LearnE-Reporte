@@ -1938,8 +1938,27 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 |  LearnE-Product-Testing | main | 8ad40291d8859f1599169f6d3e3588a033db5a3e | Create HU17.feature |  Create HU17.feature |    02/11/2024 |
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.2.5.">
+#### 5.2.2.5. Execution Evidence for Sprint Review. <a name ="5.2.2.5.">
 
+
+La ejecución de estas tareas demuestra un método organizado para el desarrollo de la aplicación web. Cada tarea se centra en un componente esencial del producto, asegurando que se aborden tanto los aspectos visuales como los funcionales. Este enfoque modular no solo ayuda a mantener el orden en el proceso de desarrollo, sino que también garantiza que cada sección cumpla con las funcionalidades ofrecidas por LearnE.
+
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Aplicación web:
+
+
+<img src="assets/evidence1.jpg" alt="developmentEvidence4" title=" Registro" style="width:100%;">
+<img src="assets/evidence2.jpg" alt="developmentEvidence4" title=" Iniciar Sesión" style="width:100%;">
+<img src="assets/evidence3.jpg" alt="developmentEvidence4" title="mis cursos" style="width:100%;">
+<img src="assets/evidence4.jpg" alt="developmentEvidence4" title="notas" style="width:100%;">
+<img src="assets/evidence5.jpg" alt="developmentEvidence4" title="calendario" style="width:100%;">
+<img src="assets/evidence6.jpg" alt="developmentEvidence4" title="planes" style="width:100%;">
+<img src="assets/evidence7.jpg" alt="developmentEvidence4" title="perfil" style="width:100%;">
+<img src="assets/evidence8.jpg" alt="developmentEvidence4" title="estrucutra de un curso" style="width:100%;">
+<img src="assets/evidence9.jpg" alt="developmentEvidence4" title="examen" style="width:100%;">
+<img src="assets/evidence10.jpg" alt="developmentEvidence4" title="tutoria" style="width:100%;">
+<img src="assets/evidence11.jpg" alt="developmentEvidence4" title="materialextra" style="width:100%;">
+<img src="assets/evidence12.jpg" alt="developmentEvidence4" title="calificaiones" style="width:100%;">
 
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review <a name ="5.2.2.6.">
@@ -1969,18 +1988,10 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 | Alumno | Actividad |
 |--------|-----------|
 | Fabrisio Andre Belahonia Miranda | Desarrollo del Frontend: Sección de calendario, descripción del curso, calificacion del curso. |
-| Elizabeth Lucero Huanaco Huayta | Desarrollo del Frontend: Sección de curso, subbscripciones,pago,examenes |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo del Frontend: Sección de curso, subscripciones, pago, examenes |
 | Anthony Martin Huapaya Cuevas | Desarrollo del Frontend: Sección de curso,tutoría, |
 | Pedro Andre Guia Carrasco | Desarrollo del Frontend: Sección de registro, Reporte |
-| Jorge David Orrego Noriega |Desarrollo del Frontend:Sección de myNotes,perfil, Reporte  |
-
-ver excel
-
-
-
-
-
-
+| Jorge David Orrego Noriega |Desarrollo del Frontend:Sección de myNotes, perfil, Reporte  |
 
 
 ### 5.2.3. Sprint 3 <a name ="5.2.3.">
