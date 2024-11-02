@@ -2091,6 +2091,9 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 <img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
 
 
+**Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
+
+
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review <a name ="5.2.3.6.">
 
 Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
@@ -2372,6 +2375,10 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend 
 
+**Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
+
+**Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
+
 **Enlace del repositorio del Fake API:** https://github.com/AplicacionesOpenSourceSW51-LearnE/FakeAPI  
 
 **Enlace del diseño de wireframe, mock-up en Figma:** [https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/](https://www.figma.com/design/gNKth4wBYi5piw3OdDReCi/WIREFRAMES-OPEN?node-id=130-2271&t=yze7EryhPGMBUH6k-1)
@@ -2379,7 +2386,6 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 **Enlace del diseño de prototipo en Figma:** https://www.figma.com/design/ci2Ygt5R6JV8urqClMaCGY/Prototype-profesor?node-id=0-1&t=9VUnWDu8gxvP6HyO-1
 
 **Enlace del diseño de wireflow  en Lucichart:** https://lucid.app/lucidchart/28e93606-7f76-4b9c-a6ed-f3b4b86c47ce/edit?viewport_loc=-34510%2C-1461%2C40548%2C19097%2C0_0&invitationId=inv_59fdf1d1-d1ca-4b45-8179-794abf6a4622
-
 
 **Enlace del diseño de diagrama de clases en Lucichart:** https://lucid.app/lucidchart/101906ad-b7f2-4a67-9ddb-33c808ce45ad/edit?viewport_loc=332%2C-610%2C3288%2C1719%2C0_0&invitationId=inv_b5f08b4d-7601-4bf6-9e18-990c1b5a8642
 
@@ -2389,7 +2395,7 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EV_Ggf5QD7ZMrfRRy8UVTSMBe5CRE-50e5RAMyCCaQgKuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QGYtrK 
 
 **Video Exposición TP:** 
-* Enlace de la exposición en Microsoft 
+* Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/Efr8Y3OvDORLjtBZOIb3T6MBxI6N316iK5tc2c09n7V80w?e=1ySrhW 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
