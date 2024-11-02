@@ -2438,12 +2438,13 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 
 En el video "About the Product" se presentan las funcionalidades y características clave de nuestra aplicación, junto con el modelo de negocio que se utilizará para generar ingresos. También se incluye el testimonio de un usuario que valoró positivamente su experiencia al interactuar con nuestra plataforma.
 
+<img src="assets/about.jpg" alt="About The Product" title="About The Product" style="width:100%;">
 	 
+**Enlace** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EWeYomhBPgRHieEnRamCiFYB-EMW6AfbV0FpYadAIsmjZQ
 
-| Sección | Características del video | Sobre el contenido | Integración y entrega |
-|----|-----------|--------------------|--------------------------------|
-| About the product | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-sw51-LearnE-about-the-product-sprint-1
-upc-pre-202401-si729-sw51-LearnE-about-the-product-sprint-1 <br> **Formato:** .mp4 <br> **Duración**: 1:19 min | Video de About The Product en base a la aplicación "LearnE" desarrollado por Learn.E | Screenshot:<br>  <img src="assets/about.jpg" alt="About The Product" title="About The Product" style="width:200px;height:100px;"> <br> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EWeYomhBPgRHieEnRamCiFYB-EMW6AfbV0FpYadAIsmjZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FuMf8s| 	 
+#### Video About-The-Team
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESJ03OklkPJBhQT7ci1lYtEBV1rCK_CHz8kyQt-TG8owPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=T9L2EN 
 
 # Conclusiones y recomendaciones.
 
