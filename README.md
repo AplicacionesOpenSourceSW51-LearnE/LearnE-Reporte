@@ -73,11 +73,11 @@
 
 
 
-
-
-
-
 # Project Report Collaboration Insights
+
+**Commits del Informe TB2:**
+
+<img src="assets/commits_report_tb2.png" alt="Commits TB2">
 
 **Commits del Informe TB1:**
 
@@ -2454,7 +2454,7 @@ upc-pre-202401-si729-sw51-LearnE-about-the-product-sprint-1 <br> **Formato:** .m
 * Durante el desarrollo del TP pudimos aplicar nuestros conocimientos en Angular y desarrollo web para crear la primera versión de nuestra aplicación web (solo frontend). Esto nos sirvió tanto para afianzar lo que aprendimos en el curso como para acercarnos a un entorno de desarrollo más acorde con la realidad.
 
 ## Conclusiones TB2
-** Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
+* Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
 
 
 # Bibliografía
