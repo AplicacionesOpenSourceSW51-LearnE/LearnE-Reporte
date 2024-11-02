@@ -1947,18 +1947,18 @@ La ejecución de estas tareas demuestra un método organizado para el desarrollo
 A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Aplicación web:
 
 
-<img src="assets/evidence1.jpg" alt="developmentEvidence4" title=" Registro" style="width:100%;">
-<img src="assets/evidence2.jpg" alt="developmentEvidence4" title=" Iniciar Sesión" style="width:100%;">
-<img src="assets/evidence3.jpg" alt="developmentEvidence4" title="mis cursos" style="width:100%;">
-<img src="assets/evidence4.jpg" alt="developmentEvidence4" title="notas" style="width:100%;">
-<img src="assets/evidence5.jpg" alt="developmentEvidence4" title="calendario" style="width:100%;">
-<img src="assets/evidence6.jpg" alt="developmentEvidence4" title="planes" style="width:100%;">
-<img src="assets/evidence7.jpg" alt="developmentEvidence4" title="perfil" style="width:100%;">
-<img src="assets/evidence8.jpg" alt="developmentEvidence4" title="estrucutra de un curso" style="width:100%;">
-<img src="assets/evidence9.jpg" alt="developmentEvidence4" title="examen" style="width:100%;">
-<img src="assets/evidence10.jpg" alt="developmentEvidence4" title="tutoria" style="width:100%;">
-<img src="assets/evidence11.jpg" alt="developmentEvidence4" title="materialextra" style="width:100%;">
-<img src="assets/evidence12.jpg" alt="developmentEvidence4" title="calificaiones" style="width:100%;">
+<img src="assets/Evidence1.jpg" alt="developmentEvidence4" title=" Registro" style="width:100%;">
+<img src="assets/Evidence2.jpg" alt="developmentEvidence4" title=" Iniciar Sesión" style="width:100%;">
+<img src="assets/Evidence3.jpg" alt="developmentEvidence4" title="mis cursos" style="width:100%;">
+<img src="assets/Evidence4.jpg" alt="developmentEvidence4" title="notas" style="width:100%;">
+<img src="assets/Evidence5.jpg" alt="developmentEvidence4" title="calendario" style="width:100%;">
+<img src="assets/Evidence6.jpg" alt="developmentEvidence4" title="planes" style="width:100%;">
+<img src="assets/Evidence7.jpg" alt="developmentEvidence4" title="perfil" style="width:100%;">
+<img src="assets/Evidence8.jpg" alt="developmentEvidence4" title="estrucutra de un curso" style="width:100%;">
+<img src="assets/Evidence9.jpg" alt="developmentEvidence4" title="examen" style="width:100%;">
+<img src="assets/Evidence10.jpg" alt="developmentEvidence4" title="tutoria" style="width:100%;">
+<img src="assets/Evidence11.jpg" alt="developmentEvidence4" title="materialextra" style="width:100%;">
+<img src="assets/Evidence12.jpg" alt="developmentEvidence4" title="calificaiones" style="width:100%;">
 
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review <a name ="5.2.2.6.">
@@ -2015,25 +2015,23 @@ Se utilizó el servicio de hosting de Google Firebase para desplegar nuestra apl
 
 #### 5.2.3.2. Sprint Backlog 3. <a name ="5.2.3.2.">
 
-MODIFICAR
-revisar feature
+En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 3:
+
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
-| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco |  |
-| HU12 | Planes de suscripción | TK02 | Crear una vista para ver los planes de suscripción | Crear una vista para ver los planes de suscripción disponibles en la plataforma y que sirva para suscribirse. | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
-| HU13 | Calendario | TK03 | Crear una vista para ver el calendario | Crear una vista que muestre el calendario con las tutorías disponibles de un alumno.  | 8 | Fabrisio Belahonia |  |
+| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco | Done |
+| HU12 | Cambio de planes de suscripción | TK02 | Cambio una vista para ver los planes de suscripción | Cambia el limiete de cursos por llevar y cambia de subicripcion free a paga y viceversa | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
 | HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia |  |
 | HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia |  |
-| HU04 | Inscribirse en un curso. | TK06 |  Crear una vista para inscribirse al curso|  Crear una vista en la que el alumno pueda inscribirse en un curso | 8 | Elizabeth Huanaco |  |
-| HU15 | Historial de cursos | TK07 | Crear una vista para ver el historial de cursos | Crear una vista en la que se pueda ver los cursos completados del alumno | 6 | Pedro Guía |  |
-| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda un examen de algún curso. | 6 | Elizabeth Huanaco |  |
-| HU11 | Reseñas y calificaciones | TK09 | Crear una vista para ver las reseñas y calificaciones de un curso  |  Crear una vista en la que el alumno pueda ver la calificación y las reseñas de un curso| 6 | Fabrisio Belahonia, Anthony Huapaya |  |
-| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma. | 6 | Jorge Orrego | Done |
+| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda responder un examen de algún curso. | 6 | Elizabeth Huanaco |  |
+| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma, siempre y cuando esté registrado en la base de datos. | 6 | Jorge Orrego | Done |
 | HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
 | HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego |  |
-| HU17 | Notificaciones sobre mis cursos | TK13 | Crear una vista para ver las notificaciones  | Crear una vista en la que se pueda ver las notificaciones de distintas partes de la plataforma. | 4 | Pedro Guía |  |
-| HU19 | Creación de listas de actividades | TK14 | Crear una vista para crear y modificar actividades  | Crear una vista en la que se pueda crear y/o modificar actividades dentro de la plataforma. | 4 | Pedro Guía, Elizabeth Huanaco |  |
+| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video | 8 | Anthony Huapaya |  |
+| HU06 | Acceso a tutorías en línea  | TK05 | Muestra de horarios | Se muestra los horarios en el cual el alumno pueda escoger el que mas le conviene y ademas muesrta cuales ya estan reservados | 8 | Anthony Huapaya |  |
+
+
 
 
 
@@ -2042,18 +2040,40 @@ revisar feature
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-| LearnE-LandingPage | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
-| LearnE-LandingPage | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+| LearnE-Frontend | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
+| LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+| LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+| LearnE-Frontend | main | falta | lo de | front | 06/09/2024 | 
+| LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
+| LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
+| LearnE-Backend | develop | 2a5e37d4ebea6e162be6de845db9d508e6418a96 | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
+| LearnE-Backend | develop | 2b85d2a020670fef3489e0c41e257064b11db8a4 | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
+| LearnE-Backend | develop | 5bae6a3de7f04de240a05c29103419a63dc71826 |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | 0997450650fd75759231db93e3751bb395813a37 | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
+| LearnE-Backend | develop | 332125ad201f46324dbf70d263f3015394c25c25 | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
+| LearnE-Backend | develop | ad2064192aa60b855940cacf267feaf57fe6fa53 | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | b383a9d91ff37801933b5d05e1640fb56e34e67a | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
 
-EDITARRRR
+
+
 **Commits vistos desde GitHub:**
 
-<img src="assets/development1.png" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
+
+### BACKEND
+
+<img src="assets/development1.png" alt="developmentEvidence1" title="Commits 1" style="width:100%;">
+<img src="assets/commit-back1.jpg" alt="commit-back1" title="Commits 2" style="width:100%;">
+<img src="assets/commit-back2.jpg" alt="commit-back1" title="Commits 3" style="width:100%;">
 
 
 **Repositorio de GitHub**
 
-<img src="assets/development2.png" alt="developmentEvidence2" title="Development Evidence 2" style="width:100%;">
+### Frontend:
+<img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
+
+
+### Backend
+<img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.3.4.">
@@ -2077,13 +2097,13 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 #### 5.2.3.5. Execution Evidence for Sprint Review. <a name ="5.2.3.5.">
 
+<img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
 
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review <a name ="5.2.3.6.">
 
-QUE MRD PONGO ACA=?XD
-LO DEL BACK
-MODIFICACION DEL API
+<img src="assets/service1.jpg" alt="Services" title="plataform api" style="width:100%;">
+
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review <a name ="5.2.3.7.">
 ACA PONEMOS LO DEL BACK
@@ -2107,53 +2127,109 @@ ACA PONEMOS LO DEL BACK
 #### 5.3. Validation Interviews. <a name ="5.3.">
 
 #### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
-Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
-Landing Page:
-*IMG
-FrontEnd Web Application:
+Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que nuestro sitio web, Learn.E, y el landing page respondan efectivamente a las necesidades reales de los odontólogos y el personal administrativo. A continuación, se presentan dichos objetivos de usuario:
 
-*IMG
+#### Landing page <br><br>
 
-#### User Flows a validar en el Landing Page:
+**User Goal:** Acceder a la sección Nosotros
 
-f. User Flow Diagram F: Suscribirse a un plan
+**User persona:** Profesores o alumnos
 
-#### User Flows a validar en el Frontend Web Application
+**Explicación del flujo:** El usuario ingresará a la sección Nosotros y explorará esta área para conocer más sobre nuestra startup y obtener información detallada sobre nuestro producto. 
+<br><br><br>
+**User Goal:** Acceder a la sección Conoce más
 
-a. User Flow Diagram A: Iniciar Sesion
+**User persona:** Profesores o alumnos
 
-b. User Flow Diagram B: Evaluación del curso
+**Explicación del flujo:** El usuario ingresará a la sección Conoce más y recorrerá esta área para familiarizarse con los servicios que ofrecemos en nuestro sitio web.
+<br><br><br>
 
-c. User Flow Diagram C: Gestión de curso
+**User Goal:** Acceder a la sección Planes
 
-d. User Flow Diagram D: Inscribirse en un curso
+**User persona:** Alumnos
 
-e. User Flow Diagram E: Estructura de muestra del curso
+**Explicación del flujo:** El usuario ingresará a la sección de Planes y explorará esta área para conocer las opciones de suscripción que ofrecemos en nuestro sitio web.
+<br><br><br>
 
-f. User Flow Diagram F: Suscribirse a un plan
+**User Goal:** Acceder a la sección Contáctanos
 
+**User persona:** Profesores o alumnos
 
-#### Preguntas que se realizaran a los entrevistados:
-
-a. ¿Fue claro el proceso de inicio de sesión?
-
-b. ¿Pudiste completar la evaluación del curso sin problemas?
-
-c. ¿Encontraste fácilmente las opciones para gestionar el curso?
-
-d. ¿Fue fácil inscribirse en el curso?
-
-e. ¿Comprendiste rápidamente la estructura de muestra del curso?
-
-f. ¿Fue claro el proceso de selección y pago del plan?
-
-g. funcionalidad y estética de la pagina web
-
-h.- ¿Te resultó sencillo encontrar la opción para suscribirte a un plan?
+**Explicación del flujo:** El usuario ingresará a la sección de Contáctanos, completará los datos requeridos y enviará un mensaje de solicitud para comunicarse directamente con nuestro equipo.
+<br><br><br>
 
 
 
+<br><br> **Sitio web**
 
+**User Goal:** Iniciar sesión
+
+**User persona:** Profesores o alumnos
+
+**Explicación del flujo:** Una vez que inicie sesión, el usuario será dirigido a la sección Mis cursos, donde podrá ver qué cursos está cursando. Al seleccionar un curso, podrá acceder a los materiales que el profesor ha subido, como clases, archivos, videos, entre otros.
+<br><br><br>
+**User Goal:** Navegar por mis cursos
+
+**User persona:** Profesores o alumnos
+
+**Explicación del flujo:** Después de iniciar sesión, el usuario será dirigido al mis cursos, el en cual podra observasr que cucros esta llevvndo y podra entrar al cursos y verá los materiales que ha subido el profesor como clases, archivos, videos etc
+<br><br><br>
+
+
+**User Goal:** Calificación
+
+**User persona:** Alumnos
+
+**Explicación del flujo:** Después de completar el curso, el alumno podrá dejar una calificación si lo desea, lo que permitirá comprender la puntuación que otorga al curso.
+<br><br><br>
+
+
+**User Goal:** Catalogo de cursos
+
+**User persona:** Alumnos
+
+**Explicación del flujo:** Una vez que inicie sesión, el alumno podrá acceder al catálogo de cursos disponibles. Al seleccionar uno, se mostrarán los detalles del curso, incluyendo la descripción, imágenes relacionadas, el nombre del profesor que lo imparte, entre otros aspectos. Después de revisar esta información, el alumno podrá decidir si elige inscribirse en el curso o no.
+<br><br><br>
+
+
+**User Goal:** Tutorias 
+
+**User persona:** Alumnos
+
+**Explicación del flujo:** Después de ingresar al curso, el alumno tiene la opción de solicitar una tutoría, donde podrá reservar una sesión con el profesor y consultar los horarios disponibles.
+<br><br><br>
+
+
+**User Goal:** Calendario
+
+**User persona:** Alumnos
+
+**Explicación del flujo:** Una vez que inicie sesión, el usuario será llevado al Calendario, donde podrá ver los días del mes y tener una visión general del tiempo disponible para planificar sus actividades educativas.
+<br><br><br>
+
+
+**User Goal:** Planes
+
+**User persona:**  Alumnos
+
+**Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Planes para seleccionar el plan que desee. Después de elegir, podrá añadir su tarjeta de pago. Además, tendrá la opción de cambiar de plan si así lo desea.
+<br><br><br>
+
+
+**User Goal** : Gestion de cursos
+
+**User persona:** profesor
+
+**Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Gestión de cursos para administrar los cursos que imparte. En esta área, podrá agregar, modificar o eliminar archivos, materiales de estudio, temarios, examenes, entre otros.
+<br><br><br>
+
+
+**User Goal:** Perfil
+
+**User persona:** Profesores o alumnos
+
+**Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Perfil para visualizar su información, como nombre, foto, apellido, correo electrónico, entre otros.
+<br><br><br>
 
 
 #### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
