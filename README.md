@@ -2189,19 +2189,18 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
 
 
-#### 5.3. Validation Interviews. <a name ="5.3.">
+## 5.3. Validation Interviews. <a name ="5.3.">
 
-#### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
+### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
 Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que nuestro sitio web, Learn.E, y el landing page respondan efectivamente a las necesidades reales de los odontólogos y el personal administrativo. A continuación, se presentan dichos objetivos de usuario:
 
-#### Landing page <br><br>
+### Landing page 
 
 **User Goal:** Acceder a la sección Nosotros
 
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** El usuario ingresará a la sección Nosotros y explorará esta área para conocer más sobre nuestra startup y obtener información detallada sobre nuestro producto. 
-<br><br><br>
 
 ---
 
@@ -2210,7 +2209,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** El usuario ingresará a la sección Conoce más y recorrerá esta área para familiarizarse con los servicios que ofrecemos en nuestro sitio web.
-<br><br><br>
 
 ---
 
@@ -2219,28 +2217,22 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Alumnos
 
 **Explicación del flujo:** El usuario ingresará a la sección de Planes y explorará esta área para conocer las opciones de suscripción que ofrecemos en nuestro sitio web.
-<br><br><br>
 
 ---
-
 
 **User Goal:** Acceder a la sección Contáctanos
 
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** El usuario ingresará a la sección de Contáctanos, completará los datos requeridos y enviará un mensaje de solicitud para comunicarse directamente con nuestro equipo.
-<br><br><br>
 
-
-
-<br><br> **Sitio web**
+### Sitio web
 
 **User Goal:** Iniciar sesión
 
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** Una vez que inicie sesión, el usuario será dirigido a la sección Mis cursos, donde podrá ver qué cursos está cursando. Al seleccionar un curso, podrá acceder a los materiales que el profesor ha subido, como clases, archivos, videos, entre otros.
-<br><br><br>
 
 ---
 
@@ -2249,7 +2241,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** Después de iniciar sesión, el usuario será dirigido al mis cursos, el en cual podra observasr que cucros esta llevvndo y podra entrar al cursos y verá los materiales que ha subido el profesor como clases, archivos, videos etc
-<br><br><br>
 
 ---
 
@@ -2258,7 +2249,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Alumnos
 
 **Explicación del flujo:** Después de completar el curso, el alumno podrá dejar una calificación si lo desea, lo que permitirá comprender la puntuación que otorga al curso.
-<br><br><br>
 
 ---
 
@@ -2267,7 +2257,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Alumnos
 
 **Explicación del flujo:** Una vez que inicie sesión, el alumno podrá acceder al catálogo de cursos disponibles. Al seleccionar uno, se mostrarán los detalles del curso, incluyendo la descripción, imágenes relacionadas, el nombre del profesor que lo imparte, entre otros aspectos. Después de revisar esta información, el alumno podrá decidir si elige inscribirse en el curso o no.
-<br><br><br>
 
 ---
 
@@ -2276,7 +2265,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Alumnos
 
 **Explicación del flujo:** Después de ingresar al curso, el alumno tiene la opción de solicitar una tutoría, donde podrá reservar una sesión con el profesor y consultar los horarios disponibles.
-<br><br><br>
 
 ---
 
@@ -2285,7 +2273,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Alumnos
 
 **Explicación del flujo:** Una vez que inicie sesión, el usuario será llevado al Calendario, donde podrá ver los días del mes y tener una visión general del tiempo disponible para planificar sus actividades educativas.
-<br><br><br>
 
 ---
 
@@ -2294,7 +2281,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:**  Alumnos
 
 **Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Planes para seleccionar el plan que desee. Después de elegir, podrá añadir su tarjeta de pago. Además, tendrá la opción de cambiar de plan si así lo desea.
-<br><br><br>
 
 ---
 
@@ -2303,7 +2289,6 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** profesor
 
 **Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Gestión de cursos para administrar los cursos que imparte. En esta área, podrá agregar, modificar o eliminar archivos, materiales de estudio, temarios, examenes, entre otros.
-<br><br><br>
 
 ---
 
@@ -2312,10 +2297,9 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
 **User persona:** Profesores o alumnos
 
 **Explicación del flujo:** Una vez que inicie sesión, el usuario podrá acceder a la sección Perfil para visualizar su información, como nombre, foto, apellido, correo electrónico, entre otros.
-<br><br><br>
 
 
-#### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
+### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
 
 
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
@@ -2330,34 +2314,34 @@ Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas 
 | Validation Interviews	 | **Cantidad de videos:** 1 <br>**Nomenclatura:** <br> upc-pre-202401-si729-SW51-LearnE-validation-3-6<br> **Formato:** .mp4 <br> **Duración**: 4:44 min   | Nombre: Bruno Minaya <br> Segmento Objetivo: Profesor <br>  Edad: 29 <br>  Distrito: San Miguel <br> | Screenshot: <br> <img src="assets/entre-bruno.jpg" alt="Interviews" title="Interviews" style="width:200px;height:100px;"> <br> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/ES8OX125Z8NMjkoIVzltoAQBxgVw45UGnjZJPl0h8o9i4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gVc6Nu |
 
 
-#### 5.3.3. Evaluaciones según Heurísticas. <a name ="5.3.3.">
+### 5.3.3. Evaluaciones según Heurísticas. <a name ="5.3.3.">
 
-Site o App a evaluar: LearnE
+**Site o App a evaluar:** LearnE
 
-Objetivo: Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
+**Objetivo:** Encontrar los problemas que existen dentro de nuestra aplicacion web de LearnE
 
-Método: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+**Método:** Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
 **Tareas a evaluar:**
 
-1.Iniciar sesión en la aplicación.
+1. Iniciar sesión en la aplicación.
 
-2.Visualizar los datos de la cuenta del usuario.
+2. Visualizar los datos de la cuenta del usuario.
 
-3.Navegar por la sección Mis cursos y acceder a los materiales de los cursos.
+3. Navegar por la sección Mis cursos y acceder a los materiales de los cursos.
 
-4.Explorar el catálogo de cursos disponibles y seleccionar uno.
+4. Explorar el catálogo de cursos disponibles y seleccionar uno.
 
-5.Solicitar una tutoría con el profesor y revisar los horarios disponibles.
+5. Solicitar una tutoría con el profesor y revisar los horarios disponibles.
 
-6.Consultar el calendario para ver los días del mes.
+6. Consultar el calendario para ver los días del mes.
 
-7.Elegir un plan de suscripción y añadir la información de pago.
+7. Elegir un plan de suscripción y añadir la información de pago.
 
-8.Gestionar cursos como profesor, incluyendo agregar y modificar materiales.
+8. Gestionar cursos como profesor, incluyendo agregar y modificar materiales.
 
 
-#### Escala de Severidad:
+### Escala de Severidad:
 
 Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 
@@ -2370,7 +2354,7 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 | 4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento |
 
 
-#### Tabla Resumen (Problemas):
+### Tabla Resumen (Problemas):
 
 | # | Problema | Escala de severidad | Herustica/Principio violada(o) |
 |----|-----------|--------------------|--------------------------------|
@@ -2381,62 +2365,79 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 | 5 | No hay motivo de la la seccion calendario | 3 | Estándares y Consistencia |
 
 
-#### Descripccion de problemas:
+### Descripccion de problemas:
 
-- PROBLEMA N°1: No hay opción de editar perfil
-- Severidad: 3
-- Heuristica violada: Flexibilidad y eficiencia de uso
-- Problema: El sistema no permite a los usuarios actualizar o modificar su información de perfil, lo cual limita la personalización y flexibilidad en el uso de la plataforma.
+**Problema N°1:** No hay opción de editar perfil
+
+**Severidad:** 3
+
+**Heuristica violada:** Flexibilidad y eficiencia de uso
+
+**Problema:** El sistema no permite a los usuarios actualizar o modificar su información de perfil, lo cual limita la personalización y flexibilidad en el uso de la plataforma.
 
 <img src="assets/euris-perfil.jpg" alt="PROBLEMA N°1" title="PROBLEMA N°1" style="width:100%;">
 
-- Recomendacion: Añadir una opción que permita a los usuarios editar sus datos de perfil fácilmente desde el menú de usuario o una sección específica de configuración.
+**Recomendacion:** Añadir una opción que permita a los usuarios editar sus datos de perfil fácilmente desde el menú de usuario o una sección específica de configuración.
 
 ---
  
-- Problema N°2: La gama de colores no es la adecuada
-- Severidad: 2
-- Heuristica violada: Usability: Usabilidad y control del usuario
-- Problema: La elección de colores no es óptima, lo cual puede dificultar la visualización de algunos elementos o la identificación del estado de ciertas acciones.
+**Problema N°2:** La gama de colores no es la adecuada
+
+**Severidad:** 2
+
+**Heuristica violada:** Usability: Usabilidad y control del usuario
+
+**Problema:** La elección de colores no es óptima, lo cual puede dificultar la visualización de algunos elementos o la identificación del estado de ciertas acciones.
 
 <img src="assets/euris-gama.jpg" alt="Problema N°2" title=" Problema N°2 " style="width:100%;">
 
-- Recomendacion: Revisar la paleta de colores y optar por combinaciones con suficiente contraste y adecuada visibilidad para todos los usuarios, considerando la accesibilidad.
+**Recomendacion:** Revisar la paleta de colores y optar por combinaciones con suficiente contraste y adecuada visibilidad para todos los usuarios, considerando la accesibilidad.
 
 ---
 
-- Problema N°3: Exceso de espacio
-- Severidad: 2
-- Heuristica violada: Usability:  Visibilidad del estado del sistema
-- Problema: La interfaz presenta demasiado espacio en algunas áreas, lo que puede llevar a un diseño desbalanceado y a una experiencia de usuario menos eficiente.
+**Problema N°3:** Exceso de espacio
+
+**Severidad:** 2
+
+**Heuristica violada:** Usability ->  Visibilidad del estado del sistema
+
+**Problema:** La interfaz presenta demasiado espacio en algunas áreas, lo que puede llevar a un diseño desbalanceado y a una experiencia de usuario menos eficiente.
 
 <img src="assets/euris-espa1.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
 <img src="assets/euris-espa2.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
 
-- Recomendacion: Optimizar el uso del espacio, reorganizando los elementos para reducir espacios vacíos y mejorar la estructura visual.<br>
+**Recomendacion:** Optimizar el uso del espacio, reorganizando los elementos para reducir espacios vacíos y mejorar la estructura visual.<br>
 
 ---
 
-- Problema N°4: No hay opción de eliminar tutoría
-- Severidad: 4
-- Heuristica violada: Control y libertad del usuario
-- Problema: Los usuarios no tienen la opción de eliminar tutorías, lo cual restringe su control sobre el contenido y puede llevar a frustraciones si desean deshacerse de información innecesaria.
+**Problema N°4:** No hay opción de eliminar tutoría
+
+**Severidad:** 4
+
+**Heuristica violada:** Control y libertad del usuario
+ 
+**Problema:** Los usuarios no tienen la opción de eliminar tutorías, lo cual restringe su control sobre el contenido y puede llevar a frustraciones si desean deshacerse de información innecesaria.
 
 <img src="assets/euris-tuto.jpg" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
-- Recomendación: Agregar una función que permita a los usuarios eliminar tutorías, ya sea desde la vista principal o en un menú de opciones específicas de cada tutoría.<br>
+
+**Recomendación:** Agregar una función que permita a los usuarios eliminar tutorías, ya sea desde la vista principal o en un menú de opciones específicas de cada tutoría.<br>
 
 ---
 
-- Problema N°5: No hay motivo de la sección calendario
-- Severidad: 3
-- Heuristica violada: Estándares y consistencia
-- Problema: La sección de calendario no tiene un propósito claro o su funcionalidad no se alinea con las expectativas de los usuarios, generando confusión.
+**Problema N°5:** No hay motivo de la sección calendario
+
+**Severidad:** 3
+ 
+**Heuristica violada:** Estándares y consistencia
+
+**Problema:** La sección de calendario no tiene un propósito claro o su funcionalidad no se alinea con las expectativas de los usuarios, generando confusión.
 
 <img src="assets/euris-calendar.jpg" alt="Problema N°5" title="Problema N°5 " style="width:100%;">
 
-- Recomendación: Aclarar el propósito de la sección de calendario o integrarla de manera que cumpla una función útil para el usuario, como la gestión de eventos o recordatorios, y asegurarse de que esté alineada con el resto de la aplicación.<br>
+**Recomendación:** Aclarar el propósito de la sección de calendario o integrarla de manera que cumpla una función útil para el usuario, como la gestión de eventos o recordatorios, y asegurarse de que esté alineada con el resto de la aplicación.
 
-#### 5.4 Video About-the-Product. <a name ="5.4.">
+
+## 5.4 Video About-the-Product. <a name ="5.4.">
 
 En el video "About the Product" se presentan las funcionalidades y características clave de nuestra aplicación, junto con el modelo de negocio que se utilizará para generar ingresos. También se incluye el testimonio de un usuario que valoró positivamente su experiencia al interactuar con nuestra plataforma.
 
@@ -2444,7 +2445,7 @@ En el video "About the Product" se presentan las funcionalidades y característi
 	 
 **Enlace** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EWeYomhBPgRHieEnRamCiFYB-EMW6AfbV0FpYadAIsmjZQ
 
-#### Video About-The-Team
+# Video About-The-Team
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESJ03OklkPJBhQT7ci1lYtEBV1rCK_CHz8kyQt-TG8owPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=T9L2EN 
 
@@ -2458,7 +2459,6 @@ En el video "About the Product" se presentan las funcionalidades y característi
 
 ## Conclusiones TB2
 * Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
-
 
 # Bibliografía
 
