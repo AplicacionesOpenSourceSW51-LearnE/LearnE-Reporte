@@ -72,12 +72,17 @@
 | 12.0 | 31/10/2024 | Grupo LearnE | Inicio del desarrollo del informe TB2 |
 
 
-
 # Project Report Collaboration Insights
 
 **Commits del Informe TB2:**
 
 <img src="assets/commits_report_tb2.png" alt="Commits TB2">
+
+**Commits del Informe TP:**
+
+<img src="assets/commitsTP1.png" alt="Commits TP">
+
+<img src="assets/commitsTP2.png" alt="Commits TP">
 
 **Commits del Informe TB1:**
 
@@ -2333,7 +2338,7 @@ Objetivo: Encontrar los problemas que existen dentro de nuestra aplicacion web d
 
 Método: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
-Tareas a evaluar:
+**Tareas a evaluar:**
 
 1.Iniciar sesión en la aplicación.
 
@@ -2352,12 +2357,9 @@ Tareas a evaluar:
 8.Gestionar cursos como profesor, incluyendo agregar y modificar materiales.
 
 
-
-
 #### Escala de Severidad:
 
 Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
-
 
 
 | Nivel | Nivel de descripcion |
@@ -2379,34 +2381,34 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 | 5 | No hay motivo de la la seccion calendario | 3 | Estándares y Consistencia |
 
 
-### Descripccion de problemas:
+#### Descripccion de problemas:
 
-- PROBLEMA N°1: No hay opción de editar perfil<br>
-- Severidad: 3<br>
-- Heuristica violada: Flexibilidad y eficiencia de uso<br>
-- Problema: El sistema no permite a los usuarios actualizar o modificar su información de perfil, lo cual limita la personalización y flexibilidad en el uso de la plataforma.<br>
+- PROBLEMA N°1: No hay opción de editar perfil
+- Severidad: 3
+- Heuristica violada: Flexibilidad y eficiencia de uso
+- Problema: El sistema no permite a los usuarios actualizar o modificar su información de perfil, lo cual limita la personalización y flexibilidad en el uso de la plataforma.
 
 <img src="assets/euris-perfil.jpg" alt="PROBLEMA N°1" title="PROBLEMA N°1" style="width:100%;">
 
-- Recomendacion: Añadir una opción que permita a los usuarios editar sus datos de perfil fácilmente desde el menú de usuario o una sección específica de configuración.<br>
+- Recomendacion: Añadir una opción que permita a los usuarios editar sus datos de perfil fácilmente desde el menú de usuario o una sección específica de configuración.
 
 ---
  
-- Problema N°2: La gama de colores no es la adecuada<br>
-- Severidad: 2<br>
-- Heuristica violada: Usability: Usabilidad y control del usuario<br>
-- Problema: La elección de colores no es óptima, lo cual puede dificultar la visualización de algunos elementos o la identificación del estado de ciertas acciones.<br>
+- Problema N°2: La gama de colores no es la adecuada
+- Severidad: 2
+- Heuristica violada: Usability: Usabilidad y control del usuario
+- Problema: La elección de colores no es óptima, lo cual puede dificultar la visualización de algunos elementos o la identificación del estado de ciertas acciones.
 
 <img src="assets/euris-gama.jpg" alt="Problema N°2" title=" Problema N°2 " style="width:100%;">
 
-- Recomendacion: Revisar la paleta de colores y optar por combinaciones con suficiente contraste y adecuada visibilidad para todos los usuarios, considerando la accesibilidad.<br>
+- Recomendacion: Revisar la paleta de colores y optar por combinaciones con suficiente contraste y adecuada visibilidad para todos los usuarios, considerando la accesibilidad.
 
 ---
 
-- Problema N°3: Exceso de espacio<br>
-- Severidad: 2<br>
-- Heuristica violada: Usability:  Visibilidad del estado del sistema<br>
-- Problema: La interfaz presenta demasiado espacio en algunas áreas, lo que puede llevar a un diseño desbalanceado y a una experiencia de usuario menos eficiente.<br>
+- Problema N°3: Exceso de espacio
+- Severidad: 2
+- Heuristica violada: Usability:  Visibilidad del estado del sistema
+- Problema: La interfaz presenta demasiado espacio en algunas áreas, lo que puede llevar a un diseño desbalanceado y a una experiencia de usuario menos eficiente.
 
 <img src="assets/euris-espa1.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
 <img src="assets/euris-espa2.jpg" alt="Problema N°3" title="Problema N°3 " style="width:100%;">
@@ -2415,25 +2417,24 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 
 ---
 
-- Problema N°4: No hay opción de eliminar tutoría<br>
-- Severidad: 4<br>
-- Heuristica violada: Control y libertad del usuario<br><br>
-- Problema: Los usuarios no tienen la opción de eliminar tutorías, lo cual restringe su control sobre el contenido y puede llevar a frustraciones si desean deshacerse de información innecesaria.<br>
+- Problema N°4: No hay opción de eliminar tutoría
+- Severidad: 4
+- Heuristica violada: Control y libertad del usuario
+- Problema: Los usuarios no tienen la opción de eliminar tutorías, lo cual restringe su control sobre el contenido y puede llevar a frustraciones si desean deshacerse de información innecesaria.
 
 <img src="assets/euris-tuto.jpg" alt="developmentEvidence1" title="Development Evidence 1" style="width:100%;">
 - Recomendación: Agregar una función que permita a los usuarios eliminar tutorías, ya sea desde la vista principal o en un menú de opciones específicas de cada tutoría.<br>
 
 ---
 
-- Problema N°5: No hay motivo de la sección calendario<br>
-- Severidad: 3<br>
-- Heuristica violada: Estándares y consistencia<br>
-- Problema: La sección de calendario no tiene un propósito claro o su funcionalidad no se alinea con las expectativas de los usuarios, generando confusión.<br>
+- Problema N°5: No hay motivo de la sección calendario
+- Severidad: 3
+- Heuristica violada: Estándares y consistencia
+- Problema: La sección de calendario no tiene un propósito claro o su funcionalidad no se alinea con las expectativas de los usuarios, generando confusión.
 
 <img src="assets/euris-calendar.jpg" alt="Problema N°5" title="Problema N°5 " style="width:100%;">
 
 - Recomendación: Aclarar el propósito de la sección de calendario o integrarla de manera que cumpla una función útil para el usuario, como la gestión de eventos o recordatorios, y asegurarse de que esté alineada con el resto de la aplicación.<br>
-
 
 #### 5.4 Video About-the-Product. <a name ="5.4.">
 
@@ -2503,6 +2504,9 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Video Exposición TP:** 
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/Efr8Y3OvDORLjtBZOIb3T6MBxI6N316iK5tc2c09n7V80w?e=1ySrhW 
+
+**Video Exposición TB2:** 
+* Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESTLCv1K7CRIg-W0J5sO-oYBmcCs3VOMQTtLnBr7JF-lWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lpZbpX 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
