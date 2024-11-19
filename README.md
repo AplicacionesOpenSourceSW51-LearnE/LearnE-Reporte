@@ -70,6 +70,14 @@
 | 9.0 | 31/10/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
 | 10.0 | 31/10/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 3 |
 | 12.0 | 31/10/2024 | Grupo LearnE | Inicio del desarrollo del informe TB2 |
+| 6.0 | 17/11/2024 | Grupo LearnE | Inicio del Sprint 4|
+| 6.0 | 18/11/2024 | Grupo LearnE | Se desarrolla el Sprint Planning 4, SprintBacklog 4 |
+| 7.0 | 19/11/2024 | Grupo LearnE | Se agrega el Development Evidence for Sprint Review |
+| 8.0 | 19/11/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence y Services Documentation |
+| 9.0 | 20/11/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
+| 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 3 |
+| 12.0 | 21/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
+
 
 
 # Project Report Collaboration Insights
@@ -89,6 +97,9 @@
 <img src="assets/commitsTB1_1.png" alt="Commits TB1">
 
 <img src="assets/commitsTB1_2.png" alt="Commits TB1">
+
+**Commits del Informe TF1:**
+
 
 
 # Student Outcome
@@ -196,6 +207,15 @@
          5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
          5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
          5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+      5.2.4. [Sprint 4](#5.2.4.)<br>
+         5.2.4.1. [Sprint Planning 3](#5.2.4.1.)<br>
+         5.2.4.2. [Sprint Backlog 3](#5.2.4.2.)<br>
+         5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+         5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+         5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+         5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+         5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+         5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br> 
     5.3. [Validation Interviews](#5.3.)<br>
        5.3.1. [Diseño de Entrevistas](#5.3.1.)<br>
        5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
@@ -2187,6 +2207,163 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Anthony Martin Huapaya Cuevas | Correción frontend |
 | Pedro Andre Guia Carrasco | Desarrollo del backend |
 | Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
+
+--------------------------------------------------------------
+### 5.2.4. Sprint 4 <a name ="5.2.4.">
+
+#### 5.2.4.1. Sprint Planning 4. <a name ="5.2.4.1.">
+
+| Sprint # | Sprint 4 |
+|----------|----------|
+| Sprint Planning Background |
+| Date | 27/10/2024  |
+| Time | 18:00 |
+| Location | Videoconferencia por Discord |
+| Prepared By | Jorge Orrego |
+| Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
+| Sprint Goal & User Stories |
+| Sprint 3 Goal | Desarrollar y desplegar la nueva versión del Frontend junto a la primera versión del Backend |
+| Sprint 3 Velociy | 46 |
+| Sum of Story Point | 46 |
+
+
+
+#### 5.2.4.2. Sprint Backlog 4. <a name ="5.2.4.2.">
+
+En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4:
+
+
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
+| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco | Done |
+| HU12 | Cambio de planes de suscripción | TK02 | Cambio una vista para ver los planes de suscripción | Cambia el limiete de cursos por llevar y cambia de subicripcion free a paga y viceversa | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
+| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia | Done |
+| HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia | Done |
+| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda responder un examen de algún curso. | 6 | Elizabeth Huanaco | Done |
+| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma, siempre y cuando esté registrado en la base de datos. | 6 | Jorge Orrego | Done |
+| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego | Done |
+| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video | 8 | Anthony Huapaya | In-Process |
+| HU06 | Acceso a tutorías en línea  | TK05 | Muestra de horarios | Se muestra los horarios en el cual el alumno pueda escoger el que mas le conviene y ademas muesrta cuales ya estan reservados | 8 | Anthony Huapaya | Done |
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review. <a name ="5.2.4.3.">
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
+| LearnE-Frontend | main | 2fe2cc51fc7007e1d440a1959731f4cfa02fed19 | Initial commit | Initial commit | 17/08/2024 |
+| LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+| LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
+| LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
+| LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
+| LearnE-Backend | develop | 2a5e37d4ebea6e162be6de845db9d508e6418a96 | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
+| LearnE-Backend | develop | 2b85d2a020670fef3489e0c41e257064b11db8a4 | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
+| LearnE-Backend | develop | 5bae6a3de7f04de240a05c29103419a63dc71826 |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | 0997450650fd75759231db93e3751bb395813a37 | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
+| LearnE-Backend | develop | 332125ad201f46324dbf70d263f3015394c25c25 | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
+| LearnE-Backend | develop | ad2064192aa60b855940cacf267feaf57fe6fa53 | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | b383a9d91ff37801933b5d05e1640fb56e34e67a | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
+
+
+**Commits vistos desde GitHub:**
+
+
+
+
+
+**Repositorio de GitHub**
+
+### Frontend:
+<img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
+
+
+### Backend
+<img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.4.4.">
+
+En esta seccion  se muestra la evidencia de los test realizados en la sprint.
+
+<img src="assets/testing.png">
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Initial commit |  Initial commit                   |    06/09/2024 | 
+|  LearnE-Product-Testing | main | c9d0663eba6510a0bfb3e2cc0dd2972e65974e0a | feat(testing): added HU05 acceptance tests file|  feat(testing): added HU05 acceptance tests file |    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4a7e4a5840b391d6b1ca2ba9c26298482109505a | feat(testing): added feature's scenarios |  feat(testing): added feature's scenarios|    06/09/2024 | 
+|  LearnE-Product-Testing | main | 4288e500ee61b2c1e84ad46934d59633ecc28b51 | feat(testing): added HU21 feature set |  feat(testing): added HU21 feature set |    06/09/2024 | 
+
+**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review. <a name ="5.2.4.5.">
+
+**Desarrollo del Backend por medio del IDE IntelliJ IDEA:**
+
+<img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
+
+
+**Visualización de endpoints de la API por medio de Swagger:**
+
+<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+
+**Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
+
+**Enlace del video(Frontend)**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
+
+Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
+
+<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review <a name ="5.2.4.7.">
+
+Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y nuestra base de datos MySQL dado que esta plataforma se encarga de generar un ambiente de ejecución y de desplegue automáticamente, sin nosotros tener que realizar tantas configuraciones. 
+
+**Enlace de referencia:** https://zeabur.com/ 
+
+**Despliegue de los web services (backend)**
+
+<img src="assets/deployment_zeabur1.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/deployment_zeabur2.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+
+**Despliegue de la base de datos MySQL**
+
+<img src="assets/deployment_zeabur3.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/deployment_zeabur4.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+**Consumir la API desplegada por medio de Swagger**
+
+<img src="assets/deployment_zeabur5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+
+**Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint. <a name ="5.2.4.8.">
+
+| Alumno | Actividad |
+|--------|-----------|
+| Fabrisio Andre Belahonia Miranda | Corrección de calendario, Descripción con API, documentación  |
+| Elizabeth Lucero Huanaco Huayta | Correción frontend  |
+| Anthony Martin Huapaya Cuevas | Correción frontend |
+| Pedro Andre Guia Carrasco | Desarrollo del backend |
+| Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
+
+
+
+
 
 
 ## 5.3. Validation Interviews. <a name ="5.3.">
