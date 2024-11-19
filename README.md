@@ -2216,22 +2216,22 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Sprint # | Sprint 4 |
 |----------|----------|
 | Sprint Planning Background |
-| Date | 27/10/2024  |
-| Time | 18:00 |
+| Date | 15/11/2024  |
+| Time | 22:00 |
 | Location | Videoconferencia por Discord |
 | Prepared By | Jorge Orrego |
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
-| Sprint 3 Goal | Desarrollar y desplegar la nueva versión del Frontend junto a la primera versión del Backend |
-| Sprint 3 Velociy | 46 |
-| Sum of Story Point | 46 |
+| Sprint 3 Goal | Completar el desarrollo final del Backend |
+| Sprint 3 Velociy | 50 |
+| Sum of Story Point | 50 |
 
 
 
 #### 5.2.4.2. Sprint Backlog 4. <a name ="5.2.4.2.">
 
 En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4:
-
+**modificar mñn**
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
@@ -2267,7 +2267,7 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 **Commits vistos desde GitHub:**
 
-
+**agregar comits**
 
 
 
@@ -2285,7 +2285,6 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 En esta seccion  se muestra la evidencia de los test realizados en la sprint.
 
-<img src="assets/testing.png">
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -2316,6 +2315,11 @@ En esta seccion  se muestra la evidencia de los test realizados en la sprint.
 
 **Enlace del video(Frontend)**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
 
+
+**enlace de video backend**
+**mas img del back**
+
+
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
 
 Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
@@ -2324,6 +2328,7 @@ Se documentaron la funcionalidad de los endpoints desarrollados en la API con Sw
 
 <img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
+**agrgar IMG**
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review <a name ="5.2.4.7.">
 
@@ -2348,6 +2353,8 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 <img src="assets/deployment_zeabur5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
+**agregar**
+
 
 **Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
 
@@ -2355,11 +2362,11 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | Corrección de calendario, Descripción con API, documentación  |
-| Elizabeth Lucero Huanaco Huayta | Correción frontend  |
-| Anthony Martin Huapaya Cuevas | Correción frontend |
-| Pedro Andre Guia Carrasco | Desarrollo del backend |
-| Jorge David Orrego Noriega | Desarrollo y despliegue del backend, edición del informe |
+| Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT  |
+| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint |
+| Pedro Andre Guia Carrasco |  Desarrollo de 2 Endpoint y auntenticación |
+| Jorge David Orrego Noriega |  Desarrollo de 4 Endpoint |
 
 
 
