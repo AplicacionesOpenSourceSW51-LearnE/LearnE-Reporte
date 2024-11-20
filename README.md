@@ -208,8 +208,8 @@
          5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
          5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
       5.2.4. [Sprint 4](#5.2.4.)<br>
-         5.2.4.1. [Sprint Planning 3](#5.2.4.1.)<br>
-         5.2.4.2. [Sprint Backlog 3](#5.2.4.2.)<br>
+         5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+         5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
          5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
          5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
          5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
@@ -2132,8 +2132,6 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 En esta seccion  se muestra la evidencia de los test realizados en la sprint.
 
-<img src="assets/testing.png">
-
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -2258,10 +2256,6 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
 | LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
 | LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
-| LearnE-Backend | develop |  | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
-| LearnE-Backend | develop |  | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
-| LearnE-Backend | develop |  |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
-| LearnE-Backend | develop |  | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
 | LearnE-Backend | develop |  | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
 | LearnE-Backend | develop |  | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
 | LearnE-Backend | develop | 69a3d9c992b100a0c8a6508ced204266a54c09f1 |Question endpoint with GET, GET by id and POST CRUD v1 | Question endpoint with GET, GET by id and POST CRUD v1t | 15/11/2024 | 
@@ -2303,19 +2297,31 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.4.4.">
 
-En esta seccion  se muestra la evidencia de los test realizados en la sprint.
+Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias de usuario abordadas en este sprint(todos los User Storie 1 al 17). 
 
+**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
+
+<img src="assets/testing1.jpg" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
+<img src="assets/commit-testing1.jpg" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Initial commit |  Initial commit                   |    06/09/2024 | 
-|  LearnE-Product-Testing | main | c9d0663eba6510a0bfb3e2cc0dd2972e65974e0a | feat(testing): added HU05 acceptance tests file|  feat(testing): added HU05 acceptance tests file |    06/09/2024 | 
-|  LearnE-Product-Testing | main | 4a7e4a5840b391d6b1ca2ba9c26298482109505a | feat(testing): added feature's scenarios |  feat(testing): added feature's scenarios|    06/09/2024 | 
-|  LearnE-Product-Testing | main | 4288e500ee61b2c1e84ad46934d59633ecc28b51 | feat(testing): added HU21 feature set |  feat(testing): added HU21 feature set |    06/09/2024 | 
-
-**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
-
+|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Create HU01.feature |  Create HU01.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 1644c53ca1c7b5e2c6e45dab1b8fcfe22582d9c7 | Create HU03.feature |  Create HU03.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 10108e582af9a3e6921e71a0f599ab84f88fe587 | Create HU04.feature |  Create HU04.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 106e2c8f9effb4b63ce5da6580138b3deb5a5b15 | Create HU06.feature |  Create HU06.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | a9e0a53c98e7064e04db68e5b2a7abf6da30473c | Create HU07.feature |  Create HU07.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | f9cbf1a788a678257ded610ff7cc8d7d866b542a | Create HU08.feature |  Create HU08.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 9ec5d2b5cd7fc7311616d0a4702ccb7592243e03 | Create HU09.feature |  Create HU09.feature |    02/11/2024 |
+|  LearnE-Product-Testing | main | 56baf3792c45c11cd2e0e13b81deadf058710573 | Create HU10.feature |  Create HU10.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 8295e21376fef2c9d4e214c9d92e11463b4d7ef0 | Create HU11.feature |  Create HU11.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 989b46f109c76a3d1b1dfe640114d0dcf0b48ad2 | Create HU12.feature |  Create HU12.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | e6842b2848d211830a5d25680739cf240a8ea83e | Create HU13.feature |  Create HU13.feature |    02/11/2024 |
+|  LearnE-Product-Testing | main | b4cb57f3523f9ed39ef9fd4221080c4f3a56341d | Create HU14.feature |  Create HU14.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 5839622c270a5f678b29718d0357b1150b6a8a1e | Create HU15.feature |  Create HU15.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 4df553f29d665d024d425238c24782182828b331 | Create HU16.feature |  Create HU16.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 8ad40291d8859f1599169f6d3e3588a033db5a3e | Create HU17.feature |  Create HU17.feature |    02/11/2024 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review. <a name ="5.2.4.5.">
 
