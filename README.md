@@ -38,7 +38,7 @@
             <td>U202220235</td>
         </tr>
         <tr>
-            <td>Fabrisio Belahonia Miranda</td>
+            <td>Belahonia Miranda, Fabrisio </td>
             <td>U202220219</td>
         </tr>
     </table>
@@ -75,9 +75,8 @@
 | 7.0 | 19/11/2024 | Grupo LearnE | Se agrega el Development Evidence for Sprint Review |
 | 8.0 | 19/11/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence y Services Documentation |
 | 9.0 | 20/11/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
-| 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 3 |
-| 12.0 | 21/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
-
+| 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 4 |
+| 12.0 | 20/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
 
 
 # Project Report Collaboration Insights
@@ -108,8 +107,8 @@
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br>TP: <br> He comunicado de forma clara los avances del proyecto a diferentes personas, Presenté nuestras ideas y el progreso en reuniones con el equipo y en la exposición, asegurándome de que todos entendieran el estado y los objetivos del proyecto. También me comuniqué tanto en tiempo real como en mensajes para mantener a todos alineados y facilitar la colaboración en el desarrollo del front-end. <br> TB2: <br> He trabajado en sesiones en tiempo real para culminar el desarrollo del front-end y asegurar que no existan deficiencias en la implementación del backend. También participé en la creación de los videos de presentación del equipo y del producto, con una comunicación clara y atractiva sobre nuestro trabajo. <br><br> Jorge Orrego: <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> TP: <br> He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br> <br> TB2: <br> He colaborado de manera tanto síncrona como asíncrona para el desarrollo del backend, además de realizar parte de los videos de About-The-Team y About-The-Product. <br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br> TB2: <br>En este entregable desarrolle el backend de Learne, basado en el lenguaje Java. El endpoint implemento fue Learn, que lleva los cursos en esta aplicación. De igual manera se desplego el backend en Swagger. <br><br> Anthony Huapaya: <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas.<br>TP:<br>Me mantuve en comunicación constante con el grupo para verificar los avances que se iban realizando en el front-end de nuestro proyecto, me comunicaba mediante mensajes constantes para la verificación del avance del proyecto. <br>TB2:<br>He trabajado en sesiones en tiempo real para terminar el desarrollo del front-end, ya que tenía que asegurar que no tuviera complicaciones en la implementación del backend.<br> TF: <br> Para esta parte del trabajo tuvimos que comunicarnos y tener una reunión para dividir quiénes realizaban cada endpoint con respecto al backend, para luego conectarlo con el frontend, donde yo realicé las endpoints con respecto a las tutorías de la aplicación.<br><br>Fabrisio Belahonia : <br> TB1: <br> La comunicación efectiva con el equipo fue fundamental para alcanzar los objetivos y asegurar una excelente coordinación. Esto resultó especialmente crucial en la elaboración de los User Personas, User Task Matrix y User Journey Mapping, ya que su éxito dependía directamente de las entrevistas realizadas por otros miembros del equipo. Además, el análisis de competidores jugó un papel clave para identificar oportunidades y amenazas en el mercado. A partir de este análisis, desarrollamos una estrategia sólida que nos permitió diferenciarnos de la competencia, mejorando nuestra propuesta de valor y alineando nuestras tácticas con las necesidades de los usuarios.<br> TP:<br>He trabajado tanto de forma síncrona como asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, compartí mis avances e hice uso de github.<br> TB2:<br>He trabajado en la correción del frontend, redación de la documentacion, entrevistas, evaluaciones de heuristica. Ademas, de una continua comunicacion con el grupo por cada sprint <br> |  TB1: <br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio de la exposición <br><br> TP: <br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación por medio de las exposiciones. <br><br> TB2: <br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación tanto por medio de la exposición grabada como por los videos de About-The-Team y About-The-Product. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Elizabeth Huanaco: <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br> TP: <br> Escribí las secciones del informe relacionadas con la implementación del frontend de nuestra aplicación, que incluyen la documentación de la interfaz de usuario y además, me comuniqué constantemente por escrito con los integrantes de mi grupo para asegurar el desarrollo del front-end. <br> TB2: <br> Me comuniqué continuamente con los integrantes de mi grupo para coordinar los avances y la finalización del front-end de nuestro proyecto, y asegurar que todos estemos alineados con respecto a la etapa del desarrollo del back-end.<br><br> Jorge Orrego: <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web. <br> TP: <br> Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br> TB2: <br> Redacté parte de la documentación del backend acerca de cómo consumir los endpoints de la API, además de completar el informe en las partes de Service Documentation, Software Deployment y Execution Evidence del Sprint 3. <br><br> Pedro Guia <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br> TB2: <br> Para esta entrega, comunique que desarrollaría el backend de la aplicación mediante una base de datos MySQL. <br><br>Anthony Huapaya: <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br>TP:<br>Para lograr cumplir con los objetivos marcados para esta entrega, me comunicaba constantemente por escrito a mi grupo para que sepan el avance que realicé y de ellos también. Gracias a ello, lograbamos realizar el correcto avance del front-end del proyecto que realizamos.<br>TB2:<br>Me comunicaba de manera constante con el grupo para coordinar el avance del proyecto, asegurando que todos tengamos la misma idea sobre lo que debemos llevar a cabo y no hubiera mal entendidos, además de la finalización del front-end para el correcto desarrollo del back-end.<br>TF:<br>Durante el desarrollo de este trabajo me comunicaba con respecto a mi avance que tenía que realizar, además de la coordinación de las horas de entrega del trabajo.<br><br>Fabrisio Belahonia : <br> TB1: <br> La elaboración del análisis de competidores, junto con las estrategias diseñadas frente a ellos y el análisis detallado de las entrevistas, ha permitido documentar de manera exhaustiva el desarrollo de la competencia, identificar sus puntos débiles y definir cómo podemos destacar sobre ellos. Además, la redacción de las entrevistas nos proporciona una visión clara sobre las necesidades y expectativas de nuestro segmento objetivo, lo que nos permite ajustar nuestras estrategias para ofrecer una propuesta más alineada y diferenciada.<br><br> TP:<br> Realicé mis pantallas y el desarrolo del frontend que me tocaba con respecto al sprint 2, inplentancdo servicions, entidades, etc.<br> TB2:<br> Realicé las correcciones de mis pantallas anteriores del frontend, entrevistas, sprint backlog, diseño de entrevistas,pruebas de heuristica, etc. <br>  | TB1: <br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio del informe <br><br> TP: <br> Se pudo documentar tanto la funcionalidad como el despliegue de nuestra aplicación web en el informe. <br><br> TB2: <br> Se pudo documentar tanto la funcionalidad del frontend como la de los web services en el informe y en Swagger en el caso de los web services. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Elizabeth Huanaco:** <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha facilitado una comprensión más profunda de las necesidades de los usuarios a través de una previa coordinación con el equipo y entrevistas. Los Web Applications Wireframes y Wireflow Diagrams han sido clave para presentar la funcionalidad de las aplicaciones, coordinadas con el equipo, de manera clara. En resumen, el proceso de coordinación, las reuniones realizadas y las entrevistas a los usuarios han sido fundamentales para alinear nuestros esfuerzos y asegurar que todas estas actividades se integren eficazmente. <br>TP: <br> He comunicado de forma clara los avances del proyecto a diferentes personas, Presenté nuestras ideas y el progreso en reuniones con el equipo y en la exposición, asegurándome de que todos entendieran el estado y los objetivos del proyecto. También me comuniqué tanto en tiempo real como en mensajes para mantener a todos alineados y facilitar la colaboración en el desarrollo del front-end. <br> TB2: <br> He trabajado en sesiones en tiempo real para culminar el desarrollo del front-end y asegurar que no existan deficiencias en la implementación del backend. También participé en la creación de los videos de presentación del equipo y del producto, con una comunicación clara y atractiva sobre nuestro trabajo. <br> TF: <br> Para esta entrega final, se organizó una reunión en una plataforma virtual para designarnos las tareas de este sprint. La comunicación fue esencial durante este proceso para integrar exitosamente el frontend con el backend. Es por este motivo que todos los integrantes nos comunicamos constantemente los días posteriores para mantenernos alineados con progreso del trabajo.<br> <br><br> **Jorge Orrego:** <br> TB1: <br> He investigado acerca de la problemática que queremos resolver y en base a eso pude armar los antecedentes. Además, coordiné con mi equipo para elaborar en conjunto las user stories para que todos puedan entender de qué va el proyecto y así puedan aportar ideas acordes a lo que queremos desarrollar. <br> TP: <br> He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br> <br> TB2: <br> He colaborado de manera tanto síncrona como asíncrona para el desarrollo del backend, además de realizar parte de los videos de About-The-Team y About-The-Product. <br><br> TF: <br> He colaborado de manera tanto síncrona como asíncrona para el desarrollo del backend, además de coordinar en equipo para ver la manera de conectar el backend con el frontend. <br><br> **Pedro Guia:** <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>He colaborado de manera síncrona y asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, expuse sobre mis avances y participación en el trabajo.<br> TB2: <br>En este entregable desarrolle el backend de Learne, basado en el lenguaje Java. El endpoint implemento fue Learn, que lleva los cursos en esta aplicación. De igual manera se desplego el backend en Swagger. <br> TF: <br> He colaborado de manera asincronica el desarrllo del backedn con mis respectivos features para nuevas endpoints. Tuve mas tiempo en organizarme durante el trabajo para terminar a tiempo las actividades que me conrrespondian. <br> **Anthony Huapaya:** <br> TB1: <br>La realización del Lean UX Canvas, el cual ayudo en poder sintetizar toda la información de los demás Lean UX Statements en un solo cuadro. Además, con la elaboración de los Empathy Mapping, As-Is Scenario, To-Be Scenario e Impact Mapping ayudando en comprender de mejor manera lo que nosotros buscamos ayudar al problema que nos hemos planteado. Los Web Applications Wireframes y Wireflow Diagrams han ayudado en identificar las funcionalidades que presentará nuestra aplicación, lo cual se efectuará gracias al trabajo de equipo y las correctas coordinaciones de ellas.<br>TP:<br>Me mantuve en comunicación constante con el grupo para verificar los avances que se iban realizando en el front-end de nuestro proyecto, me comunicaba mediante mensajes constantes para la verificación del avance del proyecto. <br>TB2:<br>He trabajado en sesiones en tiempo real para terminar el desarrollo del front-end, ya que tenía que asegurar que no tuviera complicaciones en la implementación del backend.<br><br> **Fabrisio Belahonia :** <br> TB1: <br> La comunicación efectiva con el equipo fue fundamental para alcanzar los objetivos y asegurar una excelente coordinación. Esto resultó especialmente crucial en la elaboración de los User Personas, User Task Matrix y User Journey Mapping, ya que su éxito dependía directamente de las entrevistas realizadas por otros miembros del equipo. Además, el análisis de competidores jugó un papel clave para identificar oportunidades y amenazas en el mercado. A partir de este análisis, desarrollamos una estrategia sólida que nos permitió diferenciarnos de la competencia, mejorando nuestra propuesta de valor y alineando nuestras tácticas con las necesidades de los usuarios.<br> TP:<br>He trabajado tanto de forma síncrona como asíncrona con mis compañeros de equipo en el desarrollo del frontend de nuestra aplicación web. Además, compartí mis avances e hice uso de github.<br> TB2:<br>He trabajado en la correción del frontend, redación de la documentacion, entrevistas, evaluaciones de heuristica. Ademas, de una continua comunicacion con el grupo por cada sprint <br> TF::<br>He colaborado de manera asincronica el desarrollo del backend con mis respectivos features para nuevas endpoints. Implementé el Landing Page en Angular. además de coordinar en equipo para ver la manera de conectar el backend con la base de datos. |  **TB1:** <br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio de la exposición <br><br> **TP:** <br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación por medio de las exposiciones. <br><br> **TB2:** <br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación tanto por medio de la exposición grabada como por los videos de About-The-Team y About-The-Product. <br><br> **TF:** <br> Se pudo comunicar efectivamente el proceso de desarrollo de nuestra aplicación tanto por medio de la exposición grabada asíncronamente como en la exposición presencial. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.| **Elizabeth Huanaco:** <br> TB1: <br>La elaboración de User Personas, User Task Matrix y User Journey Mapping ha permitido documentar de manera detallada las necesidades y experiencias de los usuarios, lo que se refleja este informe. Asimismo, la preparación de Class Diagrams y Class Dictionary ha permitido que los detalles del sistema sean presentados de manera comprensible y accesible en este informe escrito. <br> TP: <br> Escribí las secciones del informe relacionadas con la implementación del frontend de nuestra aplicación, que incluyen la documentación de la interfaz de usuario y además, me comuniqué constantemente por escrito con los integrantes de mi grupo para asegurar el desarrollo del front-end. <br> TB2: <br> Me comuniqué continuamente con los integrantes de mi grupo para coordinar los avances y la finalización del front-end de nuestro proyecto, y asegurar que todos estemos alineados con respecto a la etapa del desarrollo del back-end. <br>TF:<br>Durante el desarrollo de este último sprint me comuniqué constantemente a través de los canales de mensajería para mantenernos alineados con el avance del desarrollo del los endpoints ya que era una de las personas encargadas de la integración del frontend y el backend. Es por eso que la coordinación fue imprescindible durante este estapa del trabajo.<br><br><br> **Jorge Orrego:** <br> TB1: <br> Redacté el contenido de la sección Software Configuration Management para dar a conocer cómo vamos a desarrollar el proyecto desde un enfoque más técnico. También ayudé con la creación de los Mockups de nuestra aplicación web. <br> TP: <br> Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br> TB2: <br> Redacté parte de la documentación del backend acerca de cómo consumir los endpoints de la API, además de completar el informe en las partes de Service Documentation, Software Deployment y Execution Evidence del Sprint 3. .<br> <br> TF: <br> Redacté parte de la documentación de los endpoints del backend (payments, user, authentication) y partes del informe relacionadas al último sprint. <br><br> **Pedro Guia:** <br> TB1: <br>La elaboración del Domain-Driven Software Architecture simplifico los detalles del proyecto, gracias al contexto, contenedor y componente que desarrollaremos. No obstante, al realizar el DDS tenemos la base de datos entidad-relación que permite los detalles del sistema sean entendibles.<br> TP: <br>Redacté secciones del informe relacionadas a las evidencias de despliegue de nuestra aplicación y sobre la documentación de los servicios. <br> TB2: <br> Para esta entrega, comunique que desarrollaría el backend de la aplicación mediante una base de datos MySQL. <br><br> **Anthony Huapaya:** <br> TB1: <br>La elaboración de los mapas Empathy, As-Is Scenario, To-Be Scenario e Impact han permitido que la documentación acerca del problema a resolver sea de manera más eficaz y sintetizada para la fácil compresión, donde se muestra ello en el informe. Además, la realización de la Class Diagram permitió ver los detalles que tiene el sistema con una facilidad de compresión para el informe.<br>TP:<br>Para lograr cumplir con los objetivos marcados para esta entrega, me comunicaba constantemente por escrito a mi grupo para que sepan el avance que realicé y de ellos también. Gracias a ello, lograbamos realizar el correcto avance del front-end del proyecto que realizamos.<br>TB2:<br>Me comunicaba de manera constante con el grupo para coordinar el avance del proyecto, asegurando que todos tengamos la misma idea sobre lo que debemos llevar a cabo y no hubiera mal entendidos, además de la finalización del front-end para el correcto desarrollo del back-end.<br><br> **Fabrisio Belahonia:** <br> TB1: <br> La elaboración del análisis de competidores, junto con las estrategias diseñadas frente a ellos y el análisis detallado de las entrevistas, ha permitido documentar de manera exhaustiva el desarrollo de la competencia, identificar sus puntos débiles y definir cómo podemos destacar sobre ellos. Además, la redacción de las entrevistas nos proporciona una visión clara sobre las necesidades y expectativas de nuestro segmento objetivo, lo que nos permite ajustar nuestras estrategias para ofrecer una propuesta más alineada y diferenciada.<br><br> TP:<br> Realicé mis pantallas y el desarrolo del frontend que me tocaba con respecto al sprint 2, inplentancdo servicions, entidades, etc.<br> TB2:<br> Realicé las correcciones de mis pantallas anteriores del frontend, entrevistas, sprint backlog, diseño de entrevistas,pruebas de heuristica, etc. <br> TF:<br> Redacté parte de la documentación de los endpoints del backend (notes, materials) y partes del informe relacionadas al último sprint como el sprint 4.  | **TB1:** <br> Se pudo comunicar efectivamente el propósito de nuestro trabajo por medio del informe <br><br> **TP:** <br> Se pudo documentar tanto la funcionalidad como el despliegue de nuestra aplicación web en el informe. <br><br> **TB2:** <br> Se pudo documentar tanto la funcionalidad del frontend como la de los web services en el informe y en Swagger en el caso de los web services. <br><br> **TF:** <br> Se pudo documentar las funcionalidades tanto de la última versión del frontend como del backend en el informe y dentro de los proyectos respectivos.  |
 
 # Contenido
 
@@ -208,8 +207,8 @@
          5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
          5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
       5.2.4. [Sprint 4](#5.2.4.)<br>
-         5.2.4.1. [Sprint Planning 3](#5.2.4.1.)<br>
-         5.2.4.2. [Sprint Backlog 3](#5.2.4.2.)<br>
+         5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+         5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
          5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
          5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
          5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
@@ -2120,19 +2119,17 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 **Repositorio de GitHub**
 
-### Frontend:
+#### Frontend:
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
-### Backend
+#### Backend
 <img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.3.4.">
 
 En esta seccion  se muestra la evidencia de los test realizados en la sprint.
-
-<img src="assets/testing.png">
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -2222,8 +2219,8 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Prepared By | Jorge Orrego |
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
-| Sprint 3 Goal | Completar el desarrollo final del Backend |
-| Sprint 3 Velociy | 50 |
+| Sprint 4 Goal | Terminar de desarrollar el backend e implementarlo junto al frontend. Terminar de corregir pequeños detalles del frontend. Desplegar últimas versiones del frontend y backend. Desplegar nueva versión de la landing page. |
+| Sprint 4 Velociy | 50 |
 | Sum of Story Point | 50 |
 
 
@@ -2231,20 +2228,20 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 #### 5.2.4.2. Sprint Backlog 4. <a name ="5.2.4.2.">
 
 En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4:
-**modificar mñn**
+
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
-| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco | Done |
-| HU12 | Cambio de planes de suscripción | TK02 | Cambio una vista para ver los planes de suscripción | Cambia el limiete de cursos por llevar y cambia de subicripcion free a paga y viceversa | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
-| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia | Done |
-| HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia | Done |
-| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda responder un examen de algún curso. | 6 | Elizabeth Huanaco | Done |
-| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma, siempre y cuando esté registrado en la base de datos. | 6 | Jorge Orrego | Done |
-| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
-| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego | Done |
-| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video | 8 | Anthony Huapaya | In-Process |
-| HU06 | Acceso a tutorías en línea  | TK05 | Muestra de horarios | Se muestra los horarios en el cual el alumno pueda escoger el que mas le conviene y ademas muesrta cuales ya estan reservados | 8 | Anthony Huapaya | Done |
+| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). Se implementa en el Backend | 14 | Elizabeth Huanaco | Done |
+| HU12 | Planes de suscripción | TK02 | Registro de los planes de suscripción | valida que tipo de plan tienes para asiganr el tipo de usuario. Se implementa en el backend | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
+| HU14 | Exámenes | TK08 | Muestra y crea examenes, preguntas y respuestas | Se muestra los examenes, preguntas y respuestas  ,y permite crear un examen, preguntas y respuestas. Se implementa en el backend | 6 | Elizabeth Huanaco | Done |
+| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Muestra y crear nuevo usuario |  Semuestran los alumnos y permite inscribir a nuevos alumnos.Se implementa en el Backend | 6 | Jorge Orrego | Done |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales, incluyendo unidades y secciones   | Registra y valida los  si ya existen los cursos actuales, unidades y secciones con el mismo nombre. Se implementa en el backend  | 4 | Jorge Orrego | Done |
+| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video. Se implementa en el backend | 8 | Anthony Huapaya | In-Process |
+| HU06 | Validacion y registro a tutorías en línea  | TK05 | Muestra y crea horarios | Se muestra los horarios en el cual el alumno pueda escoger y permite crear un horario. Se implementa en el backend | 8 | Anthony Huapaya | Done |
+| HU11 | Validacion y registro de Calificaciones  | TK05 | Muestra y crea calificaciones de un cursos | Se muestra las notas del alumno  y permite crear notas. Se implementa en el backend | 8 | Anthony Huapaya | Done |
+| HU05 | Ver descripción de la plataforma en la landing page	  | TK4 | Despliegue de la landing page	 | Se desarrolla la landing page en angular material e internacionalizado | 3 | Fabrisio Belahonia	 | Done |
+| HU06 | Acceso a tutorías en línea | TK5 |  Muestra y crea tutorias con los profesores	 | Se muestra las tutorias del profesor  y permite al alumno crear tutorias. Se implementa en el backend | 3 | Fabrisio Belahonia	 | Done |
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review. <a name ="5.2.4.3.">
@@ -2256,79 +2253,110 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
 | LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
 | LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
-| LearnE-Backend | develop | 2a5e37d4ebea6e162be6de845db9d508e6418a96 | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
-| LearnE-Backend | develop | 2b85d2a020670fef3489e0c41e257064b11db8a4 | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
-| LearnE-Backend | develop | 5bae6a3de7f04de240a05c29103419a63dc71826 |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | 0997450650fd75759231db93e3751bb395813a37 | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
-| LearnE-Backend | develop | 332125ad201f46324dbf70d263f3015394c25c25 | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
-| LearnE-Backend | develop | ad2064192aa60b855940cacf267feaf57fe6fa53 | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | b383a9d91ff37801933b5d05e1640fb56e34e67a | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
+| LearnE-Backend | develop | ... | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
+| LearnE-Backend | develop | ... | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | 69a3d9c992b100a0c8a6508ced204266a54c09f1 | Question endpoint with GET, GET by id and POST CRUD v1 | Question endpoint with GET, GET by id and POST CRUD v1t | 15/11/2024 | 
+| LearnE-Backend | develop | 364d57fbbda77eaf1793aaf3da25e62e66a261aa | chore: added maven plugin for backend deployment | chore: added maven plugin for backend deployment | 15/11/2024 | 
+| LearnE-Backend | develop | 77d7b9554178536f1b61c106a43e8def7ac54f42 |  feat: implemented payments endpoints| feat: implemented payments endpoints | 15/11/2024 | 
+| LearnE-Backend | develop | e861b0cc5618e7c8c66919b59d8d6fcd12f1aaa0 |add TutorialsReservated Endpoint and correct TutorialsCourses put | add TutorialsReservated Endpoint and correct TutorialsCourses put | 18/11/2024 | 
+| LearnE-Backend | develop | 5bfa9429fae36bfe2139d8e2b5d357eb654023b7 | back notes | back notesp | 18/11/2024 | 
+| LearnE-Backend | develop | 16d385fb362e79674f700287e19d1b53713c749a |  Add TutorialsCourses Get And Post| Add TutorialsCourses Get And Post | 18/11/2024 | 
+| LearnE-Backend | develop | 7608eb9ea6ef95e937965635855a3ed6a5da15a0 | Answer endpoint with GET, GET by id and POST CRUD v1 | Answer endpoint with GET, GET by id and POST CRUD v1 | 19/11/2024 | 
+| LearnE-Backend | develop | 0d97853ce9280c224d72f4d3adce0aaa304b3643 | Merge branch 'material' into develop | Merge branch 'material' into develop | 19/11/2024 | 
+| LearnE-Backend | develop | 7ad0ffe5fcf58a03d088852eed4b66640e5d15ce |  updated Course and add Course Enrollment| updated Course and add Course Enrollment | 19/11/2024 | 
+| LearnE-Backend | develop | 5629b9288f12c13e9775bfd4595d88cb086130a5 | delete methods for payment |  delete methods for payment|19/11/2024 | 
+| LearnE-Backend | develop | 4bff0ada366da64e8dd6fb1da9dbd2c057250aac | add delete Material and Unit endpoint | add delete Material and Unit endpoint | 19/11/2024 | 
+| LearnE-Backend | develop | 90723fccc2e360a2a9de0ab3cf885ae7162e9f7e | add Sections Endpoint | add Sections Endpoint | 19/11/2024 | 
+| LearnE-Backend | develop | 65e0fbe844e91fa54caa43835f3f0c9222c8fe42 | update Payments email |update Payments email| 20/11/2024 |
+|LearnE-AngularLandingPage | develop | 70df94872b107815d9eb3b6e06f3c0c03cc6cc57 |chore: minor fixes |chore: minor fixes| 20/11/2024 |
+| LearnE-AngularLandingPage | develop | ffafd7e90180432aaf6ecdce4f18f82e22aad623 | feat: converted landing page to angular project |feat: converted landing page to angular projectemail| 20/11/2024 |
 
+**Repositorios de GitHub**
 
-**Commits vistos desde GitHub:**
+#### Frontend:
 
-**agregar comits**
-
-
-
-**Repositorio de GitHub**
-
-### Frontend:
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
+#### Backend
 
-### Backend
 <img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
+#### Landing page (Angular):
+
+<img src="assets/repolandingangular.png" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.4.4.">
 
-En esta seccion  se muestra la evidencia de los test realizados en la sprint.
+Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias de usuario abordadas en este sprint(todos los User Storie 1 al 17). 
 
+**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
+
+<img src="assets/testing1.jpg" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
+<img src="assets/commit-testing1.jpg" alt="Gherkin1" title="Gherkin Test 1" style="width:100%;">
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Initial commit |  Initial commit                   |    06/09/2024 | 
-|  LearnE-Product-Testing | main | c9d0663eba6510a0bfb3e2cc0dd2972e65974e0a | feat(testing): added HU05 acceptance tests file|  feat(testing): added HU05 acceptance tests file |    06/09/2024 | 
-|  LearnE-Product-Testing | main | 4a7e4a5840b391d6b1ca2ba9c26298482109505a | feat(testing): added feature's scenarios |  feat(testing): added feature's scenarios|    06/09/2024 | 
-|  LearnE-Product-Testing | main | 4288e500ee61b2c1e84ad46934d59633ecc28b51 | feat(testing): added HU21 feature set |  feat(testing): added HU21 feature set |    06/09/2024 | 
-
-**Enlace del repositorio de testing:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Product-Testing 
-
+|  LearnE-Product-Testing | main | 0a4fdacf5545bdfb26ba724eb15285fa59bd34cd | Create HU01.feature |  Create HU01.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 1644c53ca1c7b5e2c6e45dab1b8fcfe22582d9c7 | Create HU03.feature |  Create HU03.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 10108e582af9a3e6921e71a0f599ab84f88fe587 | Create HU04.feature |  Create HU04.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 106e2c8f9effb4b63ce5da6580138b3deb5a5b15 | Create HU06.feature |  Create HU06.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | a9e0a53c98e7064e04db68e5b2a7abf6da30473c | Create HU07.feature |  Create HU07.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | f9cbf1a788a678257ded610ff7cc8d7d866b542a | Create HU08.feature |  Create HU08.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 9ec5d2b5cd7fc7311616d0a4702ccb7592243e03 | Create HU09.feature |  Create HU09.feature |    02/11/2024 |
+|  LearnE-Product-Testing | main | 56baf3792c45c11cd2e0e13b81deadf058710573 | Create HU10.feature |  Create HU10.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 8295e21376fef2c9d4e214c9d92e11463b4d7ef0 | Create HU11.feature |  Create HU11.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 989b46f109c76a3d1b1dfe640114d0dcf0b48ad2 | Create HU12.feature |  Create HU12.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | e6842b2848d211830a5d25680739cf240a8ea83e | Create HU13.feature |  Create HU13.feature |    02/11/2024 |
+|  LearnE-Product-Testing | main | b4cb57f3523f9ed39ef9fd4221080c4f3a56341d | Create HU14.feature |  Create HU14.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 5839622c270a5f678b29718d0357b1150b6a8a1e | Create HU15.feature |  Create HU15.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 4df553f29d665d024d425238c24782182828b331 | Create HU16.feature |  Create HU16.feature |    02/11/2024 | 
+|  LearnE-Product-Testing | main | 8ad40291d8859f1599169f6d3e3588a033db5a3e | Create HU17.feature |  Create HU17.feature |    02/11/2024 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review. <a name ="5.2.4.5.">
 
 **Desarrollo del Backend por medio del IDE IntelliJ IDEA:**
 
-<img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
+<img src="assets/execution.ultimate.jpg" alt="Execution" title="exeback" style="width:100%;">
 
+**Desarrollo del Frontend por medio de Webstorm:**
+
+<img src="assets/execution_frontend_sprint4.png" alt="Execution" title="exeback" style="width:100%;">
+
+**Desarrollo de la landing page por medio de Webstorm:**
+
+<img src="assets/execution_landing_sprint4.png" alt="Execution" title="exeback" style="width:100%;">
 
 **Visualización de endpoints de la API por medio de Swagger:**
 
 <img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/web_service_doc2_ultimate.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
+**Enlace del video de demostración (Frontend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
+
+**Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend
+
+**Enlace de video de demostración (Backend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/Efa-gcKcix9PrUApNR-3i10BxHL_hsjNJOJETkS2XruWMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U8bw0j 
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
-
-**Enlace del video(Frontend)**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
-
-
-**enlace de video backend**
-**mas img del back**
-
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
 
 Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
 
-<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/services_1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/services_2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-**agrgar IMG**
+<img src="assets/services_3.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_4.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_5.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_6.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review <a name ="5.2.4.7.">
 
@@ -2351,26 +2379,40 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 **Consumir la API desplegada por medio de Swagger**
 
-<img src="assets/deployment_zeabur5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
-
-**agregar**
+<img src="assets/image.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
 
 **Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
+
+Se desplegó una nueva versión de la landing page hecha con Angular. Se utilizó los servicios de hosting de Google Firebase. 
+
+**Enlace de referencia:** https://firebase.google.com/
+
+**Despliegue de la landing page con Firebase:**
+
+<img src="assets/landing_page_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
+
+<img src="assets/landing_page_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
+
+Se desplegó una nueva versión del frontend utilizando Google Firebase. 
+
+**Enlace de referencia:** https://firebase.google.com/
+
+**Despliegue del frontend con Firebase:** 
+
+<img src="assets/frontend_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
+
+<img src="assets/frontend_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. <a name ="5.2.4.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe |
-| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT  |
-| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint |
+| Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe, desarrollo de la landing page |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT, actualización del frontend e integración del backend |
+| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint, actualización del frontend e integración del backend |
 | Pedro Andre Guia Carrasco |  Desarrollo de 2 Endpoint y auntenticación |
-| Jorge David Orrego Noriega |  Desarrollo de 4 Endpoint |
-
-
-
-
+| Jorge David Orrego Noriega |  Desarrollo de 4 Endpoints, despliegue del backend, frontend y landing page |
 
 
 ## 5.3. Validation Interviews. <a name ="5.3.">
@@ -2644,6 +2686,10 @@ En el video "About the Product" se presentan las funcionalidades y característi
 ## Conclusiones TB2
 * Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
 
+## Conclusiones TF
+* Durante el desarrollo del TF pudimos corregir ciertos puntos de la TB2 en lo que corresponde del backend.Ademas hemos culminado este proyecto con la entrega de tres componentes esenciales: una landing page, una aplicación web y un backend. La landing page funciona como un punto de acceso principal, mostrando de forma clara y atractiva las funcionalidades del sistema. La aplicación web, en cambio, sirve como una plataforma interactiva diseñada para facilitar la interfaz con los usuarios, proporcionando a los usuarios herramientas efectivas para administrar sus acciones. Por su parte, la API permite integraciones con otras herramientas que los usuarios puedan requerir.La integración de estos componentes no solo asegura que LearnE satisfaga las necesidades actuales, sino que también lo prepara estratégicamente para futuras mejoras y expansiones. En conjunto, estos avances garantizan una experiencia de usuario sólida y consistente, optimizando el valor total que nuestra solución ofrece.
+
+
 # Bibliografía
 
 Diaz-Infante, N., Lazar, M., Ram, S., & Ray, A. (2022, July 29). Growth in online education. Are providers ready? McKinsey & Company. https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
@@ -2659,9 +2705,13 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace del repositorio del informe:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Reporte 
 
-**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage 
+**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage
 
-**Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
+**Enlace del repositorio de la landing page (Angular):** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-AngularLandingPage 
+
+**Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/ 
+
+**Enlace de la landing page desplegada (Angular):** https://leare-landingpage.web.app/ 
 
 **Enlace del frontend desplegado:** https://learnefrontend.web.app/home
 
@@ -2691,6 +2741,9 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Video Exposición TB2:** 
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESTLCv1K7CRIg-W0J5sO-oYBmcCs3VOMQTtLnBr7JF-lWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lpZbpX 
+
+**Video Exposición TF:** 
+* Enlace de la exposición en Microsoft Stream: 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
