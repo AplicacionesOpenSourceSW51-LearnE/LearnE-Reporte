@@ -75,9 +75,8 @@
 | 7.0 | 19/11/2024 | Grupo LearnE | Se agrega el Development Evidence for Sprint Review |
 | 8.0 | 19/11/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence y Services Documentation |
 | 9.0 | 20/11/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
-| 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 3 |
-| 12.0 | 21/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
-
+| 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 4 |
+| 12.0 | 20/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
 
 
 # Project Report Collaboration Insights
@@ -2220,7 +2219,7 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Prepared By | Jorge Orrego |
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
-| Sprint 4 Goal | Completar el desarrollo final del Backend |
+| Sprint 4 Goal | Terminar de desarrollar el backend e implementarlo junto al frontend. Terminar de corregir pequeños detalles del frontend. Desplegar últimas versiones del frontend y backend. Desplegar nueva versión de la landing page. |
 | Sprint 4 Velociy | 50 |
 | Sum of Story Point | 50 |
 
@@ -2274,24 +2273,13 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 |LearnE-AngularLandingPage | develop | 70df94872b107815d9eb3b6e06f3c0c03cc6cc57 |chore: minor fixes |chore: minor fixes| 20/11/2024 |
 | LearnE-AngularLandingPage | develop | ffafd7e90180432aaf6ecdce4f18f82e22aad623 | feat: converted landing page to angular project |feat: converted landing page to angular projectemail| 20/11/2024 |
 
-**Commits vistos desde GitHub:**
-
-**agregar comits**
-
-
-
 **Repositorio de GitHub**
 
-### General:
-<img src="assets/repogeneral.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
-<img src="assets/repogeneral.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
-
-
-### Frontend:
+#### Frontend:
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
-### Backend
+#### Backend
 <img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
@@ -2339,10 +2327,10 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
 
-**Enlace del video(Frontend)**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
+**Enlace del video de demostración (Frontend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
 
 
-**enlace de video backend**
+**Enlace de video de demostración (Backend):**
 
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
@@ -2392,15 +2380,11 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 | Alumno | Actividad |
 |--------|-----------|
-| Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe |
-| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT  |
-| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint |
+| Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe, desarrollo de la landing page |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT, actualización del frontend |
+| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint, actualización del frontend |
 | Pedro Andre Guia Carrasco |  Desarrollo de 2 Endpoint y auntenticación |
-| Jorge David Orrego Noriega |  Desarrollo de 4 Endpoint |
-
-
-
-
+| Jorge David Orrego Noriega |  Desarrollo de 4 Endpoints, despliegue del backend, frontend y landing page |
 
 
 ## 5.3. Validation Interviews. <a name ="5.3.">
@@ -2678,7 +2662,6 @@ En el video "About the Product" se presentan las funcionalidades y característi
 * Durante el desarrollo del TF pudimos corregir ciertos puntos de la TB2 en lo que corresponde del backend.Ademas hemos culminado este proyecto con la entrega de tres componentes esenciales: una landing page, una aplicación web y un backend. La landing page funciona como un punto de acceso principal, mostrando de forma clara y atractiva las funcionalidades del sistema. La aplicación web, en cambio, sirve como una plataforma interactiva diseñada para facilitar la interfaz con los usuarios, proporcionando a los usuarios herramientas efectivas para administrar sus acciones. Por su parte, la API permite integraciones con otras herramientas que los usuarios puedan requerir.La integración de estos componentes no solo asegura que LearnE satisfaga las necesidades actuales, sino que también lo prepara estratégicamente para futuras mejoras y expansiones. En conjunto, estos avances garantizan una experiencia de usuario sólida y consistente, optimizando el valor total que nuestra solución ofrece.
 
 
-
 # Bibliografía
 
 Diaz-Infante, N., Lazar, M., Ram, S., & Ray, A. (2022, July 29). Growth in online education. Are providers ready? McKinsey & Company. https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
@@ -2691,17 +2674,13 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 
 
-
-
-
-
 # Anexos
 
 **Enlace del repositorio del informe:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Reporte 
 
 **Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage 
 
-**Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/
+**Enlace de la landing page desplegada:** https://leare-landingpage.web.app/ 
 
 **Enlace del frontend desplegado:** https://learnefrontend.web.app/home
 
@@ -2731,6 +2710,9 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Video Exposición TB2:** 
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESTLCv1K7CRIg-W0J5sO-oYBmcCs3VOMQTtLnBr7JF-lWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lpZbpX 
+
+**Video Exposición TF:** 
+* Enlace de la exposición en Microsoft Stream: 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
