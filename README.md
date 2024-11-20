@@ -2224,7 +2224,6 @@ Se utiliz처 el servicio de hosting Zeabur para desplegar nuestros web services y
 | Sum of Story Point | 50 |
 
 
-
 #### 5.2.4.2. Sprint Backlog 4. <a name ="5.2.4.2.">
 
 En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4:
@@ -2394,15 +2393,19 @@ Se despleg처 una nueva versi처n de la landing page hecha con Angular. Se utiliz�
 
 <img src="assets/landing_page_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
 
+**Enlace de la landing page desplegada**: https://leare-landingpage.web.app/
+
 Se despleg처 una nueva versi처n del frontend utilizando Google Firebase. 
 
 **Enlace de referencia:** https://firebase.google.com/
 
 **Despliegue del frontend con Firebase:** 
 
-<img src="assets/frontend_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
+<img src="assets/frontend_view_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
 
-<img src="assets/frontend_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
+<img src="assets/frontend_view_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
+
+**Enlace del frontend desplegado**: https://learnefrontend.web.app/
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. <a name ="5.2.4.8.">
 
@@ -2713,7 +2716,7 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace de la landing page desplegada (Angular):** https://leare-landingpage.web.app/ 
 
-**Enlace del frontend desplegado:** https://learnefrontend.web.app/home
+**Enlace del frontend desplegado:** https://learnefrontend.web.app/
 
 **Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend 
 
