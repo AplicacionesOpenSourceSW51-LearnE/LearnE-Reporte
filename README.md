@@ -2327,14 +2327,14 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 **Desarrollo del Backend por medio del IDE IntelliJ IDEA:**
 
-<img src="assets/execution.jpg" alt="Execution" title="exeback" style="width:100%;">
+<img src="assets/execution.ultimate.jpg" alt="Execution" title="exeback" style="width:100%;">
 
 
 **Visualización de endpoints de la API por medio de Swagger:**
 
 <img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/web_service_doc2_ultimate.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
@@ -2343,18 +2343,24 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 
 **enlace de video backend**
-**mas img del back**
 
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
 
 Se documentaron la funcionalidad de los endpoints desarrollados en la API con Swagger, con el objetivo de brindar la información necesaria para consumir la API de manera correcta. 
 
-<img src="assets/web_service_doc1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/services_1.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-<img src="assets/web_service_doc2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+<img src="assets/services_2.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-**agrgar IMG**
+<img src="assets/services_3.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_4.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_5.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
+<img src="assets/services_6.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
+
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review <a name ="5.2.4.7.">
 
@@ -2377,9 +2383,7 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 **Consumir la API desplegada por medio de Swagger**
 
-<img src="assets/deployment_zeabur5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
-
-**agregar**
+<img src="assets/image.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
 
 **Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
