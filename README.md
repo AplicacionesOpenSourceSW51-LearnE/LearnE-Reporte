@@ -76,10 +76,14 @@
 | 8.0 | 19/11/2024 | Grupo LearnE | Se agrega el Testing Suite Evidence y Services Documentation |
 | 9.0 | 20/11/2024 | Grupo LearnE | Se agrega el Software Deployment Evidence for Sprint Review  |
 | 10.0 | 20/11/2024 | Grupo LearnE | Se agrega el Team collaboration Insights during Sprint 4 |
-| 12.0 | 20/11/2024 | Grupo LearnE | Inicio del desarrollo del informe TF1 |
+| 12.0 | 20/11/2024 | Grupo LearnE | Fin del desarrollo del informe TF |
 
 
 # Project Report Collaboration Insights
+
+**Commits del Informe TF:**
+
+<img src="assets/commits_report_tf.png" alt="Commits TB2">
 
 **Commits del Informe TB2:**
 
@@ -96,9 +100,6 @@
 <img src="assets/commitsTB1_1.png" alt="Commits TB1">
 
 <img src="assets/commitsTB1_2.png" alt="Commits TB1">
-
-**Commits del Informe TF1:**
-
 
 
 # Student Outcome
