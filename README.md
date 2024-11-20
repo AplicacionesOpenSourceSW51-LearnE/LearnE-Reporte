@@ -2244,8 +2244,6 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | HU06 | Acceso a tutorías en línea | TK5 |  Muestra y crea tutorias con los profesores	 | Se muestra las tutorias del profesor  y permite al alumno crear tutorias. Se implementa en el backend | 3 | Fabrisio Belahonia	 | Done |
 
 
-
-
 #### 5.2.4.3. Development Evidence for Sprint Review. <a name ="5.2.4.3.">
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
@@ -2255,9 +2253,9 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
 | LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
 | LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
-| LearnE-Backend | develop |  | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
-| LearnE-Backend | develop |  | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | 69a3d9c992b100a0c8a6508ced204266a54c09f1 |Question endpoint with GET, GET by id and POST CRUD v1 | Question endpoint with GET, GET by id and POST CRUD v1t | 15/11/2024 | 
+| LearnE-Backend | develop | ... | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
+| LearnE-Backend | develop | ... | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | 69a3d9c992b100a0c8a6508ced204266a54c09f1 | Question endpoint with GET, GET by id and POST CRUD v1 | Question endpoint with GET, GET by id and POST CRUD v1t | 15/11/2024 | 
 | LearnE-Backend | develop | 364d57fbbda77eaf1793aaf3da25e62e66a261aa | chore: added maven plugin for backend deployment | chore: added maven plugin for backend deployment | 15/11/2024 | 
 | LearnE-Backend | develop | 77d7b9554178536f1b61c106a43e8def7ac54f42 |  feat: implemented payments endpoints| feat: implemented payments endpoints | 15/11/2024 | 
 | LearnE-Backend | develop | e861b0cc5618e7c8c66919b59d8d6fcd12f1aaa0 |add TutorialsReservated Endpoint and correct TutorialsCourses put | add TutorialsReservated Endpoint and correct TutorialsCourses put | 18/11/2024 | 
@@ -2273,15 +2271,19 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 |LearnE-AngularLandingPage | develop | 70df94872b107815d9eb3b6e06f3c0c03cc6cc57 |chore: minor fixes |chore: minor fixes| 20/11/2024 |
 | LearnE-AngularLandingPage | develop | ffafd7e90180432aaf6ecdce4f18f82e22aad623 | feat: converted landing page to angular project |feat: converted landing page to angular projectemail| 20/11/2024 |
 
-**Repositorio de GitHub**
+**Repositorios de GitHub**
 
 #### Frontend:
+
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
-
 #### Backend
+
 <img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
+#### Landing page (Angular):
+
+<img src="assets/repolandingangular.png" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.4.4.">
 
@@ -2317,6 +2319,13 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 <img src="assets/execution.ultimate.jpg" alt="Execution" title="exeback" style="width:100%;">
 
+**Desarrollo del Frontend por medio de Webstorm:**
+
+<img src="assets/execution_frontend_sprint4.png" alt="Execution" title="exeback" style="width:100%;">
+
+**Desarrollo de la landing page por medio de Webstorm:**
+
+<img src="assets/execution_landing_sprint4.png" alt="Execution" title="exeback" style="width:100%;">
 
 **Visualización de endpoints de la API por medio de Swagger:**
 
@@ -2325,13 +2334,14 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 <img src="assets/web_service_doc2_ultimate.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
 
-**Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
-
 **Enlace del video de demostración (Frontend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
 
 
-**Enlace de video de demostración (Backend):**
+**Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend
 
+**Enlace de video de demostración (Backend):** 
+
+**Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review <a name ="5.2.4.6.">
 
@@ -2673,14 +2683,17 @@ Día Internacional de la Educación: solo el 30.9 % de jóvenes peruanos logró 
 Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role of digital technologies in education: A review. Sustainable Operations and Computers, 3, 275–285. https://doi.org/10.1016/J.SUSOC.2022.05.004
 
 
-
 # Anexos
 
 **Enlace del repositorio del informe:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Reporte 
 
-**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage 
+**Enlace del repositorio de la landing page:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-LandingPage
 
-**Enlace de la landing page desplegada:** https://leare-landingpage.web.app/ 
+**Enlace del repositorio de la landing page (Angular):** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-AngularLandingPage 
+
+**Enlace de la landing page desplegada:** https://aplicacionesopensourcesw51-learne.github.io/LearnE-LandingPage/ 
+
+**Enlace de la landing page desplegada (Angular):** https://leare-landingpage.web.app/ 
 
 **Enlace del frontend desplegado:** https://learnefrontend.web.app/home
 
