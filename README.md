@@ -2337,7 +2337,7 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 **Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend
 
-**Enlace de video de demostración (Backend):** 
+**Enlace de video de demostración (Backend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/Efa-gcKcix9PrUApNR-3i10BxHL_hsjNJOJETkS2XruWMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U8bw0j 
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
 
