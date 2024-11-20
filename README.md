@@ -2366,23 +2366,23 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 **Despliegue de los web services (backend)**
 
-<img src="assets/deployment_zeabur1.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/backend_deployment_1.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
-<img src="assets/deployment_zeabur2.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/backend_deployment_2.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
 
 **Despliegue de la base de datos MySQL**
 
-<img src="assets/deployment_zeabur3.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/backend_deployment_3.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
-<img src="assets/deployment_zeabur4.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/backend_deployment_4.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
 **Consumir la API desplegada por medio de Swagger**
 
-<img src="assets/image.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/backend_deployment_5.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
 
 
-**Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
+**Enlace del backend desplegado**: https://learneservices.sfo1.zeabur.app/swagger-ui/index.html  
 
 Se desplegó una nueva versión de la landing page hecha con Angular. Se utilizó los servicios de hosting de Google Firebase. 
 
@@ -2717,7 +2717,7 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 
 **Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend 
 
-**Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
+**Enlace del backend desplegado**: https://learneservices.sfo1.zeabur.app/swagger-ui/index.html 
 
 **Enlace del repositorio del backend**: https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Backend
 
