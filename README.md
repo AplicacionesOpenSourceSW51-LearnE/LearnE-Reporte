@@ -2222,8 +2222,8 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 | Prepared By | Jorge Orrego |
 | Attendees (to planning meeting) | Jorge Orrego, Pedro Guía, Elizabeth Huanaco, Anthony Huapaya, Fabrisio Belahonia |
 | Sprint Goal & User Stories |
-| Sprint 3 Goal | Completar el desarrollo final del Backend |
-| Sprint 3 Velociy | 50 |
+| Sprint 4 Goal | Completar el desarrollo final del Backend |
+| Sprint 4 Velociy | 50 |
 | Sum of Story Point | 50 |
 
 
@@ -2237,11 +2237,16 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). Se implementa en el Backend | 14 | Elizabeth Huanaco | Done |
 | HU12 | Planes de suscripción | TK02 | Registro de los planes de suscripción | valida que tipo de plan tienes para asiganr el tipo de usuario. Se implementa en el backend | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
-| HU14 | Exámenes | TK08 | Muestra y crea examenes | Se muestra los examenes  y permite crear un examen. Se implementa en el backend | 6 | Elizabeth Huanaco | Done |
+| HU14 | Exámenes | TK08 | Muestra y crea examenes, preguntas y respuestas | Se muestra los examenes, preguntas y respuestas  ,y permite crear un examen, preguntas y respuestas. Se implementa en el backend | 6 | Elizabeth Huanaco | Done |
 | HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Muestra y crear nuevo usuario |  Semuestran los alumnos y permite inscribir a nuevos alumnos.Se implementa en el Backend | 6 | Jorge Orrego | Done |
-| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Registra los cursos y valida si ya existen cursos con el mismo nombre  | 4 | Jorge Orrego | Done |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales, incluyendo unidades y secciones   | Registra y valida los  si ya existen los cursos actuales, unidades y secciones con el mismo nombre. Se implementa en el backend  | 4 | Jorge Orrego | Done |
 | HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video. Se implementa en el backend | 8 | Anthony Huapaya | In-Process |
 | HU06 | Validacion y registro a tutorías en línea  | TK05 | Muestra y crea horarios | Se muestra los horarios en el cual el alumno pueda escoger y permite crear un horario. Se implementa en el backend | 8 | Anthony Huapaya | Done |
+| HU11 | Validacion y registro de Calificaciones  | TK05 | Muestra y crea calificaciones de un cursos | Se muestra las notas del alumno  y permite crear notas. Se implementa en el backend | 8 | Anthony Huapaya | Done |
+| HU05 | Ver descripción de la plataforma en la landing page	  | TK4 | Despliegue de la landing page	 | Se desarrolla la landing page en angular material e internacionalizado | 3 | Fabrisio Belahonia	 | Done |
+| HU06 | Acceso a tutorías en línea | TK5 |  Muestra y crea tutorias con los profesores	 | Se muestra las tutorias del profesor  y permite al alumno crear tutorias. Se implementa en el backend | 3 | Fabrisio Belahonia	 | Done |
+
+
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review. <a name ="5.2.4.3.">
