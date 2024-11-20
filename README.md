@@ -2119,11 +2119,11 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 **Repositorio de GitHub**
 
-### Frontend:
+#### Frontend:
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
-### Backend
+#### Backend
 <img src="assets/repoback.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
 
 
@@ -2333,9 +2333,7 @@ Se realizaron pruebas de aceptación con la lenguaje Gherkin sobre las historias
 
 <img src="assets/web_service_doc2_ultimate.png" alt="Services Documentation" title="Services Documentation" style="width:100%;">
 
-
 **Enlace del video de demostración (Frontend):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EcrdxRhFt9VKu9eoy8D0XuoBY5zmnCZi9CUnUXrCsHh36w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hkPJBO
-
 
 **Enlace del repositorio del frontend:** https://github.com/AplicacionesOpenSourceSW51-LearnE/LearnE-Frontend
 
@@ -2386,13 +2384,33 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 
 **Enlace del backend desplegado**: https://learne-services.fra1.zeabur.app/swagger-ui/index.html 
 
+Se desplegó una nueva versión de la landing page hecha con Angular. Se utilizó los servicios de hosting de Google Firebase. 
+
+**Enlace de referencia:** https://firebase.google.com/
+
+**Despliegue de la landing page con Firebase:**
+
+<img src="assets/landing_page_firebase.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/landing_page_deployed.png.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+Se desplegó una nueva versión del frontend utilizando Google Firebase. 
+
+**Enlace de referencia:** https://firebase.google.com/
+
+**Despliegue del frontend con Firebase:** 
+
+<img src="assets/frontend_firebase.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
+<img src="assets/frontend_deployed.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint. <a name ="5.2.4.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
 | Fabrisio Andre Belahonia Miranda | Desarrollo de 2 Endpoint e informe, desarrollo de la landing page |
-| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT, actualización del frontend |
-| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint, actualización del frontend |
+| Elizabeth Lucero Huanaco Huayta | Desarrollo de 3 Endpoint y PPT, actualización del frontend e integración del backend |
+| Anthony Martin Huapaya Cuevas | Desarrollo de 3 Endpoint, actualización del frontend e integración del backend |
 | Pedro Andre Guia Carrasco |  Desarrollo de 2 Endpoint y auntenticación |
 | Jorge David Orrego Noriega |  Desarrollo de 4 Endpoints, despliegue del backend, frontend y landing page |
 
