@@ -2264,8 +2264,21 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | LearnE-Backend | develop |  | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
 | LearnE-Backend | develop |  | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
 | LearnE-Backend | develop |  | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
-
+| LearnE-Backend | develop | 69a3d9c992b100a0c8a6508ced204266a54c09f1 |Question endpoint with GET, GET by id and POST CRUD v1 | Question endpoint with GET, GET by id and POST CRUD v1t | 15/11/2024 | 
+| LearnE-Backend | develop | 364d57fbbda77eaf1793aaf3da25e62e66a261aa | chore: added maven plugin for backend deployment | chore: added maven plugin for backend deployment | 15/11/2024 | 
+| LearnE-Backend | develop | 77d7b9554178536f1b61c106a43e8def7ac54f42 |  feat: implemented payments endpoints| feat: implemented payments endpoints | 15/11/2024 | 
+| LearnE-Backend | develop | e861b0cc5618e7c8c66919b59d8d6fcd12f1aaa0 |add TutorialsReservated Endpoint and correct TutorialsCourses put | add TutorialsReservated Endpoint and correct TutorialsCourses put | 18/11/2024 | 
+| LearnE-Backend | develop | 5bfa9429fae36bfe2139d8e2b5d357eb654023b7 | back notes | back notesp | 18/11/2024 | 
+| LearnE-Backend | develop | 16d385fb362e79674f700287e19d1b53713c749a |  Add TutorialsCourses Get And Post| Add TutorialsCourses Get And Post | 18/11/2024 | 
+| LearnE-Backend | develop | 7608eb9ea6ef95e937965635855a3ed6a5da15a0 | Answer endpoint with GET, GET by id and POST CRUD v1 | Answer endpoint with GET, GET by id and POST CRUD v1 | 19/11/2024 | 
+| LearnE-Backend | develop | 0d97853ce9280c224d72f4d3adce0aaa304b3643 | Merge branch 'material' into develop | Merge branch 'material' into develop | 19/11/2024 | 
+| LearnE-Backend | develop | 7ad0ffe5fcf58a03d088852eed4b66640e5d15ce |  updated Course and add Course Enrollment| updated Course and add Course Enrollment | 19/11/2024 | 
+| LearnE-Backend | develop | 5629b9288f12c13e9775bfd4595d88cb086130a5 | delete methods for payment |  delete methods for payment|19/11/2024 | 
+| LearnE-Backend | develop | 4bff0ada366da64e8dd6fb1da9dbd2c057250aac | add delete Material and Unit endpoint | add delete Material and Unit endpoint | 19/11/2024 | 
+| LearnE-Backend | develop | 90723fccc2e360a2a9de0ab3cf885ae7162e9f7e | add Sections Endpoint | add Sections Endpoint | 19/11/2024 | 
+| LearnE-Backend | develop | 65e0fbe844e91fa54caa43835f3f0c9222c8fe42 | update Payments email |update Payments email| 20/11/2024 |
+|LearnE-AngularLandingPage | develop | 70df94872b107815d9eb3b6e06f3c0c03cc6cc57 |chore: minor fixes |chore: minor fixes| 20/11/2024 |
+| LearnE-AngularLandingPage | develop | ffafd7e90180432aaf6ecdce4f18f82e22aad623 | feat: converted landing page to angular project |feat: converted landing page to angular projectemail| 20/11/2024 |
 
 **Commits vistos desde GitHub:**
 
@@ -2274,6 +2287,11 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 
 
 **Repositorio de GitHub**
+
+### General:
+<img src="assets/repogeneral.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
+<img src="assets/repogeneral.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
+
 
 ### Frontend:
 <img src="assets/repofront.jpg" alt="Repositorio de GitHub" title="Repositorio de GitHub" style="width:100%;">
