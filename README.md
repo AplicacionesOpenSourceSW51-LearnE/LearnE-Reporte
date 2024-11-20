@@ -2390,9 +2390,9 @@ Se despleg처 una nueva versi처n de la landing page hecha con Angular. Se utiliz�
 
 **Despliegue de la landing page con Firebase:**
 
-<img src="assets/landing_page_firebase.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/landing_page_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
 
-<img src="assets/landing_page_deployed.png.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/landing_page_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
 
 Se despleg처 una nueva versi처n del frontend utilizando Google Firebase. 
 
@@ -2400,9 +2400,9 @@ Se despleg처 una nueva versi처n del frontend utilizando Google Firebase.
 
 **Despliegue del frontend con Firebase:** 
 
-<img src="assets/frontend_firebase.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/frontend_firebase.png" alt="Deployment" title="Deployment" style="width:100%;">
 
-<img src="assets/frontend_deployed.png" alt="Deployment" title="Deployment Zeabur" style="width:100%;">
+<img src="assets/frontend_deployed.png" alt="Deployment" title="Deployment" style="width:100%;">
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. <a name ="5.2.4.8.">
 
