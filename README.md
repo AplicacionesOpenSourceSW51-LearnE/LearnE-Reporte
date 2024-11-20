@@ -2231,20 +2231,17 @@ Se utilizó el servicio de hosting Zeabur para desplegar nuestros web services y
 #### 5.2.4.2. Sprint Backlog 4. <a name ="5.2.4.2.">
 
 En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4:
-**modificar mñn**
+
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
-| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). La consulta debe confirmar los datos de autenticación y autorización antes de permitir el acceso. | 14 | Elizabeth Huanaco | Done |
-| HU12 | Cambio de planes de suscripción | TK02 | Cambio una vista para ver los planes de suscripción | Cambia el limiete de cursos por llevar y cambia de subicripcion free a paga y viceversa | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
-| HU02 | Buscar nuevos cursos dentro de la plataforma. | TK04 | Crear una vista para buscar cursos |  Crear una vista con una barra de búsqueda para encontrar nuevos cursos en la plataforma. | 8 | Fabrisio Belahonia | Done |
-| HU03 | Ver detalles de un curso | TK05 | Crear una vista para ver la descripción de un curso | Crear una vista en la que se muestren la información más relevante de un curso | 8 | Fabrisio Belahonia | Done |
-| HU14 | Exámenes | TK08 | Crear una vista para rendir un examen | Crear una vista en la que el alumno pueda responder un examen de algún curso. | 6 | Elizabeth Huanaco | Done |
-| HU20 | Inicio de sesión | TK10 | Crear una vista para iniciar sesión | Crear una vista en la que el alumno pueda iniciar sesión en la plataforma, siempre y cuando esté registrado en la base de datos. | 6 | Jorge Orrego | Done |
-| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Crear una vista para registrar un usuario |  Crear una vista en la que el alumno pueda crear una cuenta en la plataforma. | 6 | Jorge Orrego | Done |
-| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Crear una vista que funcione como pantalla principal cuando el alumno inicie sesión en la plataforma, en la que pueda ver los cursos actuales en los que está inscrito. | 4 | Jorge Orrego | Done |
-| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video | 8 | Anthony Huapaya | In-Process |
-| HU06 | Acceso a tutorías en línea  | TK05 | Muestra de horarios | Se muestra los horarios en el cual el alumno pueda escoger el que mas le conviene y ademas muesrta cuales ya estan reservados | 8 | Anthony Huapaya | Done |
+| HU07 | Validacion de usuarios | TK01  |  Validación de usuarios: Realizar la validación de usuarios mediante la verificación en la base de datos. | Esto incluye la comprobación de que el usuario existe y la identificación de su tipo de usuario (estudiante o profesor). Se implementa en el Backend | 14 | Elizabeth Huanaco | Done |
+| HU12 | Planes de suscripción | TK02 | Registro de los planes de suscripción | valida que tipo de plan tienes para asiganr el tipo de usuario. Se implementa en el backend | 10 | Jorge Orrego, Anthony Huapaya, Elizabeth Huanaco |  Done |
+| HU14 | Exámenes | TK08 | Muestra y crea examenes | Se muestra los examenes  y permite crear un examen. Se implementa en el backend | 6 | Elizabeth Huanaco | Done |
+| HU01 | Registrar nuevo usuario en la plataforma. | TK11 | Muestra y crear nuevo usuario |  Semuestran los alumnos y permite inscribir a nuevos alumnos.Se implementa en el Backend | 6 | Jorge Orrego | Done |
+| HU23 | Cursos actuales en la pantalla de inicio | TK12 | Crear una vista para ver los cursos actuales  | Registra los cursos y valida si ya existen cursos con el mismo nombre  | 4 | Jorge Orrego | Done |
+| HU10 | Subir Material | TK05 | Crea la estructura del curso | El profesor sube material, edita y elimina archivo y/o video. Se implementa en el backend | 8 | Anthony Huapaya | In-Process |
+| HU06 | Validacion y registro a tutorías en línea  | TK05 | Muestra y crea horarios | Se muestra los horarios en el cual el alumno pueda escoger y permite crear un horario. Se implementa en el backend | 8 | Anthony Huapaya | Done |
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review. <a name ="5.2.4.3.">
@@ -2256,13 +2253,13 @@ En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anterio
 | LearnE-Frontend | main | ae7a9aeb52a73c2cab660c2ad03bd5ec10ec0458 | feat(landing page): added first version | feat(landing page): added first version | 06/09/2024 | 
 | LearnE-Backend | develop | 246e2598dce0cebe4cba68e55e1193c7d20a45c0 | chore: created base project | chore: created base project | 29/10/2024 | 
 | LearnE-Backend | develop | ad261f9518f3ac49478c2648618b8453bf116423 | chore: added common classes and resources in shared bounded context | chore: added common classes and resources in shared bounded context | 30/10/2024 | 
-| LearnE-Backend | develop | 2a5e37d4ebea6e162be6de845db9d508e6418a96 | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
-| LearnE-Backend | develop | 2b85d2a020670fef3489e0c41e257064b11db8a4 | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
-| LearnE-Backend | develop | 5bae6a3de7f04de240a05c29103419a63dc71826 |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | 0997450650fd75759231db93e3751bb395813a37 | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
-| LearnE-Backend | develop | 332125ad201f46324dbf70d263f3015394c25c25 | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
-| LearnE-Backend | develop | ad2064192aa60b855940cacf267feaf57fe6fa53 | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
-| LearnE-Backend | develop | b383a9d91ff37801933b5d05e1640fb56e34e67a | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
+| LearnE-Backend | develop |  | feat: created endpoint for create user functionality | feat: created endpoint for create user functionality | 01/11/2024 | 
+| LearnE-Backend | develop |  | feat: created endpoint for sign in functionality | feat: created endpoint for sign in functionality | 01/11/2024 | 
+| LearnE-Backend | develop |  |  chore: added swagger documentation for user endpoints| chore: added swagger documentation for user endpoints | 01/11/2024 | 
+| LearnE-Backend | develop |  | fix: fixed minor errors when saving user data to local database |  fix: fixed minor errors when saving user data to local database| 01/11/2024 | 
+| LearnE-Backend | develop |  | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | Merge pull request #1 from AplicacionesOpenSourceSW51-LearnE/feature/auth-service | 01/11/2024 | 
+| LearnE-Backend | develop |  | feat(learne): created course management endpoints | feat(learne): created course management endpoints | 01/11/2024 | 
+| LearnE-Backend | develop | | Merge branch 'develop' into feature/learne | Merge branch 'develop' into feature/learne | 01/11/2024 | 
 
 
 **Commits vistos desde GitHub:**
