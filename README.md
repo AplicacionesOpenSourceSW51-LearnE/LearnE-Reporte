@@ -2674,6 +2674,11 @@ En el video "About the Product" se presentan las funcionalidades y característi
 ## Conclusiones TB2
 * Durante el desarrollo del TB2 pudimos corregir ciertos puntos de la TP en lo que corresponde del frontend.Ademas complementamos con lo que ahora aprendido que vendira a ser el backend con el lenguaje de java y del despliegue en Mysql
 
+## Conclusiones TF
+* Durante el desarrollo del TF pudimos corregir ciertos puntos de la TB2 en lo que corresponde del backend.Ademas hemos culminado este proyecto con la entrega de tres componentes esenciales: una landing page, una aplicación web y un backend. La landing page funciona como un punto de acceso principal, mostrando de forma clara y atractiva las funcionalidades del sistema. La aplicación web, en cambio, sirve como una plataforma interactiva diseñada para facilitar la interfaz con los usuarios, proporcionando a los usuarios herramientas efectivas para administrar sus acciones. Por su parte, la API permite integraciones con otras herramientas que los usuarios puedan requerir.La integración de estos componentes no solo asegura que LearnE satisfaga las necesidades actuales, sino que también lo prepara estratégicamente para futuras mejoras y expansiones. En conjunto, estos avances garantizan una experiencia de usuario sólida y consistente, optimizando el valor total que nuestra solución ofrece.
+
+
+
 # Bibliografía
 
 Diaz-Infante, N., Lazar, M., Ram, S., & Ray, A. (2022, July 29). Growth in online education. Are providers ready? McKinsey & Company. https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
@@ -2683,6 +2688,11 @@ Día Internacional de la Educación: solo el 30.9 % de jóvenes peruanos logró 
 
 
 Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role of digital technologies in education: A review. Sustainable Operations and Computers, 3, 275–285. https://doi.org/10.1016/J.SUSOC.2022.05.004
+
+
+
+
+
 
 
 # Anexos
