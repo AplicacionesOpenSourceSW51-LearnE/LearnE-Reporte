@@ -2747,7 +2747,7 @@ Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role
 * Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ESTLCv1K7CRIg-W0J5sO-oYBmcCs3VOMQTtLnBr7JF-lWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lpZbpX 
 
 **Video Exposición TF:** 
-* Enlace de la exposición en Microsoft Stream: 
+* Enlace de la exposición en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EdiRZUFt5FpKszx7AzYL0kMBvEyTihr-6IjvbN27p5wc6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xCVy5s 
 
 **Video de las Entrevistas:**
 * Enlace de la entrevista en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EYClDJgI8hRPlC55lteP78ABbGwBXG0G1WnNMHFddqFsDg?e=3Qt3Mq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
